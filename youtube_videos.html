@@ -1,0 +1,117 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>最新视频</title>
+            <style>
+                body { 
+                    font-family: Arial, sans-serif; 
+                    margin: 20px;
+                    background-color: #f9f9f9;
+                }
+                .video-grid {
+                    display: grid;
+                    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                    gap: 20px;
+                    padding: 20px;
+                }
+                .video-card {
+                    background: white;
+                    border-radius: 10px;
+                    overflow: hidden;
+                    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+                    transition: transform 0.2s;
+                }
+                .video-card:hover {
+                    transform: translateY(-5px);
+                }
+                .thumbnail-container {
+                    position: relative;
+                    width: 100%;
+                    padding-top: 56.25%; /* 16:9 宽高比 */
+                }
+                .thumbnail {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+                .video-info {
+                    padding: 15px;
+                }
+                .video-title {
+                    font-size: 16px;
+                    font-weight: bold;
+                    margin-bottom: 8px;
+                    color: #333;
+                }
+                .channel-name {
+                    color: #606060;
+                    font-size: 14px;
+                }
+                h1 {
+                    text-align: center;
+                    color: #333;
+                    margin-bottom: 30px;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>最新视频</h1>
+            <div class="video-grid">
+        
+            <div class="video-card">
+                <a href="https://www.youtube.com/watch?v=lGh53N_Lj2Q" target="_blank">
+                    <div class="thumbnail-container">
+                        <img class="thumbnail" src="https://i.ytimg.com/vi/lGh53N_Lj2Q/maxresdefault.jpg" alt="Connecting visual notes with Obsidian Excalidraw">
+                    </div>
+                </a>
+                <div class="video-info">
+                    <div class="video-title">Connecting visual notes with Obsidian Excalidraw</div>
+                    <div class="channel-name">Nicole van der Hoeven</div>
+                </div>
+            </div>
+            
+            <div class="video-card">
+                <a href="https://www.youtube.com/watch?v=9xz8i90Hp2A" target="_blank">
+                    <div class="thumbnail-container">
+                        <img class="thumbnail" src="https://i.ytimg.com/vi/9xz8i90Hp2A/maxresdefault.jpg" alt="Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454">
+                    </div>
+                </a>
+                <div class="video-info">
+                    <div class="video-title">Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454</div>
+                    <div class="channel-name">Lex Fridman</div>
+                </div>
+            </div>
+            
+            <div class="video-card">
+                <a href="https://www.youtube.com/watch?v=i2amPjZvijo" target="_blank">
+                    <div class="thumbnail-container">
+                        <img class="thumbnail" src="https://i.ytimg.com/vi/i2amPjZvijo/maxresdefault.jpg" alt="iOS 18 promises to fix iPhone repair. But does it?">
+                    </div>
+                </a>
+                <div class="video-info">
+                    <div class="video-title">iOS 18 promises to fix iPhone repair. But does it?</div>
+                    <div class="channel-name">The Verge</div>
+                </div>
+            </div>
+            
+            <div class="video-card">
+                <a href="https://www.youtube.com/watch?v=E76CUtSHMrU" target="_blank">
+                    <div class="thumbnail-container">
+                        <img class="thumbnail" src="https://i.ytimg.com/vi/E76CUtSHMrU/maxresdefault.jpg" alt="Smartphone Awards 2024!">
+                    </div>
+                </a>
+                <div class="video-info">
+                    <div class="video-title">Smartphone Awards 2024!</div>
+                    <div class="channel-name">Marques Brownlee</div>
+                </div>
+            </div>
+            
+            </div>
+        </body>
+        </html>
+        

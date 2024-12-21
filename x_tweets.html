@@ -1,0 +1,153 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Latest Tweets</title>
+        <style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                max-width: 1200px;
+                margin: 0 auto;
+                padding: 20px;
+                background-color: #f9f9f9;
+            }
+            .tweet-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                gap: 20px;
+                padding: 20px 0;
+            }
+            .tweet-card {
+                background: white;
+                border-radius: 12px;
+                overflow: hidden;
+                box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                transition: transform 0.2s ease, box-shadow 0.2s ease;
+            }
+            .tweet-card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+            }
+            .thumbnail-container {
+                position: relative;
+                width: 100%;
+                padding-top: 56.25%;
+                background-color: #f0f0f0;
+            }
+            .thumbnail {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+            .tweet-info {
+                padding: 15px;
+            }
+            .tweet-title {
+                margin: 0;
+                font-size: 16px;
+                font-weight: 600;
+                line-height: 1.4;
+                margin-bottom: 8px;
+                color: #000;
+                display: -webkit-box;
+                -webkit-line-clamp: 2;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+            }
+            .tweet-author {
+                color: #606060;
+                font-size: 14px;
+                margin-bottom: 8px;
+            }
+            .tweet-metrics {
+                color: #606060;
+                font-size: 13px;
+                display: flex;
+                gap: 15px;
+            }
+            .metric {
+                display: flex;
+                align-items: center;
+                gap: 4px;
+            }
+            .tweet-description {
+                color: #606060;
+                font-size: 13px;
+                line-height: 1.4;
+                margin-top: 8px;
+                display: -webkit-box;
+                -webkit-line-clamp: 3;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+            }
+            .tweet-time {
+                color: #606060;
+                font-size: 13px;
+                margin-top: 8px;
+            }
+            a {
+                text-decoration: none;
+                color: inherit;
+            }
+            .header {
+                text-align: center;
+                margin-bottom: 30px;
+                color: #030303;
+            }
+            .header h1 {
+                font-size: 24px;
+                font-weight: 600;
+            }
+            .timestamp {
+                text-align: center;
+                color: #606060;
+                font-size: 14px;
+                margin-top: 30px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Latest Tweets</h1>
+        </div>
+        <div class="tweet-grid">
+    
+            <div class="tweet-card">
+                <a href="https://twitter.com/dotey/status/1870229666180579804#m" target="_blank">
+                    
+                    <div class="tweet-info">
+                        <h3 class="tweet-title">当我用 Cursor 和 ChatGPT o1 辅助写程序的时候，把它当副驾驶（Copilot），自己设计好分解好，效率是很高的，当我想偷懒完全交给 AI，如果要写的东西是简单的，也很好，如果是复杂的...</h3>
+                        <div class="tweet-author">@dotey</div>
+                        <div class="tweet-metrics">
+                            <div class="metric">
+                                <span>💬</span>
+                                <span>0</span>
+                            </div>
+                            <div class="metric">
+                                <span>🔄</span>
+                                <span>0</span>
+                            </div>
+                            <div class="metric">
+                                <span>❤️</span>
+                                <span>0</span>
+                            </div>
+                        </div>
+                        <div class="tweet-description">当我用 Cursor 和 ChatGPT o1 辅助写程序的时候，把它当副驾驶（Copilot），自己设计好分解好，效率是很高的，当我想偷懒完全交给 AI，如果要写的东西是简单的，也很好，如果是复杂的，那么我其实效率是大幅降低的，因为我要花时间去搞懂 AI 是在做什么，并设法让它正常工作，如果它思路不正确，最终可能还是要自己重写。
+
+使用 AI 辅助编程，上限在于使用者的编程水平。还是不能偷懒当甩手掌柜，也不能不学习积累编程知识，否则很难在复杂的任务上驾驭好 AI。</div>
+                        <div class="tweet-time">2024-12-20 22:07:00 UTC UTC</div>
+                    </div>
+                </a>
+            </div>
+        
+        </div>
+        <div class="timestamp">
+            Updated: 2024-12-21 08:45:35
+        </div>
+    </body>
+    </html>
+    
