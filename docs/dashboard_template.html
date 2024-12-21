@@ -40,85 +40,103 @@
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
         .section-title {
-            font-size: 20px;
-            margin: 0 0 20px;
-            color: #333;
-            padding-bottom: 10px;
-            border-bottom: 1px solid #eee;
+            font-size: 24px;
+            font-weight: bold;
+            margin: 30px 0 20px;
+            padding: 10px 20px;
+            background: linear-gradient(45deg, #00a1d6, #00b5e5);
+            color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: left;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .section-title::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            width: 30%;
+            background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.1));
+        }
+        
+        /* 各个部分的特定颜色 */
+        .section:nth-child(1) .section-title {
+            background: linear-gradient(45deg, #1da1f2, #1a91da);  /* Twitter蓝 */
+        }
+        
+        .section:nth-child(2) .section-title {
+            background: linear-gradient(45deg, #00a1d6, #00b5e5);  /* B站蓝 */
+        }
+        
+        .section:nth-child(3) .section-title {
+            background: linear-gradient(45deg, #ff0000, #ff4444);  /* YouTube红 */
         }
         .content-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 20px;
         }
+        /* 卡片样式 */
         .content-card {
-            border: 1px solid #eee;
-            border-radius: 8px;
+            background: #1a1a1a;
+            border-radius: 12px;
             overflow: hidden;
-            transition: transform 0.2s;
-            background: white;
+            transition: transform 0.2s, box-shadow 0.2s;
             height: 100%;
-            display: flex;
-            flex-direction: column;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border: 1px solid #333;
         }
+        
         .content-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
         }
-        .card-thumbnail {
-            width: 100%;
-            height: 169px;
-            object-fit: cover;
-        }
-        .card-content {
-            padding: 15px;
-            flex-grow: 1;
-            display: flex;
-            flex-direction: column;
-        }
-        .card-title {
-            font-size: 16px;
-            font-weight: 600;
-            margin-bottom: 8px;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-            color: #1a1a1a;
-        }
-        .card-author {
-            color: #666;
-            font-size: 14px;
-            margin-bottom: 8px;
-        }
-        .card-time {
-            color: #888;
-            font-size: 13px;
-            margin-bottom: 8px;
-        }
-        .card-description {
-            color: #666;
-            font-size: 14px;
-            display: -webkit-box;
-            -webkit-line-clamp: 3;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-            margin-top: auto;
-        }
-        .empty-message {
-            text-align: center;
-            color: #666;
-            padding: 20px;
-            background: #f5f5f5;
-            border-radius: 8px;
-        }
-        a {
+        
+        .card-link {
+            display: block;
             text-decoration: none;
             color: inherit;
-            display: block;
             height: 100%;
         }
         
+        .thumbnail {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 12px 12px 0 0;
+            border-bottom: 1px solid #333;
+        }
+        
+        .content-card h3 {
+            margin: 16px;
+            font-size: 18px;
+            color: #ffffff;
+            line-height: 1.4;
+        }
+        
+        .content-card .author {
+            margin: 8px 16px;
+            color: #00a1d6;  /* B站蓝色 */
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        .content-card .time {
+            margin: 8px 16px;
+            color: #888;
+            font-size: 12px;
+        }
+        
+        .content-card .content {
+            margin: 8px 16px 16px;
+            color: #bbb;
+            font-size: 14px;
+            line-height: 1.6;
+        }
         /* 移动端适配 */
         @media (max-width: 768px) {
             body {
@@ -143,17 +161,16 @@
                 grid-template-columns: 1fr;
                 gap: 15px;
             }
-            .card-thumbnail {
+            .thumbnail {
                 height: 200px;
             }
-            .card-title {
+            .content-card h3 {
                 font-size: 15px;
             }
-            .card-author, .card-description {
+            .content-card .author, .content-card .content {
                 font-size: 13px;
             }
         }
-        
         /* 深色模式支持 */
         @media (prefers-color-scheme: dark) {
             body {
@@ -164,13 +181,13 @@
                 background: #2d2d2d;
                 border-color: #404040;
             }
-            .card-title {
+            .content-card h3 {
                 color: #fff;
             }
-            .card-author, .card-time {
+            .content-card .author, .content-card .time {
                 color: #bbb;
             }
-            .card-description {
+            .content-card .content {
                 color: #999;
             }
             .empty-message {
@@ -181,6 +198,57 @@
                 border-bottom-color: #404040;
             }
         }
+        /* X平台样式 */
+        .platform-section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .platform-section h2 {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 30px 0 20px;
+            padding: 10px 20px;
+            background: linear-gradient(45deg, #1da1f2, #1a91da);
+            color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: left;
+            position: relative;
+            overflow: hidden;
+        }
+        .platform-section .content-card {
+            background: #1a1a1a;
+            border-radius: 12px;
+            overflow: hidden;
+            transition: transform 0.2s, box-shadow 0.2s;
+            height: 100%;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border: 1px solid #333;
+        }
+        .platform-section .content-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+        }
+        .platform-section .content-header {
+            display: flex;
+            justify-content: space-between;
+            padding: 16px;
+            border-bottom: 1px solid #333;
+        }
+        .platform-section .content-body {
+            padding: 16px;
+        }
+        .platform-section .content-footer {
+            padding: 16px;
+            border-top: 1px solid #333;
+        }
+        .platform-section .view-link {
+            color: #00a1d6;
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
@@ -190,39 +258,38 @@
             <p>更新时间: {{ current_time }}</p>
         </div>
 
-        <!-- YouTube 部分 -->
-        <div class="section">
-            <h2 class="section-title">YouTube 视频</h2>
-            {% if data.youtube %}
-            <div class="content-grid">
-                {% for video in data.youtube %}
-                <a href="{{ video.url }}" target="_blank" class="content-card">
-                    <img src="{{ video.thumbnail }}" alt="{{ video.title }}" class="card-thumbnail">
-                    <div class="card-content">
-                        <div class="card-title">{{ video.title }}</div>
-                        <div class="card-author">{{ video.get('channel', video.get('author', 'Unknown')) }}</div>
-                        <div class="card-description">{{ video.get('description', '') }}</div>
-                    </div>
-                </a>
-                {% endfor %}
+        <!-- X平台部分 -->
+        <div class="platform-section">
+            <h2>X平台</h2>
+            {% for tweet in twitter_data %}
+            <div class="content-card">
+                <div class="content-header">
+                    <span class="author">{{ tweet.author }}</span>
+                    <span class="time">{{ tweet.time }}</span>
+                </div>
+                <div class="content-body">
+                    <p>{{ tweet.content }}</p>
+                </div>
+                <div class="content-footer">
+                    <a href="{{ tweet.url }}" target="_blank" class="view-link">查看原文</a>
+                </div>
             </div>
-            {% else %}
-            <div class="empty-message">未找到YouTube视频</div>
-            {% endif %}
+            {% endfor %}
         </div>
 
         <!-- Twitter 部分 -->
         <div class="section">
-            <h2 class="section-title">Twitter 推文</h2>
+            <h2 class="section-title">𝕏 推文</h2>
             {% if data.twitter %}
             <div class="content-grid">
                 {% for tweet in data.twitter %}
                 <div class="content-card">
-                    <div class="card-content">
-                        <div class="card-author">{{ tweet.author }}</div>
-                        <div class="card-time">{{ tweet.get('time', '') }}</div>
-                        <div class="card-description">{{ tweet.text }}</div>
-                    </div>
+                    <a href="{{ tweet.url }}" target="_blank" class="card-link">
+                        <h3>{{ tweet.title }}</h3>
+                        <div class="author">{{ tweet.author }}</div>
+                        <div class="time">{{ tweet.time }}</div>
+                        <div class="content">{{ tweet.content }}</div>
+                    </a>
                 </div>
                 {% endfor %}
             </div>
@@ -233,23 +300,48 @@
 
         <!-- B站部分 -->
         <div class="section">
-            <h2 class="section-title">B站视频</h2>
+            <h2 class="section-title">哔哩哔哩视频</h2>
             {% if data.bilibili %}
             <div class="content-grid">
                 {% for video in data.bilibili %}
+                <div class="content-card">
+                    <a href="{{ video.url }}" target="_blank" class="card-link">
+                        {% if video.thumbnail %}
+                        <img src="{{ video.thumbnail }}" alt="{{ video.title }}" class="thumbnail" onerror="this.src='https://i0.hdslb.com/bfs/archive/image_placeholder.jpg'"/>
+                        {% else %}
+                        <img src="https://i0.hdslb.com/bfs/archive/image_placeholder.jpg" alt="默认缩略图" class="thumbnail"/>
+                        {% endif %}
+                        <h3>{{ video.title }}</h3>
+                        <div class="author">{{ video.author }}</div>
+                        <div class="time">{{ video.time }}</div>
+                    </a>
+                </div>
+                {% endfor %}
+            </div>
+            {% else %}
+            <div class="empty-message">未找到B站视频</div>
+            {% endif %}
+        </div>
+
+        <!-- YouTube 部分 -->
+        <div class="section">
+            <h2 class="section-title">YouTube 视频</h2>
+            {% if data.youtube %}
+            <div class="content-grid">
+                {% for video in data.youtube %}
                 <a href="{{ video.url }}" target="_blank" class="content-card">
-                    <img src="{{ video.thumbnail }}" alt="{{ video.title }}" class="card-thumbnail">
+                    <img src="{{ video.thumbnail }}" alt="{{ video.title }}" class="thumbnail">
                     <div class="card-content">
-                        <div class="card-title">{{ video.title }}</div>
-                        <div class="card-author">{{ video.get('channel', video.get('author', 'Unknown')) }}</div>
-                        <div class="card-time">{{ video.get('time', '') }}</div>
-                        <div class="card-description">{{ video.get('description', '') }}</div>
+                        <h3>{{ video.title }}</h3>
+                        <div class="author">{{ video.get('channel', video.get('author', 'Unknown')) }}</div>
+                        <div class="time">{{ video.get('time', '') }}</div>
+                        <div class="content">{{ video.get('description', '') }}</div>
                     </div>
                 </a>
                 {% endfor %}
             </div>
             {% else %}
-            <div class="empty-message">未找到B站视频</div>
+            <div class="empty-message">未找到YouTube视频</div>
             {% endif %}
         </div>
     </div>
