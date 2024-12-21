@@ -198,13 +198,70 @@
                 border-bottom-color: #404040;
             }
         }
+        /* X平台样式 */
+        .platform-section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .platform-section h2 {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 30px 0 20px;
+            padding: 10px 20px;
+            background: linear-gradient(45deg, #1da1f2, #1a91da);
+            color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: left;
+            position: relative;
+            overflow: hidden;
+        }
+        .platform-section .content-card {
+            background: #1a1a1a;
+            border-radius: 12px;
+            overflow: hidden;
+            transition: transform 0.2s, box-shadow 0.2s;
+            height: 100%;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border: 1px solid #333;
+        }
+        .platform-section .content-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+        }
+        .platform-section .content-header {
+            display: flex;
+            justify-content: space-between;
+            padding: 16px;
+            border-bottom: 1px solid #333;
+        }
+        .platform-section .content-body {
+            padding: 16px;
+        }
+        .platform-section .content-footer {
+            padding: 16px;
+            border-top: 1px solid #333;
+        }
+        .platform-section .view-link {
+            color: #00a1d6;
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
     <div class="dashboard">
         <div class="header">
             <h1>内容聚合仪表板</h1>
-            <p>更新时间: 2024-12-21 10:44:36</p>
+            <p>更新时间: 2024-12-21 10:54:18</p>
+        </div>
+
+        <!-- X平台部分 -->
+        <div class="platform-section">
+            <h2>X平台</h2>
+            
         </div>
 
         <!-- Twitter 部分 -->
@@ -318,16 +375,6 @@ Somehow my mouse doesn't work yet, so I had to do it with the keyboard but here 
             
             <div class="content-grid">
                 
-                <a href="https://www.youtube.com/watch?v=lGh53N_Lj2Q" target="_blank" class="content-card">
-                    <img src="https://i.ytimg.com/vi/lGh53N_Lj2Q/maxresdefault.jpg" alt="Connecting visual notes with Obsidian Excalidraw" class="thumbnail">
-                    <div class="card-content">
-                        <h3>Connecting visual notes with Obsidian Excalidraw</h3>
-                        <div class="author">Nicole van der Hoeven</div>
-                        <div class="time"></div>
-                        <div class="content"></div>
-                    </div>
-                </a>
-                
                 <a href="https://www.youtube.com/watch?v=9xz8i90Hp2A" target="_blank" class="content-card">
                     <img src="https://i.ytimg.com/vi/9xz8i90Hp2A/maxresdefault.jpg" alt="Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454" class="thumbnail">
                     <div class="card-content">
@@ -338,11 +385,11 @@ Somehow my mouse doesn't work yet, so I had to do it with the keyboard but here 
                     </div>
                 </a>
                 
-                <a href="https://www.youtube.com/watch?v=i2amPjZvijo" target="_blank" class="content-card">
-                    <img src="https://i.ytimg.com/vi/i2amPjZvijo/maxresdefault.jpg" alt="iOS 18 promises to fix iPhone repair. But does it?" class="thumbnail">
+                <a href="https://www.youtube.com/watch?v=lGh53N_Lj2Q" target="_blank" class="content-card">
+                    <img src="https://i.ytimg.com/vi/lGh53N_Lj2Q/maxresdefault.jpg" alt="Connecting visual notes with Obsidian Excalidraw" class="thumbnail">
                     <div class="card-content">
-                        <h3>iOS 18 promises to fix iPhone repair. But does it?</h3>
-                        <div class="author">The Verge</div>
+                        <h3>Connecting visual notes with Obsidian Excalidraw</h3>
+                        <div class="author">Nicole van der Hoeven</div>
                         <div class="time"></div>
                         <div class="content"></div>
                     </div>
@@ -353,6 +400,16 @@ Somehow my mouse doesn't work yet, so I had to do it with the keyboard but here 
                     <div class="card-content">
                         <h3>Smartphone Awards 2024!</h3>
                         <div class="author">Marques Brownlee</div>
+                        <div class="time"></div>
+                        <div class="content"></div>
+                    </div>
+                </a>
+                
+                <a href="https://www.youtube.com/watch?v=i2amPjZvijo" target="_blank" class="content-card">
+                    <img src="https://i.ytimg.com/vi/i2amPjZvijo/maxresdefault.jpg" alt="iOS 18 promises to fix iPhone repair. But does it?" class="thumbnail">
+                    <div class="card-content">
+                        <h3>iOS 18 promises to fix iPhone repair. But does it?</h3>
+                        <div class="author">The Verge</div>
                         <div class="time"></div>
                         <div class="content"></div>
                     </div>
