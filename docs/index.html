@@ -40,11 +40,40 @@
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
         .section-title {
-            font-size: 20px;
-            margin: 0 0 20px;
-            color: #333;
-            padding-bottom: 10px;
-            border-bottom: 1px solid #eee;
+            font-size: 24px;
+            font-weight: bold;
+            margin: 30px 0 20px;
+            padding: 10px 20px;
+            background: linear-gradient(45deg, #00a1d6, #00b5e5);
+            color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: left;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .section-title::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            width: 30%;
+            background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.1));
+        }
+        
+        /* 各个部分的特定颜色 */
+        .section:nth-child(1) .section-title {
+            background: linear-gradient(45deg, #1da1f2, #1a91da);  /* Twitter蓝 */
+        }
+        
+        .section:nth-child(2) .section-title {
+            background: linear-gradient(45deg, #00a1d6, #00b5e5);  /* B站蓝 */
+        }
+        
+        .section:nth-child(3) .section-title {
+            background: linear-gradient(45deg, #ff0000, #ff4444);  /* YouTube红 */
         }
         .content-grid {
             display: grid;
@@ -175,7 +204,47 @@
     <div class="dashboard">
         <div class="header">
             <h1>内容聚合仪表板</h1>
-            <p>更新时间: 2024-12-21 09:50:58</p>
+            <p>更新时间: 2024-12-21 10:30:54</p>
+        </div>
+
+        <!-- Twitter 部分 -->
+        <div class="section">
+            <h2 class="section-title">𝕏 推文</h2>
+            
+            <div class="content-grid">
+                
+                <div class="content-card">
+                    <a href="https://twitter.com/dotey/status/1870229666180579804#m" target="_blank" class="card-link">
+                        <h3>当我用 Cursor 和 ChatGPT o1 辅助写程序的时候，把它当副驾驶（Copilot），自己设计好分解好，效率是很高的，当我想偷懒完全交给 AI，如果要写的东西是简单的，也很好，如果是复杂的...</h3>
+                        <div class="author">宝玉</div>
+                        <div class="time">2024-12-20 22:07:00</div>
+                        <div class="content"></div>
+                    </a>
+                </div>
+                
+            </div>
+            
+        </div>
+
+        <!-- B站部分 -->
+        <div class="section">
+            <h2 class="section-title">哔哩哔哩视频</h2>
+            
+            <div class="content-grid">
+                
+                <div class="content-card">
+                    <a href="https://www.bilibili.com/video/BV1A9BxY7Ebd" target="_blank" class="card-link">
+                        
+                        <img src="https://i2.hdslb.com/bfs/archive/ea0618cd16dfd101bed8e16e262dbfb3bc24d11d.jpg" alt="小显存也能玩FLUXTOOLS丨速来领取！毫无套路" class="thumbnail" onerror="this.src='https://i0.hdslb.com/bfs/archive/image_placeholder.jpg'"/>
+                        
+                        <h3>小显存也能玩FLUXTOOLS丨速来领取！毫无套路</h3>
+                        <div class="author">AI-老X</div>
+                        <div class="time">2024-11-24 17:04:43</div>
+                    </a>
+                </div>
+                
+            </div>
+            
         </div>
 
         <!-- YouTube 部分 -->
@@ -223,46 +292,6 @@
                         <div class="content"></div>
                     </div>
                 </a>
-                
-            </div>
-            
-        </div>
-
-        <!-- Twitter 部分 -->
-        <div class="section">
-            <h2 class="section-title">推文</h2>
-            
-            <div class="content-grid">
-                
-                <div class="content-card">
-                    <a href="https://twitter.com/dotey/status/1870229666180579804#m" target="_blank" class="card-link">
-                        <h3>当我用 Cursor 和 ChatGPT o1 辅助写程序的时候，把它当副驾驶（Copilot），自己设计好分解好，效率是很高的，当我想偷懒完全交给 AI，如果要写的东西是简单的，也很好，如果是复杂的...</h3>
-                        <div class="author">宝玉</div>
-                        <div class="time">2024-12-20 22:07:00</div>
-                        <div class="content"></div>
-                    </a>
-                </div>
-                
-            </div>
-            
-        </div>
-
-        <!-- B站部分 -->
-        <div class="section">
-            <h2 class="section-title">B站视频</h2>
-            
-            <div class="content-grid">
-                
-                <div class="content-card">
-                    <a href="https://www.bilibili.com/video/BV1A9BxY7Ebd" target="_blank" class="card-link">
-                        
-                        <img src="https://i2.hdslb.com/bfs/archive/ea0618cd16dfd101bed8e16e262dbfb3bc24d11d.jpg" alt="小显存也能玩FLUXTOOLS丨速来领取！毫无套路" class="thumbnail" onerror="this.src='https://i0.hdslb.com/bfs/archive/image_placeholder.jpg'"/>
-                        
-                        <h3>小显存也能玩FLUXTOOLS丨速来领取！毫无套路</h3>
-                        <div class="author">AI-老X</div>
-                        <div class="time">2024-11-24 17:04:43</div>
-                    </a>
-                </div>
                 
             </div>
             
