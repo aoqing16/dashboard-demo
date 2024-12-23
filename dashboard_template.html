@@ -3,77 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>内容聚合仪表板</title>
+    <title>内容聚合仪表盘</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css" rel="stylesheet">
     <style>
         body {
+            background-color: #f3f4f6;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background: #f5f5f5;
         }
-        
-        .dashboard {
-            max-width: 1400px;
-            margin: 0 auto;
-        }
-        
-        .platform-section {
-            margin-bottom: 30px;
-        }
-        
-        .platform-header {
-            display: flex;
-            align-items: center;
-            margin-bottom: 15px;
-            padding: 10px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        
-        .platform-icon {
-            width: 24px;
-            height: 24px;
-            margin-right: 10px;
-        }
-        
-        .platform-title {
-            font-size: 1.5em;
-            font-weight: bold;
-            color: #333;
-        }
-        
         .content-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 20px;
+            gap: 1.5rem;
+            padding: 1.5rem;
         }
-        
         .content-card {
             background: white;
-            border-radius: 8px;
+            border-radius: 12px;
             overflow: hidden;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             transition: transform 0.2s;
         }
-        
         .content-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            transform: translateY(-4px);
         }
-        
-        .card-link {
-            text-decoration: none;
-            color: inherit;
-        }
-        
-        .thumbnail-container {
-            position: relative;
-            width: 100%;
-            padding-top: 56.25%; /* 16:9 宽高比 */
-        }
-        
         .thumbnail {
+            position: relative;
+            padding-top: 56.25%;
+            overflow: hidden;
+        }
+        .thumbnail img {
             position: absolute;
             top: 0;
             left: 0;
@@ -81,98 +40,150 @@
             height: 100%;
             object-fit: cover;
         }
-        
-        .video-info {
-            padding: 15px;
+        .content-info {
+            padding: 1rem;
         }
-        
-        .video-info h3 {
-            margin: 0 0 10px 0;
-            font-size: 1.1em;
-            color: #333;
+        .content-info h3 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #1a1a1a;
             display: -webkit-box;
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
         }
-        
-        .author {
-            color: #666;
-            font-size: 0.9em;
-            margin-bottom: 5px;
+        .content-info a {
+            color: inherit;
+            text-decoration: none;
         }
-        
-        .timestamp {
-            color: #999;
-            font-size: 0.8em;
+        .channel-name {
+            color: #2563eb;
+            font-weight: 500;
+            margin-bottom: 0.25rem;
         }
-        
-        .empty-message {
-            text-align: center;
-            padding: 20px;
-            color: #666;
+        .meta {
+            color: #6b7280;
+            font-size: 0.875rem;
+        }
+        .filter-section {
             background: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        .date-picker {
+            padding: 0.5rem;
+            border: 1px solid #e5e7eb;
+            border-radius: 0.375rem;
+            margin-right: 1rem;
+        }
+        .filter-button {
+            background-color: #2563eb;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 0.375rem;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        .filter-button:hover {
+            background-color: #1d4ed8;
         }
     </style>
 </head>
 <body>
-    <div class="dashboard">
-        <!-- YouTube Section -->
-        <section class="platform-section" id="youtube-section">
-            <div class="platform-header">
-                <img src="https://www.youtube.com/favicon.ico" alt="YouTube" class="platform-icon">
-                <div class="platform-title">YouTube</div>
+    <div class="container mx-auto px-4 py-8">
+        <div class="filter-section rounded-lg shadow-sm">
+            <h2 class="text-2xl font-bold mb-4">内容聚合仪表盘</h2>
+            <div class="flex items-center">
+                <input type="text" id="datePicker" class="date-picker" placeholder="选择日期">
+                <button id="filterButton" class="filter-button">筛选</button>
             </div>
-            <div class="content-grid">
-                <!-- YOUTUBE_CONTENT -->
-            </div>
-        </section>
+        </div>
+        
+        <div class="content-grid" id="content-container">
+            <!-- YouTube Section -->
+            <section class="platform-section" id="youtube-section">
+                <div class="platform-header">
+                    <img src="https://www.youtube.com/favicon.ico" alt="YouTube" class="platform-icon">
+                    <div class="platform-title">YouTube</div>
+                </div>
+                <div class="content-grid">
+                    <!-- YOUTUBE_CONTENT -->
+                </div>
+            </section>
 
-        <!-- Bilibili Section -->
-        <section class="platform-section" id="bilibili-section">
-            <div class="platform-header">
-                <img src="https://www.bilibili.com/favicon.ico" alt="哔哩哔哩" class="platform-icon">
-                <div class="platform-title">哔哩哔哩</div>
-            </div>
-            <div class="content-grid">
-                <!-- BILIBILI_CONTENT -->
-            </div>
-        </section>
+            <!-- Bilibili Section -->
+            <section class="platform-section" id="bilibili-section">
+                <div class="platform-header">
+                    <img src="https://www.bilibili.com/favicon.ico" alt="Bilibili" class="platform-icon">
+                    <div class="platform-title">哔哩哔哩</div>
+                </div>
+                <div class="content-grid">
+                    <!-- BILIBILI_CONTENT -->
+                </div>
+            </section>
 
-        <!-- Twitter/X Section -->
-        <section class="platform-section" id="twitter-section">
-            <div class="platform-header">
-                <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc727a.png" alt="Twitter/X" class="platform-icon">
-                <div class="platform-title">Twitter/X</div>
-            </div>
-            <div class="content-grid">
-                <!-- TWITTER_CONTENT -->
-            </div>
-        </section>
+            <!-- X/Twitter Section -->
+            <section class="platform-section" id="twitter-section">
+                <div class="platform-header">
+                    <img src="https://twitter.com/favicon.ico" alt="X" class="platform-icon">
+                    <div class="platform-title">X/Twitter</div>
+                </div>
+                <div class="content-grid">
+                    <!-- TWITTER_CONTENT -->
+                </div>
+            </section>
 
-        <!-- Xiaohongshu Section -->
-        <section class="platform-section" id="xiaohongshu-section">
-            <div class="platform-header">
-                <img src="https://ci.xiaohongshu.com/favicon.ico" alt="小红书" class="platform-icon">
-                <div class="platform-title">小红书</div>
-            </div>
-            <div class="content-grid">
-                <!-- XIAOHONGSHU_CONTENT -->
-            </div>
-        </section>
+            <!-- Xiaohongshu Section -->
+            <section class="platform-section" id="xiaohongshu-section">
+                <div class="platform-header">
+                    <img src="https://www.xiaohongshu.com/favicon.ico" alt="小红书" class="platform-icon">
+                    <div class="platform-title">小红书</div>
+                </div>
+                <div class="content-grid">
+                    <!-- XIAOHONGSHU_CONTENT -->
+                </div>
+            </section>
 
-        <!-- Podcast Section -->
-        <section class="platform-section" id="podcast-section">
-            <div class="platform-header">
-                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 1a9 9 0 0 1 9 9v7a3 3 0 0 1-3 3h-3v-2h3a1 1 0 0 0 1-1v-7a7 7 0 0 0-14 0v7a1 1 0 0 0 1 1h3v2H6a3 3 0 0 1-3-3v-7a9 9 0 0 1 9-9zm0 6a3 3 0 0 1 3 3v8a3 3 0 0 1-6 0v-8a3 3 0 0 1 3-3z'/></svg>" alt="播客" class="platform-icon">
-                <div class="platform-title">播客</div>
-            </div>
-            <div class="content-grid">
-                <!-- PODCAST_CONTENT -->
-            </div>
-        </section>
+            <!-- Podcast Section -->
+            <section class="platform-section" id="podcast-section">
+                <div class="platform-header">
+                    <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 1a9 9 0 0 1 9 9v7a3 3 0 0 1-3 3h-3v-2h3a1 1 0 0 0 1-1v-7a7 7 0 0 0-14 0v7a1 1 0 0 0 1 1h3v2H6a3 3 0 0 1-3-3v-7a9 9 0 0 1 9-9zm0 6a3 3 0 0 1 3 3v8a3 3 0 0 1-6 0v-8a3 3 0 0 1 3-3z'/></svg>" alt="播客" class="platform-icon">
+                    <div class="platform-title">播客</div>
+                </div>
+                <div class="content-grid">
+                    <!-- PODCAST_CONTENT -->
+                </div>
+            </section>
+        </div>
     </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr/dist/l10n/zh.js"></script>
+    <script>
+        // 初始化日期选择器
+        flatpickr("#datePicker", {
+            locale: "zh",
+            dateFormat: "Y-m-d",
+            maxDate: "today",
+        });
+
+        // 筛选功能
+        document.getElementById('filterButton').addEventListener('click', function() {
+            const selectedDate = document.getElementById('datePicker').value;
+            const cards = document.querySelectorAll('.content-card');
+            
+            cards.forEach(card => {
+                const cardDate = card.getAttribute('data-date').split(' ')[0];
+                if (!selectedDate || cardDate === selectedDate) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+    </script>
 </body>
 </html>
