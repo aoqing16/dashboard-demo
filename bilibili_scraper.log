@@ -1,0 +1,221 @@
+2024-12-21 15:40:40,598 - INFO - 激活 buvid3: [BB47539B-8157-11D8-FFFD-D3230E6C580A40244infoc] 成功
+2024-12-21 15:40:41,109 - ERROR - 获取用户 2 的视频时出错: 接口返回错误代码：-352，信息：风控校验失败。
+{'code': -352, 'message': '风控校验失败', 'ttl': 1, 'data': {'v_voucher': 'voucher_2ae49fc2-d75d-41bd-88a4-36a31895a1e4'}}
+2024-12-21 15:40:41,411 - ERROR - 获取用户 703007996 的视频时出错: 接口返回错误代码：-352，信息：风控校验失败。
+{'code': -352, 'message': '风控校验失败', 'ttl': 1, 'data': {'v_voucher': 'voucher_d4b08d25-37cc-48f8-a0de-24aa237c2ea9'}}
+2024-12-21 15:40:41,691 - ERROR - 获取用户 546195 的视频时出错: 接口返回错误代码：-352，信息：风控校验失败。
+{'code': -352, 'message': '风控校验失败', 'ttl': 1, 'data': {'v_voucher': 'voucher_ea743642-eada-4a11-ac1d-fa8e1638b90e'}}
+2024-12-21 15:45:44,458 - INFO - 成功加载B站凭证
+2024-12-21 15:45:47,715 - ERROR - 获取用户 5758057 的视频时出错: 接口返回错误代码：-352，信息：风控校验失败。
+{'code': -352, 'message': '风控校验失败', 'ttl': 1, 'data': {'v_voucher': 'voucher_270b162b-8126-4bd0-b553-6a657b051da7'}}
+2024-12-21 15:46:07,322 - INFO - 成功加载B站凭证
+2024-12-21 15:46:09,559 - ERROR - 获取用户 5758057 的视频时出错: 接口返回错误代码：-352，信息：风控校验失败。
+{'code': -352, 'message': '风控校验失败', 'ttl': 1, 'data': {'v_voucher': 'voucher_434fc407-266d-42cc-b3b1-f92733eb6c6d'}}
+2024-12-21 15:46:46,647 - INFO - 成功加载B站凭证
+2024-12-21 15:46:46,649 - INFO - 正在获取用户 5758057 的信息...
+2024-12-21 15:46:47,805 - ERROR - 获取用户 5758057 的视频时出错: 接口返回错误代码：-352，信息：风控校验失败。
+{'code': -352, 'message': '风控校验失败', 'ttl': 1, 'data': {'v_voucher': 'voucher_2dab8b2a-cc7a-4c85-8bc8-d9bcc8ed0dbe'}}
+2024-12-21 15:48:41,978 - INFO - 成功加载B站Cookie
+2024-12-21 15:48:41,978 - INFO - 正在获取用户空间页面: https://space.bilibili.com/5758057/video
+2024-12-21 15:48:43,822 - ERROR - 获取用户 5758057 的视频时出错: 'NoneType' object has no attribute 'text'
+2024-12-21 15:49:20,580 - INFO - 成功加载B站Cookie
+2024-12-21 15:49:20,580 - INFO - 正在获取最新视频信息...
+2024-12-21 15:49:25,033 - WARNING - 未找到用户 5758057 的视频
+2024-12-21 15:49:44,683 - INFO - 成功加载B站Cookie
+2024-12-21 15:49:44,683 - INFO - 正在获取最新视频信息...
+2024-12-21 15:49:49,395 - INFO - API响应: {'code': -799, 'message': '请求过于频繁，请稍后再试', 'ttl': 1}
+2024-12-21 15:49:49,395 - WARNING - 未找到用户 5758057 的视频
+2024-12-21 15:50:35,700 - INFO - 成功加载B站Cookie
+2024-12-21 15:50:35,701 - INFO - 正在获取最新视频信息...
+2024-12-21 15:50:43,012 - INFO - API响应: {'code': -799, 'message': '请求过于频繁，请稍后再试', 'ttl': 1}
+2024-12-21 15:50:43,012 - WARNING - 触发请求频率限制，等待更长时间后重试...
+2024-12-21 15:50:57,495 - INFO - 重试后API响应: {'code': -799, 'message': '请求过于频繁，请稍后再试', 'ttl': 1}
+2024-12-21 15:50:57,495 - WARNING - 未找到用户 5758057 的视频
+2024-12-21 15:51:29,191 - INFO - 成功加载B站Cookie
+2024-12-21 15:51:29,192 - INFO - 正在获取最新视频信息...
+2024-12-21 15:51:36,895 - ERROR - 获取用户 5758057 的视频时出错: 404 Client Error: Not Found for url: https://api.bilibili.com/x/v2/space/wbi/arc/search?mid=5758057&ps=1&pn=1&platform=android&order=pubdate
+2024-12-21 15:52:18,495 - INFO - 成功加载B站Cookie
+2024-12-21 15:52:18,495 - INFO - 正在获取最新视频信息...
+2024-12-21 15:52:26,851 - INFO - API响应: {'code': 0, 'message': '0', 'ttl': 1, 'data': {'list': {'slist': [], 'tlist': {'188': {'tid': 188, 'count': 30, 'name': '科技'}}, 'vlist': [{'comment': 9, 'typeid': 231, 'play': 1125, 'pic': 'http://i2.hdslb.com/bfs/archive/ea0618cd16dfd101bed8e16e262dbfb3bc24d11d.jpg', 'subtitle': '', 'description': 'https://（括号和括号里内容删掉）pan.quark.cn/s/38fe13b1fedb\n提取码：n1Ds', 'copyright': '1', 'title': '小显存也能玩FLUXTOOLS丨速来领取！毫无套路', 'review': 0, 'author': 'AI-老X', 'mid': 5758057, 'created': 1732439083, 'length': '02:29', 'video_review': 0, 'aid': 113537125063449, 'bvid': 'BV1A9BxY7Ebd', 'hide_click': False, 'is_pay': 0, 'is_union_video': 0, 'is_steins_gate': 0, 'is_live_playback': 0, 'is_lesson_video': 0, 'is_lesson_finished': 0, 'lesson_update_info': '', 'jump_url': '', 'meta': None, 'is_avoided': 0, 'season_id': 0, 'attribute': 16512, 'is_charging_arc': False, 'elec_arc_type': 0, 'vt': 0, 'enable_vt': 0, 'vt_display': '', 'playback_position': 4, 'is_self_view': False}]}, 'page': {'pn': 1, 'ps': 1, 'count': 30}, 'is_risk': False, 'gaia_res_type': 0, 'gaia_data': None}}
+2024-12-21 15:52:32,915 - INFO - 成功获取视频: 小显存也能玩FLUXTOOLS丨速来领取！毫无套路
+2024-12-21 15:52:36,591 - INFO - 已保存视频信息到 bilibili_videos.json
+2024-12-21 15:56:10,442 - ERROR - 运行爬虫时出错: 'BilibiliScraper' object has no attribute 'get_latest_video'
+2024-12-21 15:56:25,255 - INFO - 正在获取用户 5758057 的最新视频...
+2024-12-21 15:56:28,816 - WARNING - 未找到用户 5758057 的视频
+2024-12-21 15:56:53,342 - INFO - 正在获取用户 5758057 的最新视频...
+2024-12-21 15:56:56,464 - WARNING - 未找到用户 5758057 的视频
+2024-12-21 15:57:22,900 - INFO - 正在获取用户 5758057 的最新视频...
+2024-12-21 15:57:27,485 - INFO - API响应: {'code': -799, 'message': '请求过于频繁，请稍后再试', 'ttl': 1}
+2024-12-21 15:57:27,485 - WARNING - 未找到用户 5758057 的视频
+2024-12-21 15:58:45,309 - INFO - 正在获取用户 5758057 的最新视频...
+2024-12-21 15:58:50,376 - INFO - API响应: {'code': -799, 'message': '请求过于频繁，请稍后再试', 'ttl': 1}
+2024-12-21 15:58:50,376 - WARNING - 触发请求频率限制，等待后重试...
+2024-12-21 15:59:00,379 - INFO - 重试后API响应: {'code': -799, 'message': '请求过于频繁，请稍后再试', 'ttl': 1}
+2024-12-21 15:59:00,379 - WARNING - 未找到用户 5758057 的视频
+2024-12-21 15:59:33,640 - INFO - 正在获取用户 5758057 的最新视频...
+2024-12-21 15:59:38,411 - INFO - API响应: {'code': -352, 'message': '风控校验失败', 'ttl': 1, 'data': {'v_voucher': 'voucher_98177fae-4574-483d-b8ce-64a5605a639a'}}
+2024-12-21 15:59:38,411 - WARNING - 未找到用户 5758057 的视频
+2024-12-21 16:00:10,341 - INFO - 正在获取用户 5758057 的最新视频...
+2024-12-21 16:00:15,202 - INFO - API响应: {'code': -799, 'message': '请求过于频繁，请稍后再试', 'ttl': 1}
+2024-12-21 16:00:15,203 - WARNING - 触发请求频率限制，等待后重试...
+2024-12-21 16:00:23,263 - INFO - 重试后API响应: {'code': -799, 'message': '请求过于频繁，请稍后再试', 'ttl': 1}
+2024-12-21 16:00:23,264 - WARNING - 未找到用户 5758057 的视频
+2024-12-21 16:00:53,878 - INFO - 正在获取用户 5758057 的最新视频...
+2024-12-21 16:01:09,717 - INFO - API响应: {'code': -799, 'message': '请求过于频繁，请稍后再试', 'ttl': 1}
+2024-12-21 16:01:09,718 - WARNING - 触发请求频率限制，等待后重试...
+2024-12-21 16:01:30,581 - INFO - 重试后API响应: {'code': -799, 'message': '请求过于频繁，请稍后再试', 'ttl': 1}
+2024-12-21 16:01:30,581 - WARNING - 未找到用户 5758057 的视频
+2024-12-21 16:02:06,065 - INFO - 正在获取用户 5758057 的最新视频...
+2024-12-21 16:02:24,443 - INFO - API响应: {'code': -352, 'message': '风控校验失败', 'ttl': 1, 'data': {'v_voucher': 'voucher_9cb29f56-c184-43e1-9a67-5465213f601f'}}
+2024-12-21 16:02:24,443 - WARNING - 未找到用户 5758057 的视频
+2024-12-21 16:02:57,040 - INFO - 正在获取用户 520819684 的最新视频...
+2024-12-21 16:03:19,144 - INFO - API响应: {'code': -352, 'message': '风控校验失败', 'ttl': 1, 'data': {'v_voucher': 'voucher_9f4eff2e-015a-402e-a762-9b8e7ad32264'}}
+2024-12-21 16:03:19,144 - WARNING - 未找到用户 520819684 的视频
+2024-12-21 16:05:02,869 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:05:18,742 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 16:05:46,302 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:06:01,770 - INFO - 页面内容：<!DOCTYPE html><html><head><meta name="spm_prefix" content="333.999"><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="renderer" content="webkit|ie-comp|ie-stand"><meta name="referrer" content="no-referrer-when-downgrade"><meta name="applicable-device" content="pc"><script id="__RENDER_DATA__" type="application/json">%7B%22access_id%22%3A%22eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzcG1faWQiOiIwLjAiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiY3JlYXRlZF9hdCI6MTczNDc2ODM2MSwidHRsIjo4NjQwMCwidXJsIjoiLzUyMDgxOTY4NC92aWRlbyIsInJlc3VsdCI6Im5vcm1hbCIsImlzcyI6ImdhaWEiLCJpYXQiOjE3MzQ3NjgzNjF9.Zvbvo5dlbxmfyLFZxxnlyMoc94qCtoK0iTGS3AIXdkV9U2nMgYmdtY2N_hiSuVvms8q73OMA8bvHWQlFUQ7KL-K24E_Vncmt8fhvKUh7zPMX9sEGlO2qT7b0ttXzXYGIgbwJheLqwA107cwq4uEQjKQkrl-QNvHPTxCt4WoDwJy9X1yFwBDVgNntnDWCG61Ulxx0j6pNKbtdzBV9znIRLPND-GBnr_GffcJM2T9yV9XhG
+2024-12-21 16:06:01,770 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 16:06:30,794 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:06:46,272 - INFO - 渲染数据: {"access_id": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzcG1faWQiOiIwLjAiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiY3JlYXRlZF9hdCI6MTczNDc2ODQwNiwidHRsIjo4NjQwMCwidXJsIjoiLzUyMDgxOTY4NC92aWRlbyIsInJlc3VsdCI6Im5vcm1hbCIsImlzcyI6ImdhaWEiLCJpYXQiOjE3MzQ3Njg0MDZ9.aRU6vV_JlsjNR98XsOudiSyALjrWrfC5PJ_l05HsNbhuly_vgSr-4LgMvWss-v3Hpb9Ks9fdthq9OlG7-lYvQW5c6FmTZty6Ul0Y2vjJoYRRAZrFohX-WkcnHR0uHlcrikmXEXgMVF1-HzX52Jx2ev1w6l8TCxjcKAAwGjBiuOlvkv6Z-ttvohNqxzsn8HPXZ6ALZe_nvr1G6dK9xPjWJan-vtarZ1rMS4Cmxx7-Z7oJgDgtaDQiDUhMNB6aQQjXvKACvd22lpWRkJ6eha1DsoAsdjbILeZIPx_jXU2h2QndBLCmY9cGyVz_l39ZigpMzt0xJ8D9RPT0KKRCkHC2ow"}
+2024-12-21 16:06:46,272 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 16:07:18,786 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:07:40,457 - INFO - 用户信息响应: {"code": 0, "message": "0", "ttl": 1, "data": {"card": {"mid": "520819684", "name": "小Lin说", "approve": false, "sex": "女", "rank": "10000", "face": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg", "face_nft": 0, "face_nft_type": 0, "DisplayRank": "0", "regtime": 0, "spacesta": 0, "birthday": "", "place": "", "description": "", "article": 0, "attentions": [], "fans": 5199731, "friend": 63, "attention": 63, "sign": "Whaat?! 人世间竟有如此有趣又有料的天仙!!\n北大->哥大->摩根大通->创业\n合作xiao_lin_shuo@163.com", "level_info": {"current_level": 6, "current_min": 0, "current_exp": 0, "next_exp": 0}, "pendant": {"pid": 0, "name": "", "image": "", "expire": 0, "image_enhance": "", "image_enhance_frame": "", "n_pid": 0}, "nameplate": {"nid": 3, "name": "白银殿堂", "image": "https://i0.hdslb.com/bfs/face/f6a31275029365ae5dc710006585ddcf1139bde1.png", "image_small": "https://i2.hdslb.com/bfs/face/b09cdb4c119c467cf2d15db5263b4f539fa6e30b.png", "level": "高级勋章", "condition": "单个自制视频总播放数>=10万"}, "Official": {"role": 7, "title": "2023百大UP主、知识领域优质UP主", "desc": "", "type": 0}, "official_verify": {"type": 0, "desc": "2023百大UP主、知识领域优质UP主"}, "vip": {"type": 2, "status": 1, "due_date": 1752595200000, "vip_pay_type": 1, "theme_type": 0, "label": {"path": "", "text": "年度大会员", "label_theme": "annual_vip", "text_color": "#FFFFFF", "bg_style": 1, "bg_color": "#FB7299", "border_color": "", "use_img_label": true, "img_label_uri_hans": "", "img_label_uri_hant": "", "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png", "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"}, "avatar_subscript": 1, "nickname_color": "#FB7299", "role": 3, "avatar_subscript_url": "", "tv_vip_status": 0, "tv_vip_pay_type": 0, "tv_due_date": 0, "avatar_icon": {"icon_type": 1, "icon_resource": {}}, "vipType": 2, "vipStatus": 1}, "is_senior_member": 0, "name_render": null}, "following": false, "archive_count": 142, "article_count": 0, "follower": 5199731, "like_num": 11060911}}
+2024-12-21 16:07:50,063 - ERROR - 获取用户 520819684 的视频时出错: HTTPSConnectionPool(host='api.bilibili.com', port=443): Max retries exceeded with url: /x/space/wbi/arc/search?mid=520819684&ps=1&tid=0&pn=1&order=pubdate&platform=web&web_location=1550101&w_rid=7&wts=1734768460 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+2024-12-21 16:08:21,871 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:08:44,611 - INFO - 用户信息响应: {"code": 0, "message": "0", "ttl": 1, "data": {"card": {"mid": "520819684", "name": "小Lin说", "approve": false, "sex": "女", "rank": "10000", "face": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg", "face_nft": 0, "face_nft_type": 0, "DisplayRank": "0", "regtime": 0, "spacesta": 0, "birthday": "", "place": "", "description": "", "article": 0, "attentions": [], "fans": 5199733, "friend": 63, "attention": 63, "sign": "Whaat?! 人世间竟有如此有趣又有料的天仙!!\n北大->哥大->摩根大通->创业\n合作xiao_lin_shuo@163.com", "level_info": {"current_level": 6, "current_min": 0, "current_exp": 0, "next_exp": 0}, "pendant": {"pid": 0, "name": "", "image": "", "expire": 0, "image_enhance": "", "image_enhance_frame": "", "n_pid": 0}, "nameplate": {"nid": 3, "name": "白银殿堂", "image": "https://i1.hdslb.com/bfs/face/f6a31275029365ae5dc710006585ddcf1139bde1.png", "image_small": "https://i1.hdslb.com/bfs/face/b09cdb4c119c467cf2d15db5263b4f539fa6e30b.png", "level": "高级勋章", "condition": "单个自制视频总播放数>=10万"}, "Official": {"role": 7, "title": "2023百大UP主、知识领域优质UP主", "desc": "", "type": 0}, "official_verify": {"type": 0, "desc": "2023百大UP主、知识领域优质UP主"}, "vip": {"type": 2, "status": 1, "due_date": 1752595200000, "vip_pay_type": 1, "theme_type": 0, "label": {"path": "", "text": "年度大会员", "label_theme": "annual_vip", "text_color": "#FFFFFF", "bg_style": 1, "bg_color": "#FB7299", "border_color": "", "use_img_label": true, "img_label_uri_hans": "", "img_label_uri_hant": "", "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png", "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"}, "avatar_subscript": 1, "nickname_color": "#FB7299", "role": 3, "avatar_subscript_url": "", "tv_vip_status": 0, "tv_vip_pay_type": 0, "tv_due_date": 0, "avatar_icon": {"icon_type": 1, "icon_resource": {}}, "vipType": 2, "vipStatus": 1}, "is_senior_member": 0, "name_render": null}, "following": false, "archive_count": 142, "article_count": 0, "follower": 5199733, "like_num": 11060933}}
+2024-12-21 16:08:53,602 - INFO - 视频列表响应: {"code": -799, "message": "请求过于频繁，请稍后再试", "ttl": 1}
+2024-12-21 16:08:53,602 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 16:09:39,456 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:10:24,147 - INFO - 用户信息响应: {"code": 0, "message": "0", "ttl": 1, "data": {"card": {"mid": "520819684", "name": "小Lin说", "approve": false, "sex": "女", "rank": "10000", "face": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg", "face_nft": 0, "face_nft_type": 0, "DisplayRank": "0", "regtime": 0, "spacesta": 0, "birthday": "", "place": "", "description": "", "article": 0, "attentions": [], "fans": 5199736, "friend": 63, "attention": 63, "sign": "Whaat?! 人世间竟有如此有趣又有料的天仙!!\n北大->哥大->摩根大通->创业\n合作xiao_lin_shuo@163.com", "level_info": {"current_level": 6, "current_min": 0, "current_exp": 0, "next_exp": 0}, "pendant": {"pid": 0, "name": "", "image": "", "expire": 0, "image_enhance": "", "image_enhance_frame": "", "n_pid": 0}, "nameplate": {"nid": 3, "name": "白银殿堂", "image": "https://i0.hdslb.com/bfs/face/f6a31275029365ae5dc710006585ddcf1139bde1.png", "image_small": "https://i1.hdslb.com/bfs/face/b09cdb4c119c467cf2d15db5263b4f539fa6e30b.png", "level": "高级勋章", "condition": "单个自制视频总播放数>=10万"}, "Official": {"role": 7, "title": "2023百大UP主、知识领域优质UP主", "desc": "", "type": 0}, "official_verify": {"type": 0, "desc": "2023百大UP主、知识领域优质UP主"}, "vip": {"type": 2, "status": 1, "due_date": 1752595200000, "vip_pay_type": 1, "theme_type": 0, "label": {"path": "", "text": "年度大会员", "label_theme": "annual_vip", "text_color": "#FFFFFF", "bg_style": 1, "bg_color": "#FB7299", "border_color": "", "use_img_label": true, "img_label_uri_hans": "", "img_label_uri_hant": "", "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png", "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"}, "avatar_subscript": 1, "nickname_color": "#FB7299", "role": 3, "avatar_subscript_url": "", "tv_vip_status": 0, "tv_vip_pay_type": 0, "tv_due_date": 0, "avatar_icon": {"icon_type": 1, "icon_resource": {}}, "vipType": 2, "vipStatus": 1}, "is_senior_member": 0, "name_render": null}, "following": false, "archive_count": 142, "article_count": 0, "follower": 5199736, "like_num": 11060933}}
+2024-12-21 16:10:44,508 - INFO - 视频列表响应: {"code": -799, "message": "请求过于频繁，请稍后再试", "ttl": 1}
+2024-12-21 16:10:44,508 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 16:11:23,666 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:11:48,807 - INFO - 渲染数据: {"access_id": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzcG1faWQiOiIwLjAiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiY3JlYXRlZF9hdCI6MTczNDc2ODcwOCwidHRsIjo4NjQwMCwidXJsIjoiLzUyMDgxOTY4NC92aWRlbyIsInJlc3VsdCI6Im5vcm1hbCIsImlzcyI6ImdhaWEiLCJpYXQiOjE3MzQ3Njg3MDh9.WSPQPBHYkqKcZImqSMLspR1pOCTiasFbUhsDdgKAvsPnKmE_m1ChgZTrTxyZ4o64LcrBc_YJS9R5npeWNDkSnlfBKCEfJBIqzkPnwBYMm5i5HsJ3Dr0oKegAPdK9ETOA53ETP92DnqgvB7X_HdRwyYztk500Fw3T7U2HbGPy-d7PkyXxly7IVtL8vJJDuPpm4xug2AUWHbvJOW9_EAJiTI9zsexfCdvUbMoUgerspo-vTjCxaN-8Sn0N1WdH9wvDneb7wL36zBRvJ83rMEXJEXNk2o0sLBRUsrGYuZwE_189tdHSiFRWV51tPe6Os9S5va9xerIF4CPV7GvRT81k4A"}
+2024-12-21 16:12:06,061 - INFO - 用户信息响应: {"code": 0, "message": "0", "ttl": 1, "data": {"card": {"mid": "520819684", "name": "小Lin说", "approve": false, "sex": "女", "rank": "10000", "face": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg", "face_nft": 0, "face_nft_type": 0, "DisplayRank": "0", "regtime": 0, "spacesta": 0, "birthday": "", "place": "", "description": "", "article": 0, "attentions": [], "fans": 5199738, "friend": 63, "attention": 63, "sign": "Whaat?! 人世间竟有如此有趣又有料的天仙!!\n北大->哥大->摩根大通->创业\n合作xiao_lin_shuo@163.com", "level_info": {"current_level": 6, "current_min": 0, "current_exp": 0, "next_exp": 0}, "pendant": {"pid": 0, "name": "", "image": "", "expire": 0, "image_enhance": "", "image_enhance_frame": "", "n_pid": 0}, "nameplate": {"nid": 3, "name": "白银殿堂", "image": "https://i0.hdslb.com/bfs/face/f6a31275029365ae5dc710006585ddcf1139bde1.png", "image_small": "https://i1.hdslb.com/bfs/face/b09cdb4c119c467cf2d15db5263b4f539fa6e30b.png", "level": "高级勋章", "condition": "单个自制视频总播放数>=10万"}, "Official": {"role": 7, "title": "2023百大UP主、知识领域优质UP主", "desc": "", "type": 0}, "official_verify": {"type": 0, "desc": "2023百大UP主、知识领域优质UP主"}, "vip": {"type": 2, "status": 1, "due_date": 1752595200000, "vip_pay_type": 1, "theme_type": 0, "label": {"path": "", "text": "年度大会员", "label_theme": "annual_vip", "text_color": "#FFFFFF", "bg_style": 1, "bg_color": "#FB7299", "border_color": "", "use_img_label": true, "img_label_uri_hans": "", "img_label_uri_hant": "", "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png", "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"}, "avatar_subscript": 1, "nickname_color": "#FB7299", "role": 3, "avatar_subscript_url": "", "tv_vip_status": 0, "tv_vip_pay_type": 0, "tv_due_date": 0, "avatar_icon": {"icon_type": 1, "icon_resource": {}}, "vipType": 2, "vipStatus": 1}, "is_senior_member": 0, "name_render": null}, "following": false, "archive_count": 142, "article_count": 0, "follower": 5199738, "like_num": 11060958}}
+2024-12-21 16:12:24,232 - INFO - 视频列表响应: {"code": -799, "message": "请求过于频繁，请稍后再试", "ttl": 1}
+2024-12-21 16:12:24,232 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 16:13:04,480 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:13:30,988 - INFO - 渲染数据: {"access_id": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzcG1faWQiOiIwLjAiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiY3JlYXRlZF9hdCI6MTczNDc2ODgxMCwidHRsIjo4NjQwMCwidXJsIjoiLzUyMDgxOTY4NC92aWRlbyIsInJlc3VsdCI6Im5vcm1hbCIsImlzcyI6ImdhaWEiLCJpYXQiOjE3MzQ3Njg4MTB9.eETYIdNhhxpzv8QvHLXc5xta2Ces3_IFq5-ed18O7HRbeNiwvR2mp5nrz7zKYTbA_BjF5_wjk2gjLQnpHrHX6PdvHwO8cnYoCkTrvLyh5uHPtfuEPJ73ViSAsidnDu2F7YWeVF7BiuABcukqCqFrqDgmmOVnJ4cxbKNk_aYLMtG9FEijTHA9njYVDle1B8L2j5lCOgqfLJYMt-wsU2PLuS4g6CBWpmfzqzt0RkEKteBHA31VP4RufNTzFudAYNIkpA7kpEYtCdHYnaedaP5-U87qyTx6JRIGEYaldrUJXbBJftZF0ZB4MOFE0QiWUve41SzaI46A2SK7Rl75PVWX_g"}
+2024-12-21 16:13:48,641 - INFO - 用户信息响应: {"code": 0, "message": "0", "ttl": 1, "data": {"card": {"mid": "520819684", "name": "小Lin说", "approve": false, "sex": "女", "rank": "10000", "face": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg", "face_nft": 0, "face_nft_type": 0, "DisplayRank": "0", "regtime": 0, "spacesta": 0, "birthday": "", "place": "", "description": "", "article": 0, "attentions": [], "fans": 5199740, "friend": 63, "attention": 63, "sign": "Whaat?! 人世间竟有如此有趣又有料的天仙!!\n北大->哥大->摩根大通->创业\n合作xiao_lin_shuo@163.com", "level_info": {"current_level": 6, "current_min": 0, "current_exp": 0, "next_exp": 0}, "pendant": {"pid": 0, "name": "", "image": "", "expire": 0, "image_enhance": "", "image_enhance_frame": "", "n_pid": 0}, "nameplate": {"nid": 3, "name": "白银殿堂", "image": "https://i0.hdslb.com/bfs/face/f6a31275029365ae5dc710006585ddcf1139bde1.png", "image_small": "https://i2.hdslb.com/bfs/face/b09cdb4c119c467cf2d15db5263b4f539fa6e30b.png", "level": "高级勋章", "condition": "单个自制视频总播放数>=10万"}, "Official": {"role": 7, "title": "2023百大UP主、知识领域优质UP主", "desc": "", "type": 0}, "official_verify": {"type": 0, "desc": "2023百大UP主、知识领域优质UP主"}, "vip": {"type": 2, "status": 1, "due_date": 1752595200000, "vip_pay_type": 1, "theme_type": 0, "label": {"path": "", "text": "年度大会员", "label_theme": "annual_vip", "text_color": "#FFFFFF", "bg_style": 1, "bg_color": "#FB7299", "border_color": "", "use_img_label": true, "img_label_uri_hans": "", "img_label_uri_hant": "", "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png", "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"}, "avatar_subscript": 1, "nickname_color": "#FB7299", "role": 3, "avatar_subscript_url": "", "tv_vip_status": 0, "tv_vip_pay_type": 0, "tv_due_date": 0, "avatar_icon": {"icon_type": 1, "icon_resource": {}}, "vipType": 2, "vipStatus": 1}, "is_senior_member": 0, "name_render": null}, "following": false, "archive_count": 142, "article_count": 0, "follower": 5199740, "like_num": 11060959}}
+2024-12-21 16:14:10,818 - INFO - 视频列表响应: {"code": -352, "message": "风控校验失败", "ttl": 1, "data": {"v_voucher": "voucher_dfc7a2b2-60cd-4597-b5f6-ef08e663a9a8"}}
+2024-12-21 16:14:10,818 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 16:14:50,894 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:15:17,108 - INFO - 页面内容: <!DOCTYPE html><html><head><meta name="spm_prefix" content="333.999"><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="renderer" content="webkit|ie-comp|ie-stand"><meta name="referrer" content="no-referrer-when-downgrade"><meta name="applicable-device" content="pc"><script id="__RENDER_DATA__" type="application/json">%7B%22access_id%22%3A%22eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzcG1faWQiOiIwLjAiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiY3JlYXRlZF9hdCI6MTczNDc2ODkxNiwidHRsIjo4NjQwMCwidXJsIjoiLzUyMDgxOTY4NC92aWRlbyIsInJlc3VsdCI6Im5vcm1hbCIsImlzcyI6ImdhaWEiLCJpYXQiOjE3MzQ3Njg5MTZ9.Lt3j8V5bCBxYkS8V4jY7udmbbci456RJ9lUIJ5XiFk_C2m-cOxeCxAJ1gUBrRNGgbY8hbQgqZdoNFP2Jc9hlBrVK8oDiScN54dgEfnTaQegfkdGiomMK-P9KThQKh49T4NYFICTgwMWAAJjndnapWYQWtnwpiTGeagxJKi0qxyUeQXoiHTqbgKxGnFAZCiuG3xkeNCiFXdQqg48X6_Y-QK4tWtu9fggNh1vXq0Lu8W1fLz6ijEdXB76VkJ1DIT_c8wExiHOY7kNX6DLfbgvR7-qR5Ly7I8S_NHlENzpLgcjxeW2LoGz4Ip2lJesIqG3XRomNGuM0qKSKN3323btLzw%22%7D</script>
+<script type="text/javascript">var element = document.getElementById("__RENDER_DATA__");
+var innerText = element ? element.innerText : "{}";
+window._render_data_ = JSON.parse(decodeURIComponent(innerText));setTimeout(function() {window.location.reload(true);}, 86395 * 1000);
+</script><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><script>window._BiliGreyResult={"method":"base","grayVersion":"71948"}</script><script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/short/config/biliconfig.js"></script><script type="text/javascript">var ua=window.navigator.userAgent,agents=["Android","Phone","SymbianOS","iPod"],pathname=/\d+/.exec(window.location.pathname),getCookie=function(e){return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]
+2024-12-21 16:15:17,109 - INFO - 渲染数据: {"access_id": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzcG1faWQiOiIwLjAiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiY3JlYXRlZF9hdCI6MTczNDc2ODkxNiwidHRsIjo4NjQwMCwidXJsIjoiLzUyMDgxOTY4NC92aWRlbyIsInJlc3VsdCI6Im5vcm1hbCIsImlzcyI6ImdhaWEiLCJpYXQiOjE3MzQ3Njg5MTZ9.Lt3j8V5bCBxYkS8V4jY7udmbbci456RJ9lUIJ5XiFk_C2m-cOxeCxAJ1gUBrRNGgbY8hbQgqZdoNFP2Jc9hlBrVK8oDiScN54dgEfnTaQegfkdGiomMK-P9KThQKh49T4NYFICTgwMWAAJjndnapWYQWtnwpiTGeagxJKi0qxyUeQXoiHTqbgKxGnFAZCiuG3xkeNCiFXdQqg48X6_Y-QK4tWtu9fggNh1vXq0Lu8W1fLz6ijEdXB76VkJ1DIT_c8wExiHOY7kNX6DLfbgvR7-qR5Ly7I8S_NHlENzpLgcjxeW2LoGz4Ip2lJesIqG3XRomNGuM0qKSKN3323btLzw"}
+2024-12-21 16:15:36,941 - INFO - 用户信息响应: {"code": 0, "message": "0", "ttl": 1, "data": {"card": {"mid": "520819684", "name": "小Lin说", "approve": false, "sex": "女", "rank": "10000", "face": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg", "face_nft": 0, "face_nft_type": 0, "DisplayRank": "0", "regtime": 0, "spacesta": 0, "birthday": "", "place": "", "description": "", "article": 0, "attentions": [], "fans": 5199744, "friend": 63, "attention": 63, "sign": "Whaat?! 人世间竟有如此有趣又有料的天仙!!\n北大->哥大->摩根大通->创业\n合作xiao_lin_shuo@163.com", "level_info": {"current_level": 6, "current_min": 0, "current_exp": 0, "next_exp": 0}, "pendant": {"pid": 0, "name": "", "image": "", "expire": 0, "image_enhance": "", "image_enhance_frame": "", "n_pid": 0}, "nameplate": {"nid": 3, "name": "白银殿堂", "image": "https://i1.hdslb.com/bfs/face/f6a31275029365ae5dc710006585ddcf1139bde1.png", "image_small": "https://i0.hdslb.com/bfs/face/b09cdb4c119c467cf2d15db5263b4f539fa6e30b.png", "level": "高级勋章", "condition": "单个自制视频总播放数>=10万"}, "Official": {"role": 7, "title": "2023百大UP主、知识领域优质UP主", "desc": "", "type": 0}, "official_verify": {"type": 0, "desc": "2023百大UP主、知识领域优质UP主"}, "vip": {"type": 2, "status": 1, "due_date": 1752595200000, "vip_pay_type": 1, "theme_type": 0, "label": {"path": "", "text": "年度大会员", "label_theme": "annual_vip", "text_color": "#FFFFFF", "bg_style": 1, "bg_color": "#FB7299", "border_color": "", "use_img_label": true, "img_label_uri_hans": "", "img_label_uri_hant": "", "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png", "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"}, "avatar_subscript": 1, "nickname_color": "#FB7299", "role": 3, "avatar_subscript_url": "", "tv_vip_status": 0, "tv_vip_pay_type": 0, "tv_due_date": 0, "avatar_icon": {"icon_type": 1, "icon_resource": {}}, "vipType": 2, "vipStatus": 1}, "is_senior_member": 0, "name_render": null}, "following": false, "archive_count": 142, "article_count": 0, "follower": 5199744, "like_num": 11060969}}
+2024-12-21 16:15:36,941 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 16:17:22,923 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:17:48,553 - INFO - 页面内容: <!DOCTYPE html><html><head><meta name="spm_prefix" content="333.999"><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="renderer" content="webkit|ie-comp|ie-stand"><meta name="referrer" content="no-referrer-when-downgrade"><meta name="applicable-device" content="pc"><script id="__RENDER_DATA__" type="application/json">%7B%22access_id%22%3A%22eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzcG1faWQiOiIwLjAiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiY3JlYXRlZF9hdCI6MTczNDc2OTA2OCwidHRsIjo4NjQwMCwidXJsIjoiLzUyMDgxOTY4NC92aWRlbyIsInJlc3VsdCI6Im5vcm1hbCIsImlzcyI6ImdhaWEiLCJpYXQiOjE3MzQ3NjkwNjh9.d9_nyI3OUoSpBg_lmiTExH_zaLlijtm9qWstGX3MlOM3634O2sQ5O8LGckRiSujh3spiKgrMPH8rvjid9wfd57_COXnIew6_FZTYUdncy5jraO8Qi0sVtjMv9NzplIlvGM6vJ38OHAGaEyc5yAZCDW0k4FI5-M5GtOp0oi_iPsCVMrMsIqYl1ed3_ITaM-fSGrqHj4RDwLkXsS8mVSQupw8MtbebYBWJpZM3AV3LhgP2IC3c1a0vxSRPjzNZf9nFVQbv8nwmppFuImTN2YwK-uEWXsgBv46xHZBNgjJt9YgLVm3pzHb51Ucw-F8YBcATZHrb63HsPgKVRUh3GfOcdQ%22%7D</script>
+<script type="text/javascript">var element = document.getElementById("__RENDER_DATA__");
+var innerText = element ? element.innerText : "{}";
+window._render_data_ = JSON.parse(decodeURIComponent(innerText));setTimeout(function() {window.location.reload(true);}, 86395 * 1000);
+</script><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><script>window._BiliGreyResult={"method":"base","grayVersion":"71948"}</script><script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/short/config/biliconfig.js"></script><script type="text/javascript">var ua=window.navigator.userAgent,agents=["Android","Phone","SymbianOS","iPod"],pathname=/\d+/.exec(window.location.pathname),getCookie=function(e){return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]
+2024-12-21 16:17:48,553 - INFO - 渲染数据: {"access_id": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzcG1faWQiOiIwLjAiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiY3JlYXRlZF9hdCI6MTczNDc2OTA2OCwidHRsIjo4NjQwMCwidXJsIjoiLzUyMDgxOTY4NC92aWRlbyIsInJlc3VsdCI6Im5vcm1hbCIsImlzcyI6ImdhaWEiLCJpYXQiOjE3MzQ3NjkwNjh9.d9_nyI3OUoSpBg_lmiTExH_zaLlijtm9qWstGX3MlOM3634O2sQ5O8LGckRiSujh3spiKgrMPH8rvjid9wfd57_COXnIew6_FZTYUdncy5jraO8Qi0sVtjMv9NzplIlvGM6vJ38OHAGaEyc5yAZCDW0k4FI5-M5GtOp0oi_iPsCVMrMsIqYl1ed3_ITaM-fSGrqHj4RDwLkXsS8mVSQupw8MtbebYBWJpZM3AV3LhgP2IC3c1a0vxSRPjzNZf9nFVQbv8nwmppFuImTN2YwK-uEWXsgBv46xHZBNgjJt9YgLVm3pzHb51Ucw-F8YBcATZHrb63HsPgKVRUh3GfOcdQ"}
+2024-12-21 16:18:10,829 - ERROR - API请求失败: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2024-12-21 16:18:10,829 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 16:19:37,490 - ERROR - 获取用户 520819684 的视频时出错: Message: 
+
+2024-12-21 16:20:28,611 - ERROR - 获取用户 520819684 的视频时出错: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2024-12-21 16:22:35,765 - INFO - ====== WebDriver manager ======
+2024-12-21 16:22:36,774 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-21 16:22:38,430 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-21 16:22:40,650 - INFO - Driver [C:\Users\ZhuanZ1\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-21 16:22:40,671 - ERROR - 获取用户 520819684 的视频时出错: [WinError 193] %1 不是有效的 Win32 应用程序。
+2024-12-21 16:23:11,187 - ERROR - 获取用户 520819684 的视频时出错: Message: 
+
+2024-12-21 16:25:09,924 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:25:52,797 - ERROR - 处理页面数据时出错: Timeout 30000ms exceeded.
+2024-12-21 16:25:54,170 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 16:26:38,726 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 16:26:50,046 - INFO - 页面内容: <!DOCTYPE html><html><head><link rel="stylesheet" href="//s1.hdslb.com/bfs/seed/jinkela/short/bili-theme/light.css" id="__css-map__"><link rel="stylesheet" href="//s1.hdslb.com/bfs/seed/jinkela/short/bili-theme/light_u.css"><link rel="stylesheet" href="//s1.hdslb.com/bfs/seed/jinkela/short/bili-theme/map.css"><meta name="spm_prefix" content="333.999"><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="renderer" content="webkit|ie-comp|ie-stand"><meta name="referrer" content="no-referrer-when-downgrade"><meta name="applicable-device" content="pc"><script id="__RENDER_DATA__" type="application/json">%7B%22access_id%22%3A%22eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzcG1faWQiOiIwLjAiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiY3JlYXRlZF9hdCI6MTczNDc2OTU5OSwidHRsIjo4NjQwMCwidXJsIjoiLzUyMDgxOTY4NC92aWRlbyIsInJlc3VsdCI6Im5vcm1hbCIsImlzcyI6ImdhaWEiLCJpYXQiOjE3MzQ3Njk1OTl9.XUHY_FXVLcE0SSNr_uAgO-0WtGouV2yGCrrSOpq5R7ehYwW6_D_dgwqHVt_3jye_n4DHLMBW62zW6wfLbo64e5gvtOePT-EY6-uC9-1BEXBQeKwF1_IsPxQCb69rVkfvt51ZCrHCDbHKVMhX4iRbAQ71t1NhO3Ev-TjeKZRKIlURZILqeFjjvjkhzJREqpm0IKa_jEIcd9u0g8RrPnhI4HQRb9KmT3gN-GE9WTf-SO4an2YfAbJNmORdDyGDAjfM2fFDEItWJbg2Cy_PjtyzI6zvaNYB02YKzum8jbf2GT69vghINvOq-ObkK-Vhor1cAC9NA19yIY8rbAXvfKeVqA%22%7D</script>
+<script type="text/javascript">var element = document.getElementById("__RENDER_DATA__");
+var innerText = element ? element.innerText : "{}";
+window._render_data_ = JSON.parse(decodeURIComponent(innerText));setTimeout(function() {window.location.reload(true);}, 86395 * 1000);
+</script><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><script>window._BiliGreyResult={"method":"base","grayVersion":"71948"}</script><script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/short/config/biliconfig.js"></script><script type="te
+2024-12-21 16:27:50,055 - ERROR - 处理页面数据时出错: Timeout 60000ms exceeded.
+2024-12-21 16:27:50,314 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 18:17:21,771 - INFO - 正在获取用户 520819684 的空间页面...
+2024-12-21 18:17:38,602 - INFO - 页面内容: <!DOCTYPE html><html><head><link rel="stylesheet" href="//s1.hdslb.com/bfs/seed/jinkela/short/bili-theme/light.css" id="__css-map__"><link rel="stylesheet" href="//s1.hdslb.com/bfs/seed/jinkela/short/bili-theme/light_u.css"><link rel="stylesheet" href="//s1.hdslb.com/bfs/seed/jinkela/short/bili-theme/map.css"><meta name="spm_prefix" content="333.999"><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="renderer" content="webkit|ie-comp|ie-stand"><meta name="referrer" content="no-referrer-when-downgrade"><meta name="applicable-device" content="pc"><script id="__RENDER_DATA__" type="application/json">%7B%22access_id%22%3A%22eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzcG1faWQiOiIwLjAiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiY3JlYXRlZF9hdCI6MTczNDc3NjI0NCwidHRsIjo4NjQwMCwidXJsIjoiLzUyMDgxOTY4NC92aWRlbyIsInJlc3VsdCI6Im5vcm1hbCIsImlzcyI6ImdhaWEiLCJpYXQiOjE3MzQ3NzYyNDR9.hzvKEDRCCDmKlrEjgMjEkD1-uOFoWzEUj39xML2Z1Ke4IaM8wr2p1Ap-5uiS9-rcSv4KuMhC5ku2FxtacHVyQBy4g2C-YeOcygg_cr-Rb5owGEwI83-FxyxaMZ7WqsxFYFm5WJ5nIc61BUNC0ShXOrETmvua6INPAJb6-PAjEgP_IlI-WBQgLWec-e1idjEDm0cpCP6vXQQBRFrOsWlyGQ7UUzToZixNZh05kJmpkD63ySYEDGu2knKmsPhZSuFZKLTnNlD9t69jmgt-J0mw3xMVipyGUickVqu_gX31fhF9TZ0h3kiciIKEr5HePjO8xIJKFQk1glGN2l8x6j-RPQ%22%7D</script>
+<script type="text/javascript">var element = document.getElementById("__RENDER_DATA__");
+var innerText = element ? element.innerText : "{}";
+window._render_data_ = JSON.parse(decodeURIComponent(innerText));setTimeout(function() {window.location.reload(true);}, 86395 * 1000);
+</script><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><script>window._BiliGreyResult={"method":"base","grayVersion":"71948"}</script><script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/short/config/biliconfig.js"></script><script type="te
+2024-12-21 18:18:43,650 - ERROR - 处理页面数据时出错: Timeout 60000ms exceeded.
+2024-12-21 18:18:45,340 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 18:23:21,006 - INFO - 正在获取用户 520819684 的视频列表...
+2024-12-21 18:23:22,146 - ERROR - API返回错误: 风控校验失败
+2024-12-21 18:23:22,146 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 18:25:10,463 - INFO - 正在获取用户 520819684 的视频列表...
+2024-12-21 18:25:13,233 - ERROR - API返回错误: 请求过于频繁，请稍后再试
+2024-12-21 18:25:13,233 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 18:47:53,205 - INFO - 正在获取用户 520819684 的视频列表... (尝试 1/3)
+2024-12-21 18:47:54,805 - INFO - 成功获取视频: 游戏产业背后的资本｜中国美国日本资本逻辑和格局有什么不同？
+2024-12-21 18:47:56,924 - INFO - 已保存视频信息到 bilibili_videos.json
+2024-12-21 18:47:56,926 - INFO - 仪表板数据已更新: data/bilibili_latest.json
+2024-12-21 18:56:58,870 - INFO - ==================================================
+2024-12-21 18:56:58,870 - INFO - B站爬虫启动
+2024-12-21 18:56:58,872 - INFO - 当前工作目录: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper
+2024-12-21 18:56:58,872 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\bilibili_web_scraper_new.py
+2024-12-21 18:56:58,872 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-21 18:56:58,872 - INFO - 开始执行第一次抓取...
+2024-12-21 18:56:58,873 - INFO - 正在获取用户 520819684 的视频列表... (尝试 1/3)
+2024-12-21 18:57:00,370 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-21 18:57:05,370 - INFO - 正在获取用户 520819684 的视频列表... (尝试 2/3)
+2024-12-21 18:57:06,523 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-21 18:57:11,524 - INFO - 正在获取用户 520819684 的视频列表... (尝试 3/3)
+2024-12-21 18:57:12,623 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-21 18:57:17,624 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 18:57:17,626 - INFO - 进入定时任务循环...
+2024-12-21 18:58:01,212 - INFO - ==================================================
+2024-12-21 18:58:01,212 - INFO - B站爬虫启动
+2024-12-21 18:58:01,212 - INFO - 当前工作目录: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper
+2024-12-21 18:58:01,212 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\bilibili_web_scraper_new.py
+2024-12-21 18:58:01,213 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-21 18:58:01,213 - INFO - 开始执行第一次抓取...
+2024-12-21 18:58:01,214 - INFO - 正在获取用户 520819684 的视频列表... (尝试 1/3)
+2024-12-21 18:58:05,405 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-21 18:58:10,406 - INFO - 正在获取用户 520819684 的视频列表... (尝试 2/3)
+2024-12-21 18:58:12,296 - INFO - 成功获取视频: 游戏产业背后的资本｜中国美国日本资本逻辑和格局有什么不同？
+2024-12-21 18:58:12,298 - INFO - 已保存视频信息到 bilibili_videos.json
+2024-12-21 18:58:12,303 - INFO - 仪表板数据已更新: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\data\bilibili_latest.json
+2024-12-21 18:58:15,899 - ERROR - 上传到GitHub Pages失败: Command '['git', '-C', 'C:\\Users\\ZhuanZ1\\CascadeProjects\\youtube_scraper\\dashboard-demo', 'commit', '-m', 'Update bilibili data: 游戏产业背后的资本｜中国美国日本资本逻辑和格局有什么不同？']' returned non-zero exit status 1.
+2024-12-21 18:58:15,900 - INFO - 进入定时任务循环...
+2024-12-21 19:00:20,472 - INFO - ==================================================
+2024-12-21 19:00:20,472 - INFO - B站爬虫启动
+2024-12-21 19:00:20,472 - INFO - 当前工作目录: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper
+2024-12-21 19:00:20,472 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\bilibili_web_scraper_new.py
+2024-12-21 19:00:20,472 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-21 19:00:20,472 - INFO - 开始执行第一次抓取...
+2024-12-21 19:00:20,473 - INFO - 正在获取用户 520819684 的视频列表... (尝试 1/3)
+2024-12-21 19:00:22,570 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-21 19:00:27,571 - INFO - 正在获取用户 520819684 的视频列表... (尝试 2/3)
+2024-12-21 19:00:30,099 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-21 19:00:35,100 - INFO - 正在获取用户 520819684 的视频列表... (尝试 3/3)
+2024-12-21 19:00:36,776 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-21 19:00:41,778 - WARNING - 未找到用户 520819684 的视频数据
+2024-12-21 19:00:41,780 - INFO - 进入定时任务循环...
+2024-12-23 12:42:14,706 - INFO - ==================================================
+2024-12-23 12:42:14,706 - INFO - B站爬虫启动
+2024-12-23 12:42:14,706 - INFO - 当前工作目录: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper
+2024-12-23 12:42:14,706 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\bilibili_web_scraper_new.py
+2024-12-23 12:42:14,708 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 12:42:14,708 - INFO - 开始执行第一次抓取...
+2024-12-23 12:42:14,708 - INFO - 正在获取用户 14739873 的视频列表... (尝试 1/3)
+2024-12-23 12:42:15,857 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-23 12:42:20,858 - INFO - 正在获取用户 14739873 的视频列表... (尝试 2/3)
+2024-12-23 12:42:22,025 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-23 12:42:27,026 - INFO - 正在获取用户 14739873 的视频列表... (尝试 3/3)
+2024-12-23 12:42:28,647 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-23 12:42:33,648 - WARNING - 未找到用户 14739873 的视频数据
+2024-12-23 12:42:38,306 - INFO - 正在获取用户 520819684 的视频列表... (尝试 1/3)
+2024-12-23 12:42:39,489 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-23 12:42:44,490 - INFO - 正在获取用户 520819684 的视频列表... (尝试 2/3)
+2024-12-23 12:42:46,001 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-23 12:42:51,002 - INFO - 正在获取用户 520819684 的视频列表... (尝试 3/3)
+2024-12-23 12:42:51,787 - WARNING - API请求频率限制，等待 5 秒后重试...
+2024-12-23 12:42:56,788 - WARNING - 未找到用户 520819684 的视频数据

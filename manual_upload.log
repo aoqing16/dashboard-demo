@@ -1,0 +1,43 @@
+2024-12-23 12:50:25,478 - INFO - 仪表板数据已更新: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\data\manual_latest.json
+2024-12-23 12:50:25,701 - ERROR - 上传到GitHub Pages失败: Command '['git', '-C', 'C:\\Users\\ZhuanZ1\\CascadeProjects\\youtube_scraper\\dashboard-demo', 'commit', '-m', 'Manual upload: 测试视频']' returned non-zero exit status 1.
+2024-12-23 12:50:25,702 - ERROR - 更新仪表板时出错: 'gbk' codec can't encode character '\u274c' in position 2: illegal multibyte sequence
+2024-12-23 12:51:30,810 - INFO - 仪表板数据已更新: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\data\manual_latest.json
+2024-12-23 12:51:31,012 - ERROR - 上传到GitHub Pages失败: Command '['git', '-C', 'C:\\Users\\ZhuanZ1\\CascadeProjects\\youtube_scraper\\dashboard-demo', 'commit', '-m', 'Manual upload: 测试视频']' returned non-zero exit status 1.
+2024-12-23 12:51:31,012 - ERROR - 更新仪表板时出错: Command '['git', '-C', 'C:\\Users\\ZhuanZ1\\CascadeProjects\\youtube_scraper\\dashboard-demo', 'commit', '-m', 'Manual upload: 测试视频']' returned non-zero exit status 1.
+2024-12-23 12:52:00,806 - INFO - 仪表板数据已更新: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\data\manual_latest.json
+2024-12-23 12:52:00,994 - ERROR - 上传到GitHub Pages失败: Command '['git', '-C', 'C:\\Users\\ZhuanZ1\\CascadeProjects\\youtube_scraper\\dashboard-demo', 'commit', '-m', 'Manual Upload']' returned non-zero exit status 1.
+2024-12-23 12:52:00,994 - ERROR - 更新仪表板时出错: Command '['git', '-C', 'C:\\Users\\ZhuanZ1\\CascadeProjects\\youtube_scraper\\dashboard-demo', 'commit', '-m', 'Manual Upload']' returned non-zero exit status 1.
+2024-12-23 13:06:16,208 - INFO - 仪表板数据已更新: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\data\manual_latest.json
+2024-12-23 13:06:16,288 - INFO - 仪表板已更新: index.html
+2024-12-23 13:34:02,207 - INFO - 平台数据已更新: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\data\bilibili_latest.json
+2024-12-23 13:34:02,307 - INFO - 平台数据已更新: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\data\bilibili_latest.json
+2024-12-23 13:34:02,432 - ERROR - 更新GitHub Pages仪表板时出错: 'gbk' codec can't encode character '\u26a0' in position 2: illegal multibyte sequence
+2024-12-23 13:34:02,432 - ERROR - 更新仪表板时出错: 'gbk' codec can't encode character '\u274c' in position 2: illegal multibyte sequence
+2024-12-23 13:34:27,159 - INFO - 平台数据已更新: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\data\bilibili_latest.json
+2024-12-23 13:34:27,262 - INFO - 平台数据已更新: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\data\bilibili_latest.json
+2024-12-23 13:35:22,239 - INFO - 平台数据已更新: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\data\bilibili_latest.json
+2024-12-23 13:35:22,332 - INFO - 平台数据已更新: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\data\bilibili_latest.json
+2024-12-23 13:35:24,986 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 13:42:11,593 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 13:46:42,021 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 13:49:29,992 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 13:52:47,038 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 16:54:45,121 - ERROR - 下载作者 AIGCLINK 的头像时出错: HTTPSConnectionPool(host='your-image-host.com', port=443): Max retries exceeded with url: /aigclink_avatar.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2024-12-23 16:54:46,925 - ERROR - 下载作者 宝玉 的头像时出错: HTTPSConnectionPool(host='your-image-host.com', port=443): Max retries exceeded with url: /dotey_avatar.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2024-12-23 16:54:48,749 - ERROR - 下载作者 歸藏(guizang.ai) 的头像时出错: HTTPSConnectionPool(host='your-image-host.com', port=443): Max retries exceeded with url: /guizang_avatar.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2024-12-23 16:54:50,584 - ERROR - 下载作者 Axton 的头像时出错: HTTPSConnectionPool(host='your-image-host.com', port=443): Max retries exceeded with url: /axton_avatar.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2024-12-23 16:54:52,471 - ERROR - 下载作者 Mckay Wrigley 的头像时出错: HTTPSConnectionPool(host='your-image-host.com', port=443): Max retries exceeded with url: /mckay_avatar.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2024-12-23 16:54:54,288 - ERROR - 下载作者 Peter Levels 的头像时出错: HTTPSConnectionPool(host='your-image-host.com', port=443): Max retries exceeded with url: /levels_avatar.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2024-12-23 16:54:56,210 - ERROR - 下载作者 文化有限 的头像时出错: HTTPSConnectionPool(host='your-image-host.com', port=443): Max retries exceeded with url: /wenhuayouxian_avatar.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2024-12-23 16:54:58,079 - ERROR - 下载作者 天真不天真 的头像时出错: HTTPSConnectionPool(host='your-image-host.com', port=443): Max retries exceeded with url: /tianzhen_avatar.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2024-12-23 16:55:01,307 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 16:55:49,503 - WARNING - 找不到作者 AIGCLINK 的头像文件: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\author_covers\aigclink_avatar.jpg
+2024-12-23 16:55:49,503 - WARNING - 找不到作者 宝玉 的头像文件: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\author_covers\dotey_avatar.jpg
+2024-12-23 16:55:49,503 - WARNING - 找不到作者 歸藏(guizang.ai) 的头像文件: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\author_covers\guizang_avatar.jpg
+2024-12-23 16:55:49,503 - WARNING - 找不到作者 Axton 的头像文件: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\author_covers\axton_avatar.jpg
+2024-12-23 16:55:49,503 - WARNING - 找不到作者 Mckay Wrigley 的头像文件: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\author_covers\mckay_avatar.jpg
+2024-12-23 16:55:49,504 - WARNING - 找不到作者 Peter Levels 的头像文件: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\author_covers\levels_avatar.jpg
+2024-12-23 16:55:49,504 - WARNING - 找不到作者 文化有限 的头像文件: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\author_covers\wenhuayouxian_avatar.jpg
+2024-12-23 16:55:49,504 - WARNING - 找不到作者 天真不天真 的头像文件: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\author_covers\tianzhen_avatar.jpg
+2024-12-23 16:55:52,545 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 16:55:52,545 - ERROR - 更新GitHub Pages仪表板时出错: 'gbk' codec can't encode character '\u2705' in position 2: illegal multibyte sequence

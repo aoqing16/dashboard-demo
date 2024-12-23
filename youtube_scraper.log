@@ -1,0 +1,2282 @@
+2024-12-21 12:23:43,979 - INFO - ==================================================
+2024-12-21 12:23:43,980 - INFO - 执行单次YouTube视频抓取
+2024-12-21 12:23:43,980 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-21 12:23:43,983 - INFO - 初始化Chrome驱动...
+2024-12-21 12:23:47,932 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:23:55,951 - INFO - 初始化Chrome驱动...
+2024-12-21 12:23:59,640 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:24:07,817 - INFO - 初始化Chrome驱动...
+2024-12-21 12:24:11,584 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:24:22,891 - INFO - 初始化Chrome驱动...
+2024-12-21 12:24:26,554 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:24:37,791 - INFO - 初始化Chrome驱动...
+2024-12-21 12:24:41,482 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:24:50,594 - INFO - 初始化Chrome驱动...
+2024-12-21 12:24:54,280 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:25:02,514 - INFO - 初始化Chrome驱动...
+2024-12-21 12:25:05,650 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:25:15,782 - INFO - 初始化Chrome驱动...
+2024-12-21 12:25:19,514 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:25:26,802 - INFO - 初始化Chrome驱动...
+2024-12-21 12:25:30,489 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:25:40,690 - INFO - 初始化Chrome驱动...
+2024-12-21 12:25:44,362 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:25:54,550 - INFO - 初始化Chrome驱动...
+2024-12-21 12:25:58,194 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:26:05,571 - INFO - 初始化Chrome驱动...
+2024-12-21 12:26:09,273 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:26:17,848 - INFO - 初始化Chrome驱动...
+2024-12-21 12:26:21,518 - ERROR - Chrome驱动初始化失败: Message: 
+
+2024-12-21 12:26:29,229 - INFO - 初始化Chrome驱动...
+2024-12-21 12:26:35,835 - INFO - ==================================================
+2024-12-21 12:26:35,835 - INFO - 执行单次YouTube视频抓取
+2024-12-21 12:26:35,835 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-21 12:26:35,837 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 12:26:37,352 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 12:26:41,806 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 12:26:43,503 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 12:26:46,738 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 12:26:48,726 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 12:26:53,359 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 12:26:55,207 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 12:26:58,754 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 12:27:00,605 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 12:27:02,886 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 12:27:04,435 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 12:27:09,199 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 12:27:10,547 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 12:27:12,605 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 12:27:14,143 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 12:27:16,480 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 12:27:17,866 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 12:27:21,449 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 12:27:22,836 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 12:27:27,063 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 12:27:28,534 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 12:27:30,640 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 12:27:32,071 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 12:27:36,383 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 12:27:38,175 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 12:27:42,308 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 12:27:44,004 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 12:27:46,010 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 12:27:48,090 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 12:27:51,559 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 12:27:53,073 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 12:27:56,415 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 12:27:58,965 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 12:28:03,942 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 12:28:05,749 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 12:28:09,655 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 12:28:11,262 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 12:28:14,511 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 12:28:16,577 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 12:28:18,590 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 12:28:20,171 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 12:28:24,641 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 12:28:26,622 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 12:28:31,203 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 12:28:32,726 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 12:28:35,297 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 12:28:37,408 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 12:28:41,257 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 12:28:42,885 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 12:28:46,933 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 12:28:48,684 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 12:28:53,504 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 12:28:54,953 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 12:28:58,893 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 12:29:00,366 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 12:29:04,507 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 12:29:06,122 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 12:29:09,961 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 12:29:11,662 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 12:29:15,441 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 12:29:17,520 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 12:29:19,681 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 12:29:21,377 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 12:29:25,553 - INFO - 视频信息已保存到 youtube_videos.json
+2024-12-21 12:29:25,554 - ERROR - 更新仪表板时出错: [Errno 2] No such file or directory: 'dashboard_template.html'
+2024-12-21 12:29:25,554 - INFO - 抓取完成
+2024-12-21 12:33:46,145 - INFO - ==================================================
+2024-12-21 12:33:46,145 - INFO - 执行单次YouTube视频抓取
+2024-12-21 12:33:46,145 - INFO - 当前工作目录: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper
+2024-12-21 12:33:46,147 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 12:33:48,207 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 12:33:51,447 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 12:33:53,712 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 12:33:58,196 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 12:33:59,636 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 12:34:03,784 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 12:34:05,592 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 12:34:10,375 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 12:34:11,223 - INFO - ==================================================
+2024-12-21 12:34:11,223 - INFO - 执行单次YouTube视频抓取
+2024-12-21 12:34:11,223 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-21 12:34:11,224 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 12:34:13,250 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 12:34:13,257 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 12:34:15,508 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 12:34:16,402 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 12:34:17,041 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 12:34:18,160 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 12:34:21,947 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 12:34:22,849 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 12:34:23,378 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 12:34:24,300 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 12:34:28,342 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 12:34:28,474 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 12:34:29,730 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 12:34:30,331 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 12:34:32,179 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 12:34:33,833 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 12:34:34,887 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 12:34:36,347 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 12:34:38,652 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 12:34:39,990 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 12:34:40,650 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 12:34:42,737 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 12:34:43,977 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 12:34:44,847 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 12:34:46,805 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 12:34:47,157 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 12:34:49,526 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 12:34:50,344 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 12:34:54,029 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 12:34:54,200 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 12:34:56,103 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 12:34:56,939 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 12:34:58,164 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 12:34:58,726 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 12:35:02,113 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 12:35:02,564 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 12:35:03,727 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 12:35:03,962 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 12:35:06,946 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 12:35:08,147 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 12:35:09,260 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 12:35:11,788 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 12:35:13,928 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 12:35:14,036 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 12:35:15,438 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 12:35:15,453 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 12:35:17,543 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 12:35:17,798 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 12:35:19,002 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 12:35:19,215 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 12:35:21,274 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 12:35:22,718 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 12:35:23,787 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 12:35:25,188 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 12:35:27,370 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 12:35:27,416 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 12:35:28,824 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 12:35:29,192 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 12:35:30,970 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 12:35:32,625 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 12:35:33,439 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 12:35:35,258 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 12:35:37,365 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 12:35:37,404 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 12:35:38,885 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 12:35:39,115 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 12:35:42,629 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 12:35:42,743 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 12:35:44,036 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 12:35:44,458 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 12:35:48,146 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 12:35:48,189 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 12:35:49,624 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 12:35:49,943 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 12:35:52,081 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 12:35:53,452 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 12:35:54,333 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 12:35:55,880 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 12:35:57,442 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 12:35:59,006 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 12:36:00,689 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 12:36:02,211 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 12:36:03,366 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 12:36:04,776 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 12:36:06,200 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 12:36:07,643 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 12:36:07,945 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 12:36:09,427 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 12:36:10,761 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 12:36:12,241 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 12:36:12,955 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 12:36:16,287 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 12:36:16,783 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 12:36:17,818 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 12:36:20,384 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 12:36:20,453 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 12:36:21,761 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 12:36:21,922 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 12:36:24,222 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 12:36:25,407 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 12:36:25,630 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 12:36:26,852 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 12:36:28,004 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 12:36:29,420 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 12:36:30,847 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 12:36:32,435 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 12:36:33,316 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 12:36:34,937 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 12:36:35,086 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 12:36:36,447 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 12:36:37,684 - INFO - 视频信息已保存到 youtube_videos.json
+2024-12-21 12:36:37,685 - ERROR - 更新仪表板时出错: Unknown format code 'd' for object of type 'float'
+2024-12-21 12:36:37,685 - INFO - 抓取完成
+2024-12-21 12:36:38,930 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 12:36:40,778 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 12:36:43,425 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 12:36:44,978 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 12:36:49,906 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 12:36:53,614 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 12:36:55,952 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 12:36:57,431 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 12:37:02,302 - INFO - 抓取完成
+2024-12-21 12:49:25,016 - INFO - ==================================================
+2024-12-21 12:49:25,016 - INFO - 执行单次YouTube视频抓取
+2024-12-21 12:49:25,018 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-21 12:49:25,018 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 12:49:26,442 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 12:49:31,071 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 12:49:32,774 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 12:49:36,820 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 12:49:39,445 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 12:49:44,190 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 12:49:45,663 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 12:49:50,626 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 12:49:52,209 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 12:49:57,150 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 12:49:58,648 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 12:50:03,504 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 12:50:05,001 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 12:50:08,441 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 12:50:10,167 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 12:50:13,748 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 12:50:15,406 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 12:50:19,773 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 12:50:22,014 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 12:50:24,281 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 12:50:26,520 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 12:50:29,869 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 12:50:31,278 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 12:50:35,436 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 12:50:36,909 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 12:50:40,053 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 12:50:41,416 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 12:50:46,223 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 12:50:49,297 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 12:50:52,914 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 12:50:54,285 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 12:50:57,683 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 12:50:59,301 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 12:51:02,326 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 12:51:03,874 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 12:51:07,965 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 12:51:09,667 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 12:51:12,975 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 12:51:15,305 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 12:51:19,999 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 12:51:21,372 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 12:51:26,159 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 12:51:27,722 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 12:51:29,728 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 12:51:33,827 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 12:51:38,581 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 12:51:40,288 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 12:51:42,348 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 12:51:43,810 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 12:51:48,648 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 12:51:50,197 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 12:51:54,214 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 12:51:55,632 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 12:51:59,753 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 12:52:01,654 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 12:52:05,777 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 12:52:07,488 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 12:52:11,087 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 12:52:12,602 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 12:52:15,916 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 12:52:17,737 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 12:52:20,274 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 12:52:22,220 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 12:52:24,485 - INFO - 抓取完成
+2024-12-21 13:04:36,158 - INFO - ==================================================
+2024-12-21 13:04:36,158 - INFO - 执行单次YouTube视频抓取
+2024-12-21 13:04:36,158 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-21 13:04:36,160 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 13:04:37,681 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 13:04:41,376 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 13:04:43,539 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 13:04:45,902 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 13:04:47,562 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 13:04:51,273 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 13:04:53,218 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 13:04:56,467 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 13:04:58,133 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 13:05:02,614 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 13:05:05,581 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 13:05:09,938 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 13:05:12,574 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 13:05:17,108 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 13:05:18,687 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 13:05:21,463 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 13:05:22,967 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 13:05:27,551 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 13:05:29,709 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 13:05:33,144 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 13:05:35,005 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 13:05:38,713 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 13:05:40,808 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 13:05:44,333 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 13:05:46,229 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 13:05:48,903 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 13:05:50,393 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 13:05:54,756 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 13:05:56,431 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 13:05:59,485 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 13:06:01,164 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 13:06:03,495 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 13:06:05,324 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 13:06:09,299 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 13:06:12,108 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 13:06:16,629 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 13:06:18,502 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 13:06:22,857 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 13:06:25,341 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 13:06:29,105 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 13:06:31,600 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 13:06:33,918 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 13:06:35,601 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 13:06:39,461 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 13:06:42,132 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 13:06:45,511 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 13:06:47,116 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 13:06:51,887 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 13:06:53,403 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 13:06:57,825 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 13:06:59,270 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 13:07:02,060 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 13:07:04,778 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 13:07:07,009 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 13:07:08,856 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 13:07:12,640 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 13:07:14,651 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 13:07:18,060 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 13:07:21,307 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 13:07:23,433 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 13:07:27,554 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 13:07:32,347 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 13:07:34,462 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 13:07:39,183 - INFO - 抓取完成
+2024-12-21 13:11:02,400 - INFO - ==================================================
+2024-12-21 13:11:02,400 - INFO - 执行单次YouTube视频抓取
+2024-12-21 13:11:02,400 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-21 13:11:02,402 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 13:11:05,128 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 13:11:08,885 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 13:11:10,934 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 13:11:15,717 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 13:11:17,529 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 13:11:19,886 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 13:11:22,220 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 13:11:27,091 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 13:11:30,261 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 13:11:32,564 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 13:11:35,907 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 13:11:39,522 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 13:11:41,586 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 13:11:46,568 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 13:11:48,170 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 13:11:52,263 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 13:11:53,816 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 13:11:58,303 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 13:11:59,937 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 13:12:03,563 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 13:12:05,087 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 13:12:09,201 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 13:12:10,745 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 13:12:14,195 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 13:12:15,836 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 13:12:19,019 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 13:12:20,672 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 13:12:22,694 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 13:12:24,415 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 13:12:27,809 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 13:12:29,358 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 13:12:32,165 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 13:12:33,816 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 13:12:37,992 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 13:12:39,749 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 13:12:44,134 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 13:12:46,078 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 13:12:49,844 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 13:12:51,708 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 13:12:54,227 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 13:12:56,317 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 13:12:58,733 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 13:13:00,251 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 13:13:02,795 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 13:13:04,308 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 13:13:07,903 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 13:13:09,550 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 13:13:11,668 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 13:13:13,317 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 13:13:16,809 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 13:13:19,097 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 13:13:21,248 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 13:13:23,084 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 13:13:25,915 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 13:13:27,519 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 13:13:29,846 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 13:13:31,473 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 13:13:36,167 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 13:13:37,768 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 13:13:42,222 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 13:13:43,805 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 13:13:47,899 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 13:13:49,610 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 13:13:52,009 - INFO - 抓取完成
+2024-12-21 13:25:25,571 - INFO - ==================================================
+2024-12-21 13:25:25,572 - INFO - 执行单次YouTube视频抓取
+2024-12-21 13:25:25,573 - INFO - 当前工作目录: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper
+2024-12-21 13:25:25,575 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 13:25:27,739 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 13:25:31,511 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 13:25:33,092 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 13:25:35,782 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 13:25:37,513 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 13:25:42,063 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 13:25:43,596 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 13:25:47,016 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 13:25:48,473 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 13:25:51,831 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 13:25:53,862 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 13:25:58,295 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 13:25:59,789 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 13:27:05,509 - INFO - ==================================================
+2024-12-21 13:27:05,509 - INFO - 执行单次YouTube视频抓取
+2024-12-21 13:27:05,509 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-21 13:27:05,510 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 13:27:07,072 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 13:27:09,782 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 13:27:11,214 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 13:27:14,033 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 13:27:15,540 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 13:27:20,381 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 13:27:22,246 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 13:27:27,038 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 13:27:28,556 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 13:27:31,913 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 13:27:33,601 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 13:27:38,279 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 13:27:41,603 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 13:27:45,854 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 13:27:48,574 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 13:27:51,940 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 13:27:55,141 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 13:27:58,721 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 13:28:00,931 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 13:28:03,421 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 13:28:05,688 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 13:28:10,392 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 13:28:13,033 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 13:28:17,975 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 13:28:21,431 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 13:28:24,669 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 13:28:26,241 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 13:28:31,239 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 13:28:33,313 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 13:28:36,739 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 13:28:41,512 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 13:28:44,346 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 13:28:45,790 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 13:28:49,213 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 13:28:51,116 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 13:28:56,039 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 13:28:58,323 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 13:29:00,629 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 13:29:03,395 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 13:29:08,377 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 13:29:10,580 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 13:29:14,808 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 13:29:16,954 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 13:29:19,125 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 13:29:21,640 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 13:29:23,883 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 13:29:26,848 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 13:29:31,348 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 13:29:33,124 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 13:29:35,283 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 13:29:36,996 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 13:29:39,469 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 13:29:42,099 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 13:29:44,219 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 13:29:46,017 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 13:29:49,343 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 13:29:51,939 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 13:29:56,695 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 13:29:59,881 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 13:30:04,776 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 13:30:08,881 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 13:30:13,530 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 13:30:16,143 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 13:30:18,826 - INFO - 已复制 youtube_videos.html 到 docs 目录
+2024-12-21 13:30:18,827 - INFO - 已复制 youtube_videos.json 到 docs 目录
+2024-12-21 13:30:18,828 - INFO - 抓取完成，文件已更新到docs目录
+2024-12-21 13:37:20,591 - INFO - ==================================================
+2024-12-21 13:37:20,591 - INFO - 执行单次YouTube视频抓取
+2024-12-21 13:37:20,591 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-21 13:37:20,593 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 13:37:22,460 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 13:37:25,328 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 13:37:26,775 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 13:37:31,044 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 13:37:32,524 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 13:37:37,323 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 13:37:38,954 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 13:37:43,952 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 13:37:45,460 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 13:37:50,338 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 13:37:52,585 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 13:37:57,067 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 13:37:58,516 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 13:38:00,831 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 13:38:02,310 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 13:38:06,243 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 13:38:07,881 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 13:38:10,540 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 13:38:12,289 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 13:38:14,593 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 13:38:16,063 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 13:38:20,325 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 13:38:22,812 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 13:38:25,003 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 13:38:28,716 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 13:38:32,725 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 13:38:35,116 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 13:38:39,344 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 13:38:41,998 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 13:38:44,383 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 13:38:46,004 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 13:38:48,470 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 13:38:49,824 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 13:38:54,580 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 13:38:56,315 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 13:39:01,134 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 13:39:02,838 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 13:39:06,095 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 13:39:07,858 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 13:39:09,906 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 13:39:11,257 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 13:39:16,066 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 13:39:17,855 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 13:39:20,357 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 13:39:22,905 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 13:39:26,703 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 13:39:28,395 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 13:39:33,232 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 13:39:35,729 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 13:39:39,145 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 13:39:41,466 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 13:39:44,949 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 13:39:49,709 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 13:39:53,608 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 13:39:55,232 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 13:39:59,993 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 13:40:01,482 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 13:40:04,171 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 13:40:06,062 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 13:40:09,787 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 13:40:11,264 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 13:40:14,484 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 13:40:18,780 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 13:40:22,343 - INFO - 视频信息已保存到 youtube_videos.json
+2024-12-21 13:40:22,343 - ERROR - 更新仪表板时出错: [Errno 2] No such file or directory: 'dashboard_template.html'
+2024-12-21 13:40:22,345 - INFO - 已复制 youtube_videos.html 到 docs 目录
+2024-12-21 13:40:22,346 - INFO - 已复制 youtube_videos.json 到 docs 目录
+2024-12-21 13:40:22,346 - INFO - 抓取完成，文件已更新到docs目录
+2024-12-21 13:46:37,098 - INFO - ==================================================
+2024-12-21 13:46:37,098 - INFO - 执行单次YouTube视频抓取
+2024-12-21 13:46:37,098 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-21 13:46:37,099 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 13:46:38,608 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 13:46:41,483 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 13:46:43,173 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 13:46:46,350 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 13:46:47,776 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 13:46:52,695 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 13:46:54,218 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 13:46:56,502 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 13:46:58,268 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 13:47:02,940 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 13:47:04,655 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 13:47:08,728 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 13:47:10,231 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 13:47:13,663 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 13:47:15,196 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 13:47:17,609 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 13:47:19,105 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 13:47:22,990 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 13:47:25,882 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 13:47:28,563 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 13:47:30,057 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 13:47:32,093 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 13:47:33,900 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 13:47:38,282 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 13:47:39,830 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 13:47:43,320 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 13:47:44,838 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 13:47:47,358 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 13:47:48,804 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 13:47:52,063 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 13:47:53,674 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 13:47:58,168 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 13:47:59,650 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 13:48:03,340 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 13:48:04,745 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 13:48:07,914 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 13:48:09,336 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 13:48:12,006 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 13:48:13,452 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 13:48:17,898 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 13:48:19,578 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 13:48:23,226 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 13:48:24,973 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 13:48:27,090 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 13:48:28,499 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 13:48:32,595 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 13:48:34,583 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 13:48:37,145 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 13:48:38,617 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 13:48:43,439 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 13:48:47,366 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 13:48:52,133 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 13:48:54,083 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 13:48:57,042 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 13:48:58,993 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 13:49:02,928 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 13:49:04,332 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 13:49:07,593 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 13:49:09,067 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 13:49:11,482 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 13:49:13,238 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 13:49:16,881 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 13:49:19,524 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 13:49:22,715 - INFO - 视频信息已保存到 youtube_videos.json
+2024-12-21 13:49:22,715 - ERROR - 更新仪表板时出错: [Errno 2] No such file or directory: 'dashboard_template.html'
+2024-12-21 13:49:22,716 - INFO - 已复制 youtube_videos.html 到 docs 目录
+2024-12-21 13:49:22,717 - INFO - 已复制 youtube_videos.json 到 docs 目录
+2024-12-21 13:49:22,717 - INFO - 抓取完成，文件已更新到docs目录
+2024-12-21 13:55:04,076 - INFO - ==================================================
+2024-12-21 13:55:04,076 - INFO - 执行单次YouTube视频抓取
+2024-12-21 13:55:04,076 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-21 13:55:04,078 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 13:55:05,659 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 13:55:08,136 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 13:55:09,693 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 13:55:12,694 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 13:55:14,173 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 13:55:17,191 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 13:55:18,999 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 13:55:23,781 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 13:55:25,492 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 13:55:27,874 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 13:55:29,769 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 13:55:33,116 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 13:55:34,984 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 13:55:39,084 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 13:55:43,004 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 13:55:46,095 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 13:55:48,017 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 13:55:52,391 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 13:55:53,924 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 13:55:57,534 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 13:55:59,022 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 13:56:01,759 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 13:56:03,195 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 13:56:06,728 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 13:56:08,256 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 13:56:11,643 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 13:56:13,188 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 13:56:17,783 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 13:56:24,259 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 13:56:27,240 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 13:56:28,969 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 13:56:33,607 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 13:56:35,227 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 13:56:38,790 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 13:56:40,960 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 13:56:45,113 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 13:56:46,541 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 13:56:50,500 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 13:56:51,891 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 13:56:55,421 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 13:56:56,855 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 13:57:00,781 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 13:57:02,294 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 13:57:07,165 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 13:57:08,845 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 13:57:11,204 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 13:57:15,718 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 13:57:18,998 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 13:57:20,481 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 13:57:25,077 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 13:57:26,832 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 13:57:31,196 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 13:57:32,529 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 13:57:37,500 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 13:57:38,871 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 13:57:41,078 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 13:57:42,800 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 13:57:45,534 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 13:57:47,066 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 13:57:51,037 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 13:57:52,820 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 13:57:54,842 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 13:57:57,597 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 13:58:00,887 - INFO - 视频信息已保存到 youtube_videos.json
+2024-12-21 13:58:00,887 - ERROR - 更新仪表板时出错: [Errno 2] No such file or directory: 'dashboard_template.html'
+2024-12-21 13:58:00,889 - INFO - 已复制 youtube_videos.html 到 docs 目录
+2024-12-21 13:58:00,889 - INFO - 已复制 youtube_videos.json 到 docs 目录
+2024-12-21 13:58:00,890 - INFO - 抓取完成，文件已更新到docs目录
+2024-12-21 14:02:08,335 - INFO - ==================================================
+2024-12-21 14:02:08,335 - INFO - 执行单次YouTube视频抓取
+2024-12-21 14:02:08,336 - INFO - 当前工作目录: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper
+2024-12-21 14:02:08,337 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 14:02:09,869 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 14:02:13,685 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 14:02:15,447 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 14:02:18,699 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 14:02:20,330 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 14:02:24,782 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 14:02:26,114 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 14:02:29,428 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 14:02:31,203 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 14:02:35,567 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 14:02:37,065 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 14:02:39,554 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 14:02:40,979 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 14:02:45,712 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 14:02:47,065 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 14:02:51,479 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 14:02:53,041 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 14:02:56,253 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 14:02:57,600 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 14:03:00,909 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 14:03:02,238 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 14:03:07,085 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 14:03:08,412 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 14:03:13,214 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 14:03:14,664 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 14:03:18,620 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 14:03:20,398 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 14:03:24,798 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 14:03:26,492 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 14:03:29,153 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 14:03:30,728 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 14:03:35,496 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 14:03:37,183 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 14:03:39,820 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 14:03:41,724 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 14:03:43,842 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 14:03:46,362 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 14:03:50,126 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 14:03:51,510 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 14:03:53,745 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 14:03:55,102 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 14:03:58,930 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 14:04:00,376 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 14:04:04,334 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 14:04:05,741 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 14:04:08,302 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 14:04:09,747 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 14:04:12,630 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 14:04:13,993 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 14:04:16,447 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 14:04:17,844 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 14:04:22,292 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 14:04:24,004 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 14:04:28,735 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 14:04:30,085 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 14:04:31,903 - INFO - ==================================================
+2024-12-21 14:04:31,903 - INFO - 执行单次YouTube视频抓取
+2024-12-21 14:04:31,903 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-21 14:04:31,907 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-21 14:04:33,037 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 14:04:33,557 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-21 14:04:34,687 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 14:04:37,353 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 14:04:38,300 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-21 14:04:38,736 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 14:04:40,133 - INFO - 已获取视频: 學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?
+2024-12-21 14:04:41,083 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 14:04:42,791 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 14:04:44,993 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-21 14:04:46,763 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 14:04:46,926 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-21 14:04:48,454 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 14:04:49,247 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-21 14:04:51,142 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-21 14:04:51,999 - INFO - 视频信息已保存到 youtube_videos.json
+2024-12-21 14:04:52,001 - INFO - 仪表板已更新: index.html
+2024-12-21 14:04:52,003 - INFO - 已复制 index.html 到 docs 目录
+2024-12-21 14:04:52,003 - INFO - 已复制 youtube_videos.html 到 docs 目录
+2024-12-21 14:04:52,004 - INFO - 已复制 youtube_videos.json 到 docs 目录
+2024-12-21 14:04:52,004 - INFO - 抓取完成，文件已更新到docs目录
+2024-12-21 14:04:54,331 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-21 14:04:56,000 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-21 14:04:59,607 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-21 14:05:01,150 - INFO - 已获取视频: Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454
+2024-12-21 14:05:03,461 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-21 14:05:05,310 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-21 14:05:09,282 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-21 14:05:10,857 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-21 14:05:14,860 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-21 14:05:16,574 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-21 14:05:21,398 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-21 14:05:22,995 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-21 14:05:26,985 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-21 14:05:28,590 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-21 14:05:31,686 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-21 14:05:34,214 - INFO - 已获取视频: DO HARD THINGS
+2024-12-21 14:05:36,826 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-21 14:05:38,918 - INFO - 已获取视频: Beginners Guide To Dropshipping In 2025
+2024-12-21 14:05:43,285 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-21 14:05:47,512 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-21 14:05:49,913 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-21 14:05:56,693 - INFO - 已获取视频: The 7 BEST Side Hustles To Start for Students (in 2025)
+2024-12-21 14:06:01,688 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-21 14:06:07,623 - INFO - 已获取视频: OpenAI Unveils o3! AGI ACHIEVED!
+2024-12-21 14:06:10,622 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-21 14:06:17,714 - INFO - 已获取视频: Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!
+2024-12-21 14:06:22,542 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-21 14:06:24,255 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-21 14:06:28,016 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-21 14:06:29,547 - INFO - 已获取视频: STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock
+2024-12-21 14:06:34,513 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-21 14:06:35,875 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-21 14:06:39,820 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-21 14:06:42,295 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-21 14:06:47,045 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-21 14:06:48,665 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-21 14:06:53,192 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-21 14:06:55,065 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-21 14:06:59,891 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-21 14:07:01,627 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-21 14:07:03,821 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-21 14:07:05,296 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-21 14:07:07,450 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-21 14:07:09,280 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-21 14:07:13,531 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-21 14:07:14,980 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-21 14:07:19,081 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-21 14:07:20,694 - INFO - 已获取视频: bolt.diy: The Future of Open Source AI Coding - What's Next?
+2024-12-21 14:07:23,175 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-21 14:07:25,482 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year
+2024-12-21 14:07:29,854 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIJasonZ/videos
+2024-12-21 14:07:31,423 - INFO - 已获取视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-21 14:07:35,845 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-21 14:07:38,060 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-21 14:07:41,220 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-21 14:07:44,301 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-21 14:07:46,447 - INFO - 视频信息已保存到 youtube_videos.json
+2024-12-21 14:07:46,449 - ERROR - 更新仪表板时出错: [Errno 2] No such file or directory: 'dashboard_template.html'
+2024-12-21 14:07:46,450 - INFO - 已复制 youtube_videos.html 到 docs 目录
+2024-12-21 14:07:46,450 - INFO - 已复制 youtube_videos.json 到 docs 目录
+2024-12-21 14:07:46,450 - INFO - 抓取完成，文件已更新到docs目录
+2024-12-23 14:56:11,305 - INFO - ==================================================
+2024-12-23 14:56:11,305 - INFO - YouTube爬虫启动
+2024-12-23 14:56:11,305 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 14:56:11,305 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 14:56:11,306 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 14:56:11,306 - INFO - 开始执行第一次抓取...
+2024-12-23 14:56:11,320 - INFO - 正在获取频道最新视频: https://www.youtube.com/@UCxo5cO2vqXTH6me_lzx6jhQ/videos
+2024-12-23 14:56:17,505 - ERROR - 获取视频信息时出错: [0;31mERROR:[0m [youtube:tab] @UCxo5cO2vqXTH6me_lzx6jhQ: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+2024-12-23 14:56:20,148 - INFO - 进入定时任务循环...
+2024-12-23 17:07:51,235 - INFO - ==================================================
+2024-12-23 17:07:51,236 - INFO - YouTube爬虫启动
+2024-12-23 17:07:51,236 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 17:07:51,236 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 17:07:51,236 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 17:07:51,236 - INFO - 开始执行第一次抓取...
+2024-12-23 17:07:51,248 - INFO - 正在获取频道最新视频: https://www.youtube.com/@UCxo5cO2vqXTH6me_lzx6jhQ/videos
+2024-12-23 17:07:59,029 - ERROR - 获取视频信息时出错: [0;31mERROR:[0m [youtube:tab] @UCxo5cO2vqXTH6me_lzx6jhQ: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+2024-12-23 17:08:02,129 - INFO - 进入定时任务循环...
+2024-12-23 17:09:28,730 - INFO - ==================================================
+2024-12-23 17:09:28,730 - INFO - YouTube爬虫启动
+2024-12-23 17:09:28,730 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 17:09:28,730 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 17:09:28,730 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 17:09:28,731 - INFO - 开始执行第一次抓取...
+2024-12-23 17:09:28,732 - INFO - 正在获取频道最新视频: https://www.youtube.com/channel/UCxo5cO2vqXTH6me_lzx6jhQ/videos
+2024-12-23 17:09:30,382 - ERROR - 获取视频信息时出错: [0;31mERROR:[0m [youtube:tab] UCxo5cO2vqXTH6me_lzx6jhQ: YouTube said: This channel does not exist.
+2024-12-23 17:09:32,766 - INFO - 正在获取频道最新视频: https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw/videos
+2024-12-23 17:09:38,650 - INFO - 已获取视频: Multimodal Live API demo: GenList
+2024-12-23 17:09:40,948 - INFO - 正在获取频道最新视频: https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ/videos
+2024-12-23 17:09:42,273 - INFO - 已获取视频: MY NEW CRIPPLING ADDICTION | Balatro - Part 1
+2024-12-23 17:09:47,105 - INFO - 视频信息已保存到 youtube_videos.json
+2024-12-23 17:09:47,227 - ERROR - 更新仪表板时出错: Command '['git', '-C', 'C:\\Users\\ZhuanZ1\\CascadeProjects\\youtube_scraper\\dashboard-demo', 'commit', '-m', 'Update YouTube content: 2 new videos']' returned non-zero exit status 1.
+2024-12-23 17:09:47,228 - ERROR - 运行爬虫时出错: Command '['git', '-C', 'C:\\Users\\ZhuanZ1\\CascadeProjects\\youtube_scraper\\dashboard-demo', 'commit', '-m', 'Update YouTube content: 2 new videos']' returned non-zero exit status 1.
+2024-12-23 17:09:47,228 - ERROR - 程序出错: Command '['git', '-C', 'C:\\Users\\ZhuanZ1\\CascadeProjects\\youtube_scraper\\dashboard-demo', 'commit', '-m', 'Update YouTube content: 2 new videos']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py", line 284, in main
+    YouTubeScraper().run_scraper()
+  File "C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py", line 243, in run_scraper
+    self.update_dashboard(all_videos, template_path='dashboard_template.html', output_path='index.html')
+  File "C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py", line 191, in update_dashboard
+    subprocess.run(['git', '-C', repo_dir, 'commit', '-m', commit_message], check=True)
+  File "C:\Users\ZhuanZ1\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', '-C', 'C:\\Users\\ZhuanZ1\\CascadeProjects\\youtube_scraper\\dashboard-demo', 'commit', '-m', 'Update YouTube content: 2 new videos']' returned non-zero exit status 1.
+2024-12-23 17:19:16,443 - INFO - ==================================================
+2024-12-23 17:19:16,443 - INFO - YouTube爬虫启动
+2024-12-23 17:19:16,443 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 17:19:16,443 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 17:19:16,443 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 17:19:16,444 - INFO - 开始执行第一次抓取...
+2024-12-23 17:19:16,445 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-23 17:19:18,143 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 17:19:21,107 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-23 17:19:22,410 - INFO - 已获取视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 17:19:27,346 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-23 17:19:28,988 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 17:19:32,686 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-23 17:19:34,545 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 17:19:39,021 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-23 17:19:41,907 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-23 17:19:45,897 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-23 17:19:47,728 - INFO - 已获取视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 17:19:52,408 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-23 17:19:55,154 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 17:19:57,417 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-23 17:19:58,769 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 17:20:02,496 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-23 17:20:03,837 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 17:20:07,699 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-23 17:20:09,360 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 17:20:12,387 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-23 17:20:13,714 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 17:20:17,315 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-23 17:20:18,983 - INFO - 已获取视频: DO HARD THINGS
+2024-12-23 17:20:23,904 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-23 17:20:25,231 - INFO - 已获取视频: pov: you make $50k/day chilling in LA
+2024-12-23 17:20:30,200 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-23 17:20:31,937 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 17:20:34,560 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-23 17:20:36,189 - INFO - 已获取视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 17:20:40,733 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-23 17:20:42,100 - INFO - 已获取视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 17:20:44,910 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-23 17:20:46,600 - INFO - 已获取视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 17:20:51,234 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-23 17:20:55,300 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 17:20:57,765 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-23 17:20:59,066 - INFO - 已获取视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 17:21:02,453 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-23 17:21:04,117 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 17:21:08,766 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-23 17:21:10,183 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 17:21:12,396 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-23 17:21:13,773 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 17:21:17,889 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-23 17:21:19,272 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 17:21:23,310 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-23 17:21:24,651 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 17:21:26,927 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-23 17:21:28,229 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 17:21:33,126 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-23 17:21:35,425 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 17:21:40,231 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmjc/videos
+2024-12-23 17:21:45,608 - ERROR - 获取视频信息时出错: [0;31mERROR:[0m [youtube:tab] @rasmjc: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+2024-12-23 17:21:48,837 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-23 17:21:50,159 - INFO - 已获取视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 17:21:54,854 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-23 17:21:56,624 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 17:22:00,878 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlJasonZ/videos
+2024-12-23 17:22:08,113 - ERROR - 获取视频信息时出错: [0;31mERROR:[0m [youtube:tab] @AlJasonZ: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+2024-12-23 17:22:11,671 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-23 17:22:13,397 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 17:22:15,779 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-23 17:22:17,529 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 17:22:22,336 - INFO - 视频信息已保存到 youtube_videos.json
+2024-12-23 17:22:26,120 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 17:22:26,120 - INFO - 进入定时任务循环...
+2024-12-23 17:27:52,656 - INFO - ==================================================
+2024-12-23 17:27:52,656 - INFO - YouTube爬虫启动
+2024-12-23 17:27:52,656 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 17:27:52,656 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 17:27:52,657 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 17:27:52,657 - INFO - 开始执行第一次抓取...
+2024-12-23 17:27:52,659 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-23 17:27:54,233 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 17:27:57,588 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-23 17:27:58,921 - INFO - 已获取视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 17:28:02,568 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-23 17:28:03,939 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 17:28:07,153 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-23 17:28:08,781 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 17:28:11,576 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-23 17:28:13,514 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-23 17:28:16,020 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-23 17:28:17,903 - INFO - 已获取视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 17:28:20,881 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-23 17:28:22,640 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 17:28:27,459 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-23 17:28:29,382 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 17:28:34,252 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-23 17:28:36,023 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 17:28:38,229 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-23 17:28:39,744 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 17:28:44,043 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-23 17:28:45,992 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 17:28:48,103 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-23 17:28:49,962 - INFO - 已获取视频: DO HARD THINGS
+2024-12-23 17:28:53,929 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-23 17:28:56,216 - INFO - 已获取视频: pov: you make $50k/day chilling in LA
+2024-12-23 17:28:58,506 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-23 17:29:00,435 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 17:29:03,159 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-23 17:29:04,896 - INFO - 已获取视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 17:29:08,204 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-23 17:29:10,292 - INFO - 已获取视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 17:29:14,828 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-23 17:29:16,787 - INFO - 已获取视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 17:29:19,540 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-23 17:29:20,909 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 17:29:24,647 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-23 17:29:26,323 - INFO - 已获取视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 17:29:29,430 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-23 17:29:31,283 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 17:29:35,720 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-23 17:29:37,523 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 17:29:39,810 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-23 17:29:41,526 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 17:29:44,832 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-23 17:29:46,523 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 17:29:48,964 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-23 17:29:50,399 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 17:29:54,637 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-23 17:29:56,312 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 17:30:00,569 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-23 17:30:01,955 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 17:30:06,906 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmjc/videos
+2024-12-23 17:30:12,585 - ERROR - 获取视频信息时出错: [0;31mERROR:[0m [youtube:tab] @rasmjc: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+2024-12-23 17:30:16,799 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-23 17:30:18,170 - INFO - 已获取视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 17:30:22,112 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-23 17:30:23,540 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 17:30:26,488 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlJasonZ/videos
+2024-12-23 17:30:31,805 - ERROR - 获取视频信息时出错: [0;31mERROR:[0m [youtube:tab] @AlJasonZ: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+2024-12-23 17:30:36,585 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-23 17:30:37,883 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 17:30:41,001 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-23 17:30:42,671 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 17:30:47,072 - INFO - 视频信息已保存到 youtube_videos.json
+2024-12-23 17:30:49,460 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\n7s5bWD4_mA.jpg
+2024-12-23 17:30:50,456 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\-3N3PCD2HeA.jpg
+2024-12-23 17:30:51,446 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\lGh53N_Lj2Q.jpg
+2024-12-23 17:30:52,480 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\i2amPjZvijo.jpg
+2024-12-23 17:30:53,486 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\E76CUtSHMrU.jpg
+2024-12-23 17:30:54,636 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\yhZAXXI83-4.jpg
+2024-12-23 17:30:56,162 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\Y-_NZDQ2A4w.jpg
+2024-12-23 17:30:57,128 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\NuSNW0AsJvI.jpg
+2024-12-23 17:30:58,591 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\kIBV8G5KXlg.jpg
+2024-12-23 17:30:59,642 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\NQkMTHKl1D8.jpg
+2024-12-23 17:31:00,966 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\4AwyVTHEU3s.jpg
+2024-12-23 17:31:02,090 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\StMltAX0mp0.jpg
+2024-12-23 17:31:03,518 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\GfXvZ014FSg.jpg
+2024-12-23 17:31:04,780 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\R4VcrUMbNuI.jpg
+2024-12-23 17:31:05,826 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\xfOT2elC2Ok.jpg
+2024-12-23 17:31:06,892 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\_ivh810WHJo.jpg
+2024-12-23 17:31:07,982 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\EWGRIYuK7vQ.jpg
+2024-12-23 17:31:09,050 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\OjEdoOFWYQQ.jpg
+2024-12-23 17:31:10,284 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\4j-6ZnRqVcE.jpg
+2024-12-23 17:31:11,272 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\CcnwFJqEnxU.jpg
+2024-12-23 17:31:12,346 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\CPXWBnjLKJE.jpg
+2024-12-23 17:31:14,090 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\BgPbcVP7NI0.jpg
+2024-12-23 17:31:14,986 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\RLs-XUjmAfc.jpg
+2024-12-23 17:31:15,981 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\wwC86t5k77Y.jpg
+2024-12-23 17:31:16,996 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\TCQloeJsMPE.jpg
+2024-12-23 17:31:17,970 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\cyFVtaLy-bA.jpg
+2024-12-23 17:31:18,969 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\FGeB9w1ZeHE.jpg
+2024-12-23 17:31:20,276 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\yatoLm3J8Hk.jpg
+2024-12-23 17:31:21,260 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\M4fNpKhW9oo.jpg
+2024-12-23 17:31:22,316 - INFO - 已下载缩略图: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\dashboard-demo\images\Jzr4IyzlM4s.jpg
+2024-12-23 17:31:28,762 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 17:31:28,762 - INFO - 进入定时任务循环...
+2024-12-23 17:39:42,851 - INFO - ==================================================
+2024-12-23 17:39:42,851 - INFO - YouTube爬虫启动
+2024-12-23 17:39:42,851 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 17:39:42,851 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 17:39:42,852 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 17:39:42,852 - INFO - 开始执行第一次抓取...
+2024-12-23 17:39:42,853 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-23 17:39:47,134 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 17:39:50,108 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-23 17:39:51,461 - INFO - 已获取视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 17:39:54,565 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-23 17:39:56,417 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 17:40:00,876 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-23 17:40:02,625 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 17:40:07,454 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-23 17:40:09,190 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-23 17:40:12,470 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-23 17:40:14,282 - INFO - 已获取视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 17:40:17,552 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-23 17:40:21,094 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 17:40:24,901 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-23 17:40:28,364 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 17:40:31,204 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-23 17:40:33,000 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 17:40:36,456 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-23 17:40:38,360 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 17:40:42,346 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-23 17:40:43,872 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 17:40:46,664 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-23 17:40:48,154 - INFO - 已获取视频: DO HARD THINGS
+2024-12-23 17:40:52,774 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-23 17:40:54,254 - INFO - 已获取视频: pov: you make $50k/day chilling in LA
+2024-12-23 17:40:58,224 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-23 17:41:03,002 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 17:41:05,472 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-23 17:41:07,053 - INFO - 已获取视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 17:41:11,494 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-23 17:41:12,764 - INFO - 已获取视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 17:41:15,179 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-23 17:41:16,477 - INFO - 已获取视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 17:41:20,879 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-23 17:41:25,716 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 17:41:30,323 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-23 17:41:32,044 - INFO - 已获取视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 17:41:36,058 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-23 17:41:38,205 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 17:41:41,855 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-23 17:41:43,217 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 17:41:45,776 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-23 17:41:47,152 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 17:41:51,496 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-23 17:41:58,593 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 17:42:01,353 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-23 17:42:03,058 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 17:42:06,576 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-23 17:42:09,670 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 17:42:12,484 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-23 17:42:13,795 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 17:42:17,941 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmjc/videos
+2024-12-23 17:42:23,111 - ERROR - 获取视频信息时出错: [0;31mERROR:[0m [youtube:tab] @rasmjc: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+2024-12-23 17:42:27,190 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-23 17:42:28,565 - INFO - 已获取视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 17:42:31,653 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-23 17:42:32,942 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 17:42:36,784 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlJasonZ/videos
+2024-12-23 17:42:42,622 - ERROR - 获取视频信息时出错: [0;31mERROR:[0m [youtube:tab] @AlJasonZ: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+2024-12-23 17:42:46,190 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-23 17:42:47,702 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 17:42:52,342 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-23 17:42:54,711 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 17:42:59,159 - INFO - 视频信息已保存到 youtube_videos.json
+2024-12-23 17:43:03,052 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 17:43:03,053 - INFO - 进入定时任务循环...
+2024-12-23 17:55:31,907 - INFO - ==================================================
+2024-12-23 17:55:31,907 - INFO - YouTube爬虫启动
+2024-12-23 17:55:31,907 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 17:55:31,907 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 17:55:31,907 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 17:55:31,907 - INFO - 开始执行第一次抓取...
+2024-12-23 17:55:31,909 - INFO - 
+开始获取频道 @xiao_lin_shuo 的最新视频...
+2024-12-23 17:55:31,910 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-23 17:55:33,273 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 17:55:33,275 - INFO - 成功获取到视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 17:55:36,959 - INFO - 
+开始获取频道 @MoneyXYZ 的最新视频...
+2024-12-23 17:55:36,959 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-23 17:55:38,406 - INFO - 已获取视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 17:55:38,408 - INFO - 成功获取到视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 17:55:41,856 - INFO - 
+开始获取频道 @nicolevdh 的最新视频...
+2024-12-23 17:55:41,856 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-23 17:55:47,472 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 17:55:47,475 - INFO - 成功获取到视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 17:55:51,738 - INFO - 
+开始获取频道 @TheVerge 的最新视频...
+2024-12-23 17:55:51,738 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-23 17:55:53,197 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 17:55:53,198 - INFO - 成功获取到视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 17:55:57,446 - INFO - 
+开始获取频道 @mkbhd 的最新视频...
+2024-12-23 17:55:57,446 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-23 17:55:58,973 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-23 17:55:58,975 - INFO - 成功获取到视频: Smartphone Awards 2024!
+2024-12-23 17:56:03,751 - INFO - 
+开始获取频道 @lexfridman 的最新视频...
+2024-12-23 17:56:03,751 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-23 17:56:05,432 - INFO - 已获取视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 17:56:05,434 - INFO - 成功获取到视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 17:56:09,569 - INFO - 
+开始获取频道 @AlexFinnOfficial 的最新视频...
+2024-12-23 17:56:09,569 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-23 17:56:11,745 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 17:56:11,747 - INFO - 成功获取到视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 17:56:15,609 - INFO - 
+开始获取频道 @huanyihe777 的最新视频...
+2024-12-23 17:56:15,609 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-23 17:56:17,517 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 17:56:17,519 - INFO - 成功获取到视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 17:56:20,721 - INFO - 
+开始获取频道 @mreflow 的最新视频...
+2024-12-23 17:56:20,721 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-23 17:56:22,541 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 17:56:22,543 - INFO - 成功获取到视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 17:56:26,028 - INFO - 
+开始获取频道 @linkingyourthinking 的最新视频...
+2024-12-23 17:56:26,028 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-23 17:56:27,904 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 17:56:27,907 - INFO - 成功获取到视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 17:56:31,520 - INFO - 
+开始获取频道 @hubermanlab 的最新视频...
+2024-12-23 17:56:31,520 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-23 17:56:33,676 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 17:56:33,677 - INFO - 成功获取到视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 17:56:38,135 - INFO - 
+开始获取频道 @casey 的最新视频...
+2024-12-23 17:56:38,135 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-23 17:56:39,864 - INFO - 已获取视频: DO HARD THINGS
+2024-12-23 17:56:39,865 - INFO - 成功获取到视频: DO HARD THINGS
+2024-12-23 17:56:44,031 - INFO - 
+开始获取频道 @JordanWelch 的最新视频...
+2024-12-23 17:56:44,031 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-23 17:56:45,842 - INFO - 已获取视频: pov: you make $50k/day chilling in LA
+2024-12-23 17:56:45,844 - INFO - 成功获取到视频: pov: you make $50k/day chilling in LA
+2024-12-23 17:56:49,949 - INFO - 
+开始获取频道 @TheMarketMemo 的最新视频...
+2024-12-23 17:56:49,949 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-23 17:56:51,668 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 17:56:51,671 - INFO - 成功获取到视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 17:56:55,147 - INFO - 
+开始获取频道 @marktilbury 的最新视频...
+2024-12-23 17:56:55,147 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-23 17:56:57,246 - INFO - 已获取视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 17:56:57,248 - INFO - 成功获取到视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 17:57:00,781 - INFO - 
+开始获取频道 @matthew_berman 的最新视频...
+2024-12-23 17:57:00,781 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-23 17:57:02,546 - INFO - 已获取视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 17:57:02,548 - INFO - 成功获取到视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 17:57:05,592 - INFO - 
+开始获取频道 @OurRichJourney 的最新视频...
+2024-12-23 17:57:05,592 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-23 17:57:06,939 - INFO - 已获取视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 17:57:06,940 - INFO - 成功获取到视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 17:57:11,549 - INFO - 
+开始获取频道 @timferriss 的最新视频...
+2024-12-23 17:57:11,549 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-23 17:57:13,007 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 17:57:13,010 - INFO - 成功获取到视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 17:57:17,611 - INFO - 
+开始获取频道 @WhatBitcoinDidPod 的最新视频...
+2024-12-23 17:57:17,611 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-23 17:57:19,035 - INFO - 已获取视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 17:57:19,038 - INFO - 成功获取到视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 17:57:22,319 - INFO - 
+开始获取频道 @ycombinator 的最新视频...
+2024-12-23 17:57:22,319 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-23 17:57:23,833 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 17:57:23,835 - INFO - 成功获取到视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 17:57:28,629 - INFO - 
+开始获取频道 @rileybrownai 的最新视频...
+2024-12-23 17:57:28,629 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-23 17:57:30,085 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 17:57:30,087 - INFO - 成功获取到视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 17:57:35,008 - INFO - 
+开始获取频道 @AIDiscovery2045 的最新视频...
+2024-12-23 17:57:35,008 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-23 17:57:36,500 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 17:57:36,502 - INFO - 成功获取到视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 17:57:41,189 - INFO - 
+开始获取频道 @realmckaywrigley 的最新视频...
+2024-12-23 17:57:41,189 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-23 17:57:42,516 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 17:57:42,518 - INFO - 成功获取到视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 17:57:46,269 - INFO - 
+开始获取频道 @AllAboutAI 的最新视频...
+2024-12-23 17:57:46,269 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-23 17:57:47,626 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 17:57:47,628 - INFO - 成功获取到视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 17:57:51,545 - INFO - 
+开始获取频道 @volobuilds 的最新视频...
+2024-12-23 17:57:51,545 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-23 17:57:52,799 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 17:57:52,800 - INFO - 成功获取到视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 17:57:57,283 - INFO - 
+开始获取频道 @VercelHQ 的最新视频...
+2024-12-23 17:57:57,283 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-23 17:57:58,933 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 17:57:58,935 - INFO - 成功获取到视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 17:58:03,326 - INFO - 
+开始获取频道 @ColeMedin 的最新视频...
+2024-12-23 17:58:03,326 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-23 17:58:07,257 - INFO - 已获取视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 17:58:07,259 - INFO - 成功获取到视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 17:58:11,061 - INFO - 
+开始获取频道 @GregIsenberg 的最新视频...
+2024-12-23 17:58:11,061 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-23 17:58:12,518 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 17:58:12,520 - INFO - 成功获取到视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 17:58:16,943 - INFO - 
+开始获取频道 @AIGCLINK 的最新视频...
+2024-12-23 17:58:16,943 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-23 17:58:19,431 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 17:58:19,432 - INFO - 成功获取到视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 17:58:22,537 - INFO - 
+开始获取频道 @lifeofwayne 的最新视频...
+2024-12-23 17:58:22,537 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-23 17:58:24,039 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 17:58:24,041 - INFO - 成功获取到视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 17:58:27,427 - INFO - 
+开始获取频道 @AlJasonZ 的最新视频...
+2024-12-23 17:58:27,427 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlJasonZ/videos
+2024-12-23 17:58:33,096 - ERROR - 频道不存在: @AlJasonZ
+2024-12-23 17:58:33,096 - WARNING - 未能获取到频道 @AlJasonZ 的视频信息
+2024-12-23 17:58:36,499 - INFO - 
+开始获取频道 @rasmic 的最新视频...
+2024-12-23 17:58:36,499 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-23 17:58:38,566 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 17:58:38,567 - INFO - 成功获取到视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 17:58:41,923 - INFO - 视频信息已保存到: data/videos_2024-12-23.json
+2024-12-23 17:58:43,250 - ERROR - 更新仪表板时出错: [Errno 2] No such file or directory: 'dashboard_template.html'
+2024-12-23 17:58:43,250 - ERROR - 运行爬虫时出错: [Errno 2] No such file or directory: 'dashboard_template.html'
+2024-12-23 17:58:43,250 - ERROR - 程序出错: [Errno 2] No such file or directory: 'dashboard_template.html'
+Traceback (most recent call last):
+  File "C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py", line 362, in main
+  File "C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py", line 317, in run_scraper
+  File "C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py", line 178, in update_dashboard
+FileNotFoundError: [Errno 2] No such file or directory: 'dashboard_template.html'
+2024-12-23 18:04:15,998 - INFO - ==================================================
+2024-12-23 18:04:15,998 - INFO - YouTube爬虫启动
+2024-12-23 18:04:15,998 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 18:04:15,998 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 18:04:15,999 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 18:04:15,999 - INFO - 开始执行第一次抓取...
+2024-12-23 18:04:16,000 - INFO - 
+开始获取频道 @xiao_lin_shuo 的最新视频...
+2024-12-23 18:04:16,000 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-23 18:04:17,979 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 18:04:17,981 - INFO - 成功获取到视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 18:04:21,425 - INFO - 
+开始获取频道 @MoneyXYZ 的最新视频...
+2024-12-23 18:04:21,425 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-23 18:04:23,290 - INFO - 已获取视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 18:04:23,292 - INFO - 成功获取到视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 18:04:26,331 - INFO - 
+开始获取频道 @nicolevdh 的最新视频...
+2024-12-23 18:04:26,331 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-23 18:04:28,229 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 18:04:28,231 - INFO - 成功获取到视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 18:04:31,706 - INFO - 
+开始获取频道 @TheVerge 的最新视频...
+2024-12-23 18:04:31,706 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-23 18:04:35,954 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 18:04:35,957 - INFO - 成功获取到视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 18:04:40,245 - INFO - 
+开始获取频道 @mkbhd 的最新视频...
+2024-12-23 18:04:40,245 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-23 18:04:41,714 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-23 18:04:41,715 - INFO - 成功获取到视频: Smartphone Awards 2024!
+2024-12-23 18:04:46,477 - INFO - 
+开始获取频道 @lexfridman 的最新视频...
+2024-12-23 18:04:46,477 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-23 18:04:47,977 - INFO - 已获取视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 18:04:47,979 - INFO - 成功获取到视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 18:04:52,500 - INFO - 
+开始获取频道 @AlexFinnOfficial 的最新视频...
+2024-12-23 18:04:52,500 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-23 18:04:54,020 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 18:04:54,022 - INFO - 成功获取到视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 18:04:57,833 - INFO - 
+开始获取频道 @huanyihe777 的最新视频...
+2024-12-23 18:04:57,833 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-23 18:04:59,585 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 18:04:59,587 - INFO - 成功获取到视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 18:05:02,656 - INFO - 
+开始获取频道 @mreflow 的最新视频...
+2024-12-23 18:05:02,656 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-23 18:05:04,107 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 18:05:04,108 - INFO - 成功获取到视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 18:05:07,875 - INFO - 
+开始获取频道 @linkingyourthinking 的最新视频...
+2024-12-23 18:05:07,875 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-23 18:05:09,356 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 18:05:09,358 - INFO - 成功获取到视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 18:05:13,925 - INFO - 
+开始获取频道 @hubermanlab 的最新视频...
+2024-12-23 18:05:13,925 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-23 18:05:15,397 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 18:05:15,399 - INFO - 成功获取到视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 18:05:19,797 - INFO - 
+开始获取频道 @casey 的最新视频...
+2024-12-23 18:05:19,797 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-23 18:05:21,244 - INFO - 已获取视频: DO HARD THINGS
+2024-12-23 18:05:21,245 - INFO - 成功获取到视频: DO HARD THINGS
+2024-12-23 18:05:24,749 - INFO - 
+开始获取频道 @JordanWelch 的最新视频...
+2024-12-23 18:05:24,749 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-23 18:05:26,181 - INFO - 已获取视频: pov: you make $50k/day chilling in LA
+2024-12-23 18:05:26,182 - INFO - 成功获取到视频: pov: you make $50k/day chilling in LA
+2024-12-23 18:05:30,086 - INFO - 
+开始获取频道 @TheMarketMemo 的最新视频...
+2024-12-23 18:05:30,086 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-23 18:05:31,509 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 18:05:31,510 - INFO - 成功获取到视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 18:05:34,672 - INFO - 
+开始获取频道 @marktilbury 的最新视频...
+2024-12-23 18:05:34,672 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-23 18:05:36,310 - INFO - 已获取视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 18:05:36,311 - INFO - 成功获取到视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 18:05:39,921 - INFO - 
+开始获取频道 @matthew_berman 的最新视频...
+2024-12-23 18:05:39,921 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-23 18:05:41,284 - INFO - 已获取视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 18:05:41,286 - INFO - 成功获取到视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 18:05:44,414 - INFO - 
+开始获取频道 @OurRichJourney 的最新视频...
+2024-12-23 18:05:44,414 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-23 18:05:46,065 - INFO - 已获取视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 18:05:46,068 - INFO - 成功获取到视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 18:05:50,541 - INFO - 
+开始获取频道 @timferriss 的最新视频...
+2024-12-23 18:05:50,541 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-23 18:05:52,340 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 18:05:52,342 - INFO - 成功获取到视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 18:05:56,077 - INFO - 
+开始获取频道 @WhatBitcoinDidPod 的最新视频...
+2024-12-23 18:05:56,077 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-23 18:05:57,531 - INFO - 已获取视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 18:05:57,533 - INFO - 成功获取到视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 18:06:02,359 - INFO - 
+开始获取频道 @ycombinator 的最新视频...
+2024-12-23 18:06:02,359 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-23 18:06:03,770 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 18:06:03,772 - INFO - 成功获取到视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 18:06:07,152 - INFO - 
+开始获取频道 @rileybrownai 的最新视频...
+2024-12-23 18:06:07,152 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-23 18:06:08,505 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 18:06:08,506 - INFO - 成功获取到视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 18:06:11,591 - INFO - 
+开始获取频道 @AIDiscovery2045 的最新视频...
+2024-12-23 18:06:11,591 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-23 18:06:12,884 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 18:06:12,886 - INFO - 成功获取到视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 18:06:16,315 - INFO - 
+开始获取频道 @realmckaywrigley 的最新视频...
+2024-12-23 18:06:16,315 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-23 18:06:17,719 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 18:06:17,720 - INFO - 成功获取到视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 18:06:22,217 - INFO - 
+开始获取频道 @AllAboutAI 的最新视频...
+2024-12-23 18:06:22,217 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-23 18:06:23,568 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 18:06:23,570 - INFO - 成功获取到视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 18:06:28,014 - INFO - 
+开始获取频道 @volobuilds 的最新视频...
+2024-12-23 18:06:28,014 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-23 18:06:29,547 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 18:06:29,548 - INFO - 成功获取到视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 18:06:34,166 - INFO - 
+开始获取频道 @VercelHQ 的最新视频...
+2024-12-23 18:06:34,166 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-23 18:06:35,573 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 18:06:35,574 - INFO - 成功获取到视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 18:06:38,896 - INFO - 
+开始获取频道 @ColeMedin 的最新视频...
+2024-12-23 18:06:38,896 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-23 18:06:40,336 - INFO - 已获取视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 18:06:40,337 - INFO - 成功获取到视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 18:06:44,084 - INFO - 
+开始获取频道 @GregIsenberg 的最新视频...
+2024-12-23 18:06:44,084 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-23 18:06:45,520 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 18:06:45,522 - INFO - 成功获取到视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 18:06:48,867 - INFO - 
+开始获取频道 @AIGCLINK 的最新视频...
+2024-12-23 18:06:48,867 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-23 18:06:50,638 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 18:06:50,640 - INFO - 成功获取到视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 18:06:53,850 - INFO - 
+开始获取频道 @lifeofwayne 的最新视频...
+2024-12-23 18:06:53,850 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-23 18:06:55,735 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 18:06:55,737 - INFO - 成功获取到视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 18:07:00,026 - INFO - 
+开始获取频道 @rasmic 的最新视频...
+2024-12-23 18:07:00,026 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-23 18:07:01,921 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 18:07:01,923 - INFO - 成功获取到视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 18:07:05,512 - INFO - 视频信息已保存到: data/videos_2024-12-23.json
+2024-12-23 18:07:08,128 - INFO - 已下载缩略图: buonnaTgpLo
+2024-12-23 18:07:11,082 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 18:07:11,082 - INFO - 
+总计获取到 31 个新视频
+2024-12-23 18:07:11,082 - INFO - 进入定时任务循环...
+2024-12-23 18:12:15,260 - INFO - ==================================================
+2024-12-23 18:12:15,260 - INFO - YouTube爬虫启动
+2024-12-23 18:12:15,260 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 18:12:15,262 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 18:12:15,262 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 18:12:15,262 - INFO - 开始执行第一次抓取...
+2024-12-23 18:12:15,263 - INFO - 
+开始获取频道 @xiao_lin_shuo 的最新视频...
+2024-12-23 18:12:15,263 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-23 18:12:17,032 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 18:12:17,034 - INFO - 成功获取到视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 18:12:20,673 - INFO - 
+开始获取频道 @MoneyXYZ 的最新视频...
+2024-12-23 18:12:20,673 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-23 18:12:22,393 - INFO - 已获取视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 18:12:22,395 - INFO - 成功获取到视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 18:12:26,007 - INFO - 
+开始获取频道 @nicolevdh 的最新视频...
+2024-12-23 18:12:26,007 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-23 18:12:27,893 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 18:12:27,895 - INFO - 成功获取到视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 18:12:32,077 - INFO - 
+开始获取频道 @TheVerge 的最新视频...
+2024-12-23 18:12:32,077 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-23 18:12:35,379 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 18:12:35,381 - INFO - 成功获取到视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 18:12:40,338 - INFO - 
+开始获取频道 @mkbhd 的最新视频...
+2024-12-23 18:12:40,338 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-23 18:12:42,120 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-23 18:12:42,123 - INFO - 成功获取到视频: Smartphone Awards 2024!
+2024-12-23 18:12:45,152 - INFO - 
+开始获取频道 @lexfridman 的最新视频...
+2024-12-23 18:12:45,152 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-23 18:12:47,279 - INFO - 已获取视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 18:12:47,281 - INFO - 成功获取到视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 18:12:52,089 - INFO - 
+开始获取频道 @AlexFinnOfficial 的最新视频...
+2024-12-23 18:12:52,089 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-23 18:12:54,460 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 18:12:54,462 - INFO - 成功获取到视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 18:12:58,030 - INFO - 
+开始获取频道 @huanyihe777 的最新视频...
+2024-12-23 18:12:58,030 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-23 18:12:59,934 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 18:12:59,936 - INFO - 成功获取到视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 18:13:04,076 - INFO - 
+开始获取频道 @mreflow 的最新视频...
+2024-12-23 18:13:04,076 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-23 18:13:06,188 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 18:13:06,190 - INFO - 成功获取到视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 18:13:09,387 - INFO - 
+开始获取频道 @linkingyourthinking 的最新视频...
+2024-12-23 18:13:09,387 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-23 18:13:11,110 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 18:13:11,112 - INFO - 成功获取到视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 18:13:14,408 - INFO - 
+开始获取频道 @hubermanlab 的最新视频...
+2024-12-23 18:13:14,408 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-23 18:13:16,160 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 18:13:16,162 - INFO - 成功获取到视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 18:13:20,346 - INFO - 
+开始获取频道 @casey 的最新视频...
+2024-12-23 18:13:20,346 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-23 18:13:23,580 - INFO - 已获取视频: DO HARD THINGS
+2024-12-23 18:13:23,583 - INFO - 成功获取到视频: DO HARD THINGS
+2024-12-23 18:13:27,012 - INFO - 
+开始获取频道 @JordanWelch 的最新视频...
+2024-12-23 18:13:27,012 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-23 18:13:28,725 - INFO - 已获取视频: pov: you make $50k/day chilling in LA
+2024-12-23 18:13:28,727 - INFO - 成功获取到视频: pov: you make $50k/day chilling in LA
+2024-12-23 18:13:33,638 - INFO - 
+开始获取频道 @TheMarketMemo 的最新视频...
+2024-12-23 18:13:33,638 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-23 18:13:35,083 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 18:13:35,084 - INFO - 成功获取到视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 18:13:38,748 - INFO - 
+开始获取频道 @marktilbury 的最新视频...
+2024-12-23 18:13:38,748 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-23 18:13:40,706 - INFO - 已获取视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 18:13:40,708 - INFO - 成功获取到视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 18:13:44,693 - INFO - 
+开始获取频道 @matthew_berman 的最新视频...
+2024-12-23 18:13:44,693 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-23 18:13:47,231 - INFO - 已获取视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 18:13:47,232 - INFO - 成功获取到视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 18:13:52,161 - INFO - 
+开始获取频道 @OurRichJourney 的最新视频...
+2024-12-23 18:13:52,161 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-23 18:13:54,076 - INFO - 已获取视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 18:13:54,078 - INFO - 成功获取到视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 18:13:58,841 - INFO - 
+开始获取频道 @timferriss 的最新视频...
+2024-12-23 18:13:58,841 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-23 18:14:00,729 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 18:14:00,731 - INFO - 成功获取到视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 18:14:04,319 - INFO - 
+开始获取频道 @WhatBitcoinDidPod 的最新视频...
+2024-12-23 18:14:04,319 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-23 18:14:05,798 - INFO - 已获取视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 18:14:05,799 - INFO - 成功获取到视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 18:14:09,838 - INFO - 
+开始获取频道 @ycombinator 的最新视频...
+2024-12-23 18:14:09,838 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-23 18:14:11,560 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 18:14:11,562 - INFO - 成功获取到视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 18:14:16,394 - INFO - 
+开始获取频道 @rileybrownai 的最新视频...
+2024-12-23 18:14:16,394 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-23 18:14:17,724 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 18:14:17,725 - INFO - 成功获取到视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 18:14:21,682 - INFO - 
+开始获取频道 @AIDiscovery2045 的最新视频...
+2024-12-23 18:14:21,682 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-23 18:14:23,220 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 18:14:23,222 - INFO - 成功获取到视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 18:14:28,036 - INFO - 
+开始获取频道 @realmckaywrigley 的最新视频...
+2024-12-23 18:14:28,036 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-23 18:14:29,431 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 18:14:29,433 - INFO - 成功获取到视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 18:14:33,487 - INFO - 
+开始获取频道 @AllAboutAI 的最新视频...
+2024-12-23 18:14:33,487 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-23 18:14:34,936 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 18:14:34,938 - INFO - 成功获取到视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 18:14:39,107 - INFO - 
+开始获取频道 @volobuilds 的最新视频...
+2024-12-23 18:14:39,107 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-23 18:14:40,576 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 18:14:40,577 - INFO - 成功获取到视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 18:14:44,499 - INFO - 
+开始获取频道 @VercelHQ 的最新视频...
+2024-12-23 18:14:44,499 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-23 18:14:46,355 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 18:14:46,356 - INFO - 成功获取到视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 18:14:49,362 - INFO - 
+开始获取频道 @ColeMedin 的最新视频...
+2024-12-23 18:14:49,362 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-23 18:14:50,841 - INFO - 已获取视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 18:14:50,843 - INFO - 成功获取到视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 18:14:54,670 - INFO - 
+开始获取频道 @GregIsenberg 的最新视频...
+2024-12-23 18:14:54,670 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-23 18:14:56,242 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 18:14:56,245 - INFO - 成功获取到视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 18:15:00,147 - INFO - 
+开始获取频道 @AIGCLINK 的最新视频...
+2024-12-23 18:15:00,147 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-23 18:15:01,765 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 18:15:01,767 - INFO - 成功获取到视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 18:15:06,173 - INFO - 
+开始获取频道 @lifeofwayne 的最新视频...
+2024-12-23 18:15:06,173 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-23 18:15:07,940 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 18:15:07,941 - INFO - 成功获取到视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 18:15:11,657 - INFO - 
+开始获取频道 @rasmic 的最新视频...
+2024-12-23 18:15:11,657 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-23 18:15:13,291 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 18:15:13,292 - INFO - 成功获取到视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 18:15:17,322 - INFO - 视频信息已保存到: data/videos_2024-12-23.json
+2024-12-23 18:15:21,145 - INFO - 仪表板已更新到 GitHub Pages
+2024-12-23 18:15:21,145 - INFO - 
+🌐 访问 https://aoqing16.github.io/dashboard-demo/ 查看更新后的仪表板
+2024-12-23 18:15:21,145 - INFO - 
+总计获取到 31 个新视频
+2024-12-23 18:15:21,145 - INFO - 进入定时任务循环...
+2024-12-23 18:21:49,936 - INFO - ==================================================
+2024-12-23 18:21:49,936 - INFO - YouTube爬虫启动
+2024-12-23 18:21:49,936 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 18:21:49,936 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 18:21:49,936 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 18:21:49,936 - INFO - 开始执行第一次抓取...
+2024-12-23 18:21:49,937 - INFO - 
+开始获取频道 @xiao_lin_shuo 的最新视频...
+2024-12-23 18:21:49,938 - INFO - 
+开始获取频道 @MoneyXYZ 的最新视频...
+2024-12-23 18:21:49,938 - INFO - 
+开始获取频道 @nicolevdh 的最新视频...
+2024-12-23 18:21:49,938 - INFO - 
+开始获取频道 @TheVerge 的最新视频...
+2024-12-23 18:21:49,939 - INFO - 
+开始获取频道 @mkbhd 的最新视频...
+2024-12-23 18:21:49,939 - INFO - 
+开始获取频道 @lexfridman 的最新视频...
+2024-12-23 18:21:49,939 - INFO - 
+开始获取频道 @AlexFinnOfficial 的最新视频...
+2024-12-23 18:21:49,939 - INFO - 
+开始获取频道 @huanyihe777 的最新视频...
+2024-12-23 18:21:49,939 - INFO - 
+开始获取频道 @mreflow 的最新视频...
+2024-12-23 18:21:49,939 - INFO - 
+开始获取频道 @linkingyourthinking 的最新视频...
+2024-12-23 18:21:49,941 - INFO - 
+开始获取频道 @hubermanlab 的最新视频...
+2024-12-23 18:21:49,941 - INFO - 
+开始获取频道 @casey 的最新视频...
+2024-12-23 18:21:49,941 - INFO - 
+开始获取频道 @JordanWelch 的最新视频...
+2024-12-23 18:21:49,941 - INFO - 
+开始获取频道 @TheMarketMemo 的最新视频...
+2024-12-23 18:21:49,941 - INFO - 
+开始获取频道 @marktilbury 的最新视频...
+2024-12-23 18:21:49,941 - INFO - 
+开始获取频道 @matthew_berman 的最新视频...
+2024-12-23 18:21:49,941 - INFO - 
+开始获取频道 @OurRichJourney 的最新视频...
+2024-12-23 18:21:49,941 - INFO - 
+开始获取频道 @timferriss 的最新视频...
+2024-12-23 18:21:49,942 - INFO - 
+开始获取频道 @WhatBitcoinDidPod 的最新视频...
+2024-12-23 18:21:49,942 - INFO - 
+开始获取频道 @ycombinator 的最新视频...
+2024-12-23 18:21:49,942 - INFO - 
+开始获取频道 @rileybrownai 的最新视频...
+2024-12-23 18:21:49,942 - INFO - 
+开始获取频道 @AIDiscovery2045 的最新视频...
+2024-12-23 18:21:49,942 - INFO - 
+开始获取频道 @realmckaywrigley 的最新视频...
+2024-12-23 18:21:49,942 - INFO - 
+开始获取频道 @AllAboutAI 的最新视频...
+2024-12-23 18:21:49,942 - INFO - 
+开始获取频道 @volobuilds 的最新视频...
+2024-12-23 18:21:49,943 - INFO - 
+开始获取频道 @VercelHQ 的最新视频...
+2024-12-23 18:21:49,943 - INFO - 
+开始获取频道 @ColeMedin 的最新视频...
+2024-12-23 18:21:49,943 - INFO - 
+开始获取频道 @GregIsenberg 的最新视频...
+2024-12-23 18:21:49,943 - INFO - 
+开始获取频道 @AIGCLINK 的最新视频...
+2024-12-23 18:21:49,943 - INFO - 
+开始获取频道 @lifeofwayne 的最新视频...
+2024-12-23 18:21:49,943 - INFO - 
+开始获取频道 @rasmic 的最新视频...
+2024-12-23 18:21:49,943 - INFO - 
+开始获取频道 @AIJasonZ/videos 的最新视频...
+2024-12-23 18:23:36,376 - INFO - ==================================================
+2024-12-23 18:23:36,376 - INFO - YouTube爬虫启动
+2024-12-23 18:23:36,376 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 18:23:36,376 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 18:23:36,377 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 18:23:36,377 - INFO - 开始执行第一次抓取...
+2024-12-23 18:23:36,378 - INFO - 
+开始获取频道 @xiao_lin_shuo 的最新视频...
+2024-12-23 18:23:36,378 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-23 18:23:36,378 - INFO - 
+开始获取频道 @MoneyXYZ 的最新视频...
+2024-12-23 18:23:36,380 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-23 18:23:36,380 - INFO - 
+开始获取频道 @nicolevdh 的最新视频...
+2024-12-23 18:23:36,380 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-23 18:23:36,380 - INFO - 
+开始获取频道 @TheVerge 的最新视频...
+2024-12-23 18:23:36,381 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-23 18:23:36,381 - INFO - 
+开始获取频道 @mkbhd 的最新视频...
+2024-12-23 18:23:36,381 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-23 18:23:36,381 - INFO - 
+开始获取频道 @lexfridman 的最新视频...
+2024-12-23 18:23:36,381 - INFO - 
+开始获取频道 @AlexFinnOfficial 的最新视频...
+2024-12-23 18:23:36,381 - INFO - 
+开始获取频道 @huanyihe777 的最新视频...
+2024-12-23 18:23:36,381 - INFO - 
+开始获取频道 @mreflow 的最新视频...
+2024-12-23 18:23:36,382 - INFO - 
+开始获取频道 @linkingyourthinking 的最新视频...
+2024-12-23 18:23:36,382 - INFO - 
+开始获取频道 @hubermanlab 的最新视频...
+2024-12-23 18:23:36,382 - INFO - 
+开始获取频道 @casey 的最新视频...
+2024-12-23 18:23:36,382 - INFO - 
+开始获取频道 @JordanWelch 的最新视频...
+2024-12-23 18:23:36,382 - INFO - 
+开始获取频道 @TheMarketMemo 的最新视频...
+2024-12-23 18:23:36,382 - INFO - 
+开始获取频道 @marktilbury 的最新视频...
+2024-12-23 18:23:36,382 - INFO - 
+开始获取频道 @matthew_berman 的最新视频...
+2024-12-23 18:23:36,382 - INFO - 
+开始获取频道 @OurRichJourney 的最新视频...
+2024-12-23 18:23:36,382 - INFO - 
+开始获取频道 @timferriss 的最新视频...
+2024-12-23 18:23:36,383 - INFO - 
+开始获取频道 @WhatBitcoinDidPod 的最新视频...
+2024-12-23 18:23:36,383 - INFO - 
+开始获取频道 @ycombinator 的最新视频...
+2024-12-23 18:23:36,383 - INFO - 
+开始获取频道 @rileybrownai 的最新视频...
+2024-12-23 18:23:36,383 - INFO - 
+开始获取频道 @AIDiscovery2045 的最新视频...
+2024-12-23 18:23:36,383 - INFO - 
+开始获取频道 @realmckaywrigley 的最新视频...
+2024-12-23 18:23:36,383 - INFO - 
+开始获取频道 @AllAboutAI 的最新视频...
+2024-12-23 18:23:36,383 - INFO - 
+开始获取频道 @volobuilds 的最新视频...
+2024-12-23 18:23:36,383 - INFO - 
+开始获取频道 @VercelHQ 的最新视频...
+2024-12-23 18:23:36,383 - INFO - 
+开始获取频道 @ColeMedin 的最新视频...
+2024-12-23 18:23:36,383 - INFO - 
+开始获取频道 @GregIsenberg 的最新视频...
+2024-12-23 18:23:36,384 - INFO - 
+开始获取频道 @AIGCLINK 的最新视频...
+2024-12-23 18:23:36,384 - INFO - 
+开始获取频道 @lifeofwayne 的最新视频...
+2024-12-23 18:23:36,384 - INFO - 
+开始获取频道 @rasmic 的最新视频...
+2024-12-23 18:23:36,384 - INFO - 
+开始获取频道 @AIJasonZ/videos 的最新视频...
+2024-12-23 18:23:38,093 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 18:23:38,094 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-23 18:23:38,094 - INFO - 成功获取到视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 18:23:38,138 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 18:23:38,153 - INFO - 已获取视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 18:23:38,155 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-23 18:23:38,156 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-23 18:23:38,156 - INFO - 成功获取到视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 18:23:38,188 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-23 18:23:38,236 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-23 18:23:38,399 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 18:23:38,401 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-23 18:23:38,401 - INFO - 成功获取到视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 18:23:38,401 - INFO - 成功获取到视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 18:23:38,401 - INFO - 成功获取到视频: Smartphone Awards 2024!
+2024-12-23 18:23:39,501 - INFO - 已获取视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 18:23:39,502 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-23 18:23:39,502 - INFO - 成功获取到视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 18:23:39,628 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 18:23:39,630 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-23 18:23:39,670 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 18:23:39,681 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-23 18:23:39,681 - INFO - 成功获取到视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 18:23:39,681 - INFO - 成功获取到视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 18:23:39,793 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 18:23:39,795 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-23 18:23:39,938 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 18:23:39,940 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-23 18:23:39,940 - INFO - 成功获取到视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 18:23:39,940 - INFO - 成功获取到视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 18:23:41,128 - INFO - 已获取视频: pov: you make $50k/day chilling in LA
+2024-12-23 18:23:41,130 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-23 18:23:41,199 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 18:23:41,200 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-23 18:23:41,247 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 18:23:41,249 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-23 18:23:41,249 - INFO - 成功获取到视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 18:23:41,452 - INFO - 已获取视频: DO HARD THINGS
+2024-12-23 18:23:41,453 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-23 18:23:41,453 - INFO - 成功获取到视频: DO HARD THINGS
+2024-12-23 18:23:41,453 - INFO - 成功获取到视频: pov: you make $50k/day chilling in LA
+2024-12-23 18:23:41,454 - INFO - 成功获取到视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 18:23:41,522 - INFO - 已获取视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 18:23:41,525 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-23 18:23:41,525 - INFO - 成功获取到视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 18:23:42,634 - INFO - 已获取视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 18:23:42,635 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-23 18:23:42,635 - INFO - 成功获取到视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 18:23:42,707 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 18:23:42,710 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-23 18:23:42,802 - INFO - 已获取视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 18:23:42,803 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-23 18:23:42,946 - INFO - 已获取视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 18:23:42,947 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-23 18:23:42,948 - INFO - 成功获取到视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 18:23:42,948 - INFO - 成功获取到视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 18:23:42,948 - INFO - 成功获取到视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 18:23:43,006 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 18:23:43,007 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-23 18:23:43,007 - INFO - 成功获取到视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 18:23:44,235 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 18:23:44,237 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-23 18:23:44,405 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 18:23:44,407 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-23 18:23:44,468 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 18:23:44,470 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-23 18:23:44,470 - INFO - 成功获取到视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 18:23:44,470 - INFO - 成功获取到视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 18:23:44,531 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 18:23:44,533 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-23 18:23:44,586 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 18:23:44,588 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-23 18:23:44,588 - INFO - 成功获取到视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 18:23:44,589 - INFO - 成功获取到视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 18:23:44,604 - INFO - 成功获取到视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 18:23:45,612 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 18:23:45,613 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-23 18:23:45,613 - INFO - 成功获取到视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 18:23:45,828 - INFO - 已获取视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 18:23:45,830 - INFO - 成功获取到视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 18:23:45,970 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 18:23:46,058 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 18:23:46,236 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 18:23:46,237 - INFO - 成功获取到视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 18:23:46,237 - INFO - 成功获取到视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 18:23:46,237 - INFO - 成功获取到视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 18:23:46,941 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 18:23:46,943 - INFO - 成功获取到视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 18:23:51,446 - INFO - 成功获取到视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-23 18:23:51,447 - INFO - 视频信息已保存到: data/videos_2024-12-23.json
+2024-12-23 18:23:55,152 - INFO - Added 32 new videos to dashboard
+2024-12-23 18:23:55,152 - INFO - 
+总计获取到 32 个新视频
+2024-12-23 18:23:55,152 - INFO - 进入定时任务循环...
+2024-12-23 18:32:55,530 - INFO - ==================================================
+2024-12-23 18:32:55,531 - INFO - YouTube爬虫启动
+2024-12-23 18:32:55,531 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 18:32:55,531 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 18:32:55,531 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 18:32:55,531 - INFO - 开始执行第一次抓取...
+2024-12-23 18:32:55,533 - INFO - 
+开始获取频道 @xiao_lin_shuo 的最新视频...
+2024-12-23 18:32:55,533 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-23 18:32:55,533 - INFO - 
+开始获取频道 @MoneyXYZ 的最新视频...
+2024-12-23 18:32:55,533 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-23 18:32:55,534 - INFO - 
+开始获取频道 @nicolevdh 的最新视频...
+2024-12-23 18:32:55,534 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-23 18:32:55,534 - INFO - 
+开始获取频道 @TheVerge 的最新视频...
+2024-12-23 18:32:55,534 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-23 18:32:55,534 - INFO - 
+开始获取频道 @mkbhd 的最新视频...
+2024-12-23 18:32:55,535 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-23 18:32:55,535 - INFO - 
+开始获取频道 @lexfridman 的最新视频...
+2024-12-23 18:32:55,535 - INFO - 
+开始获取频道 @AlexFinnOfficial 的最新视频...
+2024-12-23 18:32:55,535 - INFO - 
+开始获取频道 @huanyihe777 的最新视频...
+2024-12-23 18:32:55,535 - INFO - 
+开始获取频道 @mreflow 的最新视频...
+2024-12-23 18:32:55,535 - INFO - 
+开始获取频道 @linkingyourthinking 的最新视频...
+2024-12-23 18:32:55,536 - INFO - 
+开始获取频道 @hubermanlab 的最新视频...
+2024-12-23 18:32:55,536 - INFO - 
+开始获取频道 @casey 的最新视频...
+2024-12-23 18:32:55,536 - INFO - 
+开始获取频道 @JordanWelch 的最新视频...
+2024-12-23 18:32:55,536 - INFO - 
+开始获取频道 @TheMarketMemo 的最新视频...
+2024-12-23 18:32:55,536 - INFO - 
+开始获取频道 @marktilbury 的最新视频...
+2024-12-23 18:32:55,536 - INFO - 
+开始获取频道 @matthew_berman 的最新视频...
+2024-12-23 18:32:55,536 - INFO - 
+开始获取频道 @OurRichJourney 的最新视频...
+2024-12-23 18:32:55,537 - INFO - 
+开始获取频道 @timferriss 的最新视频...
+2024-12-23 18:32:55,537 - INFO - 
+开始获取频道 @WhatBitcoinDidPod 的最新视频...
+2024-12-23 18:32:55,537 - INFO - 
+开始获取频道 @ycombinator 的最新视频...
+2024-12-23 18:32:55,537 - INFO - 
+开始获取频道 @rileybrownai 的最新视频...
+2024-12-23 18:32:55,537 - INFO - 
+开始获取频道 @AIDiscovery2045 的最新视频...
+2024-12-23 18:32:55,537 - INFO - 
+开始获取频道 @realmckaywrigley 的最新视频...
+2024-12-23 18:32:55,537 - INFO - 
+开始获取频道 @AllAboutAI 的最新视频...
+2024-12-23 18:32:55,537 - INFO - 
+开始获取频道 @volobuilds 的最新视频...
+2024-12-23 18:32:55,537 - INFO - 
+开始获取频道 @VercelHQ 的最新视频...
+2024-12-23 18:32:55,539 - INFO - 
+开始获取频道 @ColeMedin 的最新视频...
+2024-12-23 18:32:55,539 - INFO - 
+开始获取频道 @GregIsenberg 的最新视频...
+2024-12-23 18:32:55,539 - INFO - 
+开始获取频道 @AIGCLINK 的最新视频...
+2024-12-23 18:32:55,539 - INFO - 
+开始获取频道 @lifeofwayne 的最新视频...
+2024-12-23 18:32:55,539 - INFO - 
+开始获取频道 @rasmic 的最新视频...
+2024-12-23 18:32:55,539 - INFO - 
+开始获取频道 @AIJasonZ/videos 的最新视频...
+2024-12-23 18:32:57,537 - INFO - 已获取视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 18:32:57,540 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-23 18:32:57,607 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-23 18:32:57,610 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-23 18:32:57,657 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 18:32:57,659 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-23 18:32:57,781 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 18:32:57,784 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-23 18:32:57,964 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 18:32:57,965 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-23 18:32:57,965 - INFO - 成功获取到视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 18:32:57,966 - INFO - 成功获取到视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 18:32:57,966 - INFO - 成功获取到视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 18:32:57,999 - INFO - 成功获取到视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 18:32:58,010 - INFO - 成功获取到视频: Smartphone Awards 2024!
+2024-12-23 18:32:59,182 - INFO - 已获取视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 18:32:59,184 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-23 18:32:59,184 - INFO - 成功获取到视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 18:32:59,300 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 18:32:59,302 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-23 18:32:59,375 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 18:32:59,376 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-23 18:32:59,376 - INFO - 成功获取到视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 18:32:59,376 - INFO - 成功获取到视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 18:32:59,650 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 18:32:59,652 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-23 18:32:59,652 - INFO - 成功获取到视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 18:33:00,095 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 18:33:00,098 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-23 18:33:00,098 - INFO - 成功获取到视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 18:33:00,810 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 18:33:00,812 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-23 18:33:00,812 - INFO - 成功获取到视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 18:33:01,010 - INFO - 已获取视频: pov: you make $50k/day chilling in LA
+2024-12-23 18:33:01,012 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-23 18:33:01,070 - INFO - 已获取视频: DO HARD THINGS
+2024-12-23 18:33:01,071 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-23 18:33:01,071 - INFO - 成功获取到视频: DO HARD THINGS
+2024-12-23 18:33:01,073 - INFO - 成功获取到视频: pov: you make $50k/day chilling in LA
+2024-12-23 18:33:01,317 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 18:33:01,319 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-23 18:33:01,319 - INFO - 成功获取到视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 18:33:01,875 - INFO - 已获取视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 18:33:01,877 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-23 18:33:01,877 - INFO - 成功获取到视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 18:33:02,837 - INFO - 已获取视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 18:33:02,838 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-23 18:33:02,926 - INFO - 已获取视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 18:33:02,928 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-23 18:33:02,928 - INFO - 成功获取到视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 18:33:02,929 - INFO - 成功获取到视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 18:33:02,970 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 18:33:02,978 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-23 18:33:02,978 - INFO - 成功获取到视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 18:33:03,115 - INFO - 已获取视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 18:33:03,116 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-23 18:33:03,116 - INFO - 成功获取到视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 18:33:03,580 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 18:33:03,581 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-23 18:33:03,581 - INFO - 成功获取到视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 18:33:04,298 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 18:33:04,300 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-23 18:33:04,300 - INFO - 成功获取到视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 18:33:04,448 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 18:33:04,449 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-23 18:33:04,449 - INFO - 成功获取到视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 18:33:04,503 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 18:33:04,504 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-23 18:33:04,504 - INFO - 成功获取到视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 18:33:04,605 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 18:33:04,607 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-23 18:33:04,607 - INFO - 成功获取到视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 18:33:05,048 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 18:33:05,050 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-23 18:33:05,050 - INFO - 成功获取到视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 18:33:05,727 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 18:33:05,728 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-23 18:33:05,728 - INFO - 成功获取到视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 18:33:05,947 - INFO - 已获取视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 18:33:05,949 - INFO - 成功获取到视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 18:33:06,018 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 18:33:06,020 - INFO - 成功获取到视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 18:33:06,053 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 18:33:06,055 - INFO - 成功获取到视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 18:33:06,498 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 18:33:06,500 - INFO - 成功获取到视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 18:33:07,083 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 18:33:07,084 - INFO - 成功获取到视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 18:33:10,858 - INFO - 成功获取到视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-23 18:33:10,861 - INFO - 视频信息已保存到: data/videos_2024-12-23.json
+2024-12-23 18:33:12,255 - INFO - 
+总计获取到 32 个新视频
+2024-12-23 18:33:12,255 - INFO - 进入定时任务循环...
+2024-12-23 18:35:48,356 - INFO - ==================================================
+2024-12-23 18:35:48,357 - INFO - YouTube爬虫启动
+2024-12-23 18:35:48,357 - INFO - 当前工作目录: C:\Users\ZhuanZ1
+2024-12-23 18:35:48,357 - INFO - 脚本位置: C:\Users\ZhuanZ1\CascadeProjects\youtube_scraper\youtube_scraper.py
+2024-12-23 18:35:48,357 - INFO - 定时任务已设置：每天早上8点运行
+2024-12-23 18:35:48,357 - INFO - 开始执行第一次抓取...
+2024-12-23 18:35:48,359 - INFO - 
+开始获取频道 @xiao_lin_shuo 的最新视频...
+2024-12-23 18:35:48,360 - INFO - 正在获取频道最新视频: https://www.youtube.com/@xiao_lin_shuo/videos
+2024-12-23 18:35:48,360 - INFO - 
+开始获取频道 @MoneyXYZ 的最新视频...
+2024-12-23 18:35:48,360 - INFO - 正在获取频道最新视频: https://www.youtube.com/@MoneyXYZ/videos
+2024-12-23 18:35:48,360 - INFO - 
+开始获取频道 @nicolevdh 的最新视频...
+2024-12-23 18:35:48,360 - INFO - 正在获取频道最新视频: https://www.youtube.com/@nicolevdh/videos
+2024-12-23 18:35:48,360 - INFO - 
+开始获取频道 @TheVerge 的最新视频...
+2024-12-23 18:35:48,361 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheVerge/videos
+2024-12-23 18:35:48,361 - INFO - 
+开始获取频道 @mkbhd 的最新视频...
+2024-12-23 18:35:48,361 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mkbhd/videos
+2024-12-23 18:35:48,361 - INFO - 
+开始获取频道 @lexfridman 的最新视频...
+2024-12-23 18:35:48,362 - INFO - 
+开始获取频道 @AlexFinnOfficial 的最新视频...
+2024-12-23 18:35:48,362 - INFO - 
+开始获取频道 @huanyihe777 的最新视频...
+2024-12-23 18:35:48,362 - INFO - 
+开始获取频道 @mreflow 的最新视频...
+2024-12-23 18:35:48,362 - INFO - 
+开始获取频道 @linkingyourthinking 的最新视频...
+2024-12-23 18:35:48,362 - INFO - 
+开始获取频道 @hubermanlab 的最新视频...
+2024-12-23 18:35:48,362 - INFO - 
+开始获取频道 @casey 的最新视频...
+2024-12-23 18:35:48,362 - INFO - 
+开始获取频道 @JordanWelch 的最新视频...
+2024-12-23 18:35:48,362 - INFO - 
+开始获取频道 @TheMarketMemo 的最新视频...
+2024-12-23 18:35:48,363 - INFO - 
+开始获取频道 @marktilbury 的最新视频...
+2024-12-23 18:35:48,363 - INFO - 
+开始获取频道 @matthew_berman 的最新视频...
+2024-12-23 18:35:48,363 - INFO - 
+开始获取频道 @OurRichJourney 的最新视频...
+2024-12-23 18:35:48,363 - INFO - 
+开始获取频道 @timferriss 的最新视频...
+2024-12-23 18:35:48,363 - INFO - 
+开始获取频道 @WhatBitcoinDidPod 的最新视频...
+2024-12-23 18:35:48,363 - INFO - 
+开始获取频道 @ycombinator 的最新视频...
+2024-12-23 18:35:48,363 - INFO - 
+开始获取频道 @rileybrownai 的最新视频...
+2024-12-23 18:35:48,363 - INFO - 
+开始获取频道 @AIDiscovery2045 的最新视频...
+2024-12-23 18:35:48,363 - INFO - 
+开始获取频道 @realmckaywrigley 的最新视频...
+2024-12-23 18:35:48,363 - INFO - 
+开始获取频道 @AllAboutAI 的最新视频...
+2024-12-23 18:35:48,363 - INFO - 
+开始获取频道 @volobuilds 的最新视频...
+2024-12-23 18:35:48,364 - INFO - 
+开始获取频道 @VercelHQ 的最新视频...
+2024-12-23 18:35:48,364 - INFO - 
+开始获取频道 @ColeMedin 的最新视频...
+2024-12-23 18:35:48,364 - INFO - 
+开始获取频道 @GregIsenberg 的最新视频...
+2024-12-23 18:35:48,365 - INFO - 
+开始获取频道 @AIGCLINK 的最新视频...
+2024-12-23 18:35:48,365 - INFO - 
+开始获取频道 @lifeofwayne 的最新视频...
+2024-12-23 18:35:48,365 - INFO - 
+开始获取频道 @rasmic 的最新视频...
+2024-12-23 18:35:48,365 - INFO - 
+开始获取频道 @AIJasonZ/videos 的最新视频...
+2024-12-23 18:35:50,064 - INFO - 已获取视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 18:35:50,065 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lexfridman/videos
+2024-12-23 18:35:50,065 - INFO - 成功获取到视频: 乐高到底靠什么赚了这么多钱?
+2024-12-23 18:35:50,111 - INFO - 已获取视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 18:35:50,113 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AlexFinnOfficial/videos
+2024-12-23 18:35:50,160 - INFO - 已获取视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 18:35:50,162 - INFO - 正在获取频道最新视频: https://www.youtube.com/@huanyihe777/videos
+2024-12-23 18:35:50,162 - INFO - 成功获取到视频: 得罪保险销售的视频: 为什么买保险不是投资?我买保险的原则是什么?
+2024-12-23 18:35:50,162 - INFO - 成功获取到视频: Connecting visual notes with Obsidian Excalidraw
+2024-12-23 18:35:50,354 - INFO - 已获取视频: Smartphone Awards 2024!
+2024-12-23 18:35:50,357 - INFO - 正在获取频道最新视频: https://www.youtube.com/@mreflow/videos
+2024-12-23 18:35:50,411 - INFO - 已获取视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 18:35:50,413 - INFO - 正在获取频道最新视频: https://www.youtube.com/@linkingyourthinking/videos
+2024-12-23 18:35:50,413 - INFO - 成功获取到视频: iOS 18 promises to fix iPhone repair. But does it?
+2024-12-23 18:35:50,413 - INFO - 成功获取到视频: Smartphone Awards 2024!
+2024-12-23 18:35:51,507 - INFO - 已获取视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 18:35:51,508 - INFO - 正在获取频道最新视频: https://www.youtube.com/@hubermanlab/videos
+2024-12-23 18:35:51,508 - INFO - 成功获取到视频: Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455
+2024-12-23 18:35:51,572 - INFO - 已获取视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 18:35:51,574 - INFO - 正在获取频道最新视频: https://www.youtube.com/@casey/videos
+2024-12-23 18:35:51,574 - INFO - 成功获取到视频: NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide
+2024-12-23 18:35:51,747 - INFO - 已获取视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 18:35:51,749 - INFO - 正在获取频道最新视频: https://www.youtube.com/@JordanWelch/videos
+2024-12-23 18:35:51,920 - INFO - 已获取视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 18:35:51,922 - INFO - 正在获取频道最新视频: https://www.youtube.com/@TheMarketMemo/videos
+2024-12-23 18:35:51,922 - INFO - 成功获取到视频: AI剪藏公众号文章，全自动总结、提炼、存进Obsidian
+2024-12-23 18:35:51,922 - INFO - 成功获取到视频: AI News: The AI SHOWDOWN We Needed!
+2024-12-23 18:35:52,075 - INFO - 已获取视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 18:35:52,076 - INFO - 正在获取频道最新视频: https://www.youtube.com/@marktilbury/videos
+2024-12-23 18:35:52,076 - INFO - 成功获取到视频: Get Your Ideas out of your Head and onto the Page!
+2024-12-23 18:35:52,872 - INFO - 已获取视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 18:35:52,873 - INFO - 正在获取频道最新视频: https://www.youtube.com/@matthew_berman/videos
+2024-12-23 18:35:52,874 - INFO - 成功获取到视频: How to Focus to Change Your Brain | Huberman Lab Essentials
+2024-12-23 18:35:53,031 - INFO - 已获取视频: DO HARD THINGS
+2024-12-23 18:35:53,033 - INFO - 正在获取频道最新视频: https://www.youtube.com/@OurRichJourney/videos
+2024-12-23 18:35:53,033 - INFO - 成功获取到视频: DO HARD THINGS
+2024-12-23 18:35:53,163 - INFO - 已获取视频: pov: you make $50k/day chilling in LA
+2024-12-23 18:35:53,165 - INFO - 正在获取频道最新视频: https://www.youtube.com/@timferriss/videos
+2024-12-23 18:35:53,166 - INFO - 成功获取到视频: pov: you make $50k/day chilling in LA
+2024-12-23 18:35:53,375 - INFO - 已获取视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 18:35:53,377 - INFO - 正在获取频道最新视频: https://www.youtube.com/@WhatBitcoinDidPod/videos
+2024-12-23 18:35:53,377 - INFO - 成功获取到视频: 最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？
+2024-12-23 18:35:53,754 - INFO - 已获取视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 18:35:53,756 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ycombinator/videos
+2024-12-23 18:35:53,756 - INFO - 成功获取到视频: Passive Income: How I Started Dropshipping From Scratch (STEP BY STEP)
+2024-12-23 18:35:54,318 - INFO - 已获取视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 18:35:54,320 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rileybrownai/videos
+2024-12-23 18:35:54,320 - INFO - 成功获取到视频: Anthropic just dropped an INSANE new paper…
+2024-12-23 18:35:54,566 - INFO - 已获取视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 18:35:54,568 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIDiscovery2045/videos
+2024-12-23 18:35:54,693 - INFO - 已获取视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 18:35:54,695 - INFO - 正在获取频道最新视频: https://www.youtube.com/@realmckaywrigley/videos
+2024-12-23 18:35:54,695 - INFO - 成功获取到视频: Before You Quit Your Job (Retire Early), Watch This.
+2024-12-23 18:35:54,696 - INFO - 成功获取到视频: Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)
+2024-12-23 18:35:55,064 - INFO - 已获取视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 18:35:55,066 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AllAboutAI/videos
+2024-12-23 18:35:55,066 - INFO - 成功获取到视频: BITCOIN & THE GLOBAL ECONOMIC REORDERING w/Matthew Pines
+2024-12-23 18:35:55,163 - INFO - 已获取视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 18:35:55,165 - INFO - 正在获取频道最新视频: https://www.youtube.com/@volobuilds/videos
+2024-12-23 18:35:55,165 - INFO - 成功获取到视频: How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+2024-12-23 18:35:55,697 - INFO - 已获取视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 18:35:55,699 - INFO - 正在获取频道最新视频: https://www.youtube.com/@VercelHQ/videos
+2024-12-23 18:35:55,699 - INFO - 成功获取到视频: You don’t need a degree, you need these 6 AI Learning Tools
+2024-12-23 18:35:56,149 - INFO - 已获取视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 18:35:56,150 - INFO - 正在获取频道最新视频: https://www.youtube.com/@ColeMedin/videos
+2024-12-23 18:35:56,292 - INFO - 已获取视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 18:35:56,294 - INFO - 正在获取频道最新视频: https://www.youtube.com/@GregIsenberg/videos
+2024-12-23 18:35:56,294 - INFO - 成功获取到视频: LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。
+2024-12-23 18:35:56,294 - INFO - 成功获取到视频: This OpenAI o1 pro coding workflow is insane...
+2024-12-23 18:35:56,540 - INFO - 已获取视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 18:35:56,541 - INFO - 正在获取频道最新视频: https://www.youtube.com/@AIGCLINK/videos
+2024-12-23 18:35:56,541 - INFO - 成功获取到视频: Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?
+2024-12-23 18:35:56,717 - INFO - 已获取视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 18:35:56,719 - INFO - 正在获取频道最新视频: https://www.youtube.com/@lifeofwayne/videos
+2024-12-23 18:35:56,719 - INFO - 成功获取到视频: I tried the "free" GitHub Copilot so you don't have to
+2024-12-23 18:35:57,067 - INFO - 已获取视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 18:35:57,068 - INFO - 正在获取频道最新视频: https://www.youtube.com/@rasmic/videos
+2024-12-23 18:35:57,068 - INFO - 成功获取到视频: Build a fullstack app in 7 minutes with v0 (Figma to code)
+2024-12-23 18:35:57,687 - INFO - 已获取视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 18:35:57,688 - INFO - 成功获取到视频: Revealing my COMPLETE AI Agent Blueprint
+2024-12-23 18:35:57,755 - INFO - 已获取视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 18:35:57,755 - INFO - 成功获取到视频: How to get 145k followers on LinkedIn in 1 year (it takes less than 1h/week)
+2024-12-23 18:35:58,139 - INFO - 已获取视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 18:35:58,317 - INFO - 已获取视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 18:35:58,319 - INFO - 成功获取到视频: Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用
+2024-12-23 18:35:58,319 - INFO - 成功获取到视频: 真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google
+2024-12-23 18:35:58,754 - INFO - 已获取视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 18:35:58,756 - INFO - 成功获取到视频: Hono Starter Kit - FAST & Lightweight Typescript Backend
+2024-12-23 18:36:02,631 - INFO - 成功获取到视频: EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)
+2024-12-23 18:36:02,633 - INFO - 视频信息已保存到: data/videos_2024-12-23.json
+2024-12-23 18:36:11,074 - INFO - Added 32 new videos to dashboard
+2024-12-23 18:36:11,074 - INFO - 
+总计获取到 32 个新视频
+2024-12-23 18:36:11,075 - INFO - 进入定时任务循环...
