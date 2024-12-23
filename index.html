@@ -91,8 +91,33 @@
             background-color: #1d4ed8;
         }
     </style>
-</head>
+
+            <script>
+            function filterByDate() {
+                const startDate = document.getElementById('startDate').value;
+                const endDate = document.getElementById('endDate').value;
+                
+                document.querySelectorAll('.content-card').forEach(card => {
+                    const timestamp = card.querySelector('.timestamp').textContent;
+                    const cardDate = new Date(timestamp);
+                    const start = startDate ? new Date(startDate) : new Date(0);
+                    const end = endDate ? new Date(endDate) : new Date('9999-12-31');
+                    
+                    if (cardDate >= start && cardDate <= end) {
+                        card.style.display = '';
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+            }
+            </script>
+            </head>
 <body>
+            <div class="date-filter" style="margin: 20px 0; text-align: center;">
+                <input type="date" id="startDate" onchange="filterByDate()" style="margin-right: 10px;">
+                <input type="date" id="endDate" onchange="filterByDate()" style="margin-left: 10px;">
+            </div>
+            
     <div class="container mx-auto px-4 py-8">
         <div class="filter-section rounded-lg shadow-sm">
             <h2 class="text-2xl font-bold mb-4">内容聚合仪表盘</h2>
@@ -110,7 +135,7 @@
                     <div class="platform-title">YouTube</div>
                 </div>
                 <div class="content-grid">
-                    <!-- YOUTUBE_CONTENT -->
+                    <div class="empty-message">暂无内容</div>
                 </div>
             </section>
 
@@ -121,7 +146,111 @@
                     <div class="platform-title">哔哩哔哩</div>
                 </div>
                 <div class="content-grid">
-                    <!-- BILIBILI_CONTENT -->
+                    
+                        <div class="content-card">
+                            <a href="https://www.bilibili.com/video/BV1K8rfYXE99/?spm_id_from=333.337.search-card.all.click&vd_source=4c13ec4ff8ee60af4b96aeadc5ced38a" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="images/20241223170632.jpg" alt="游戏产业背后的资本｜中国美国日本资本逻辑和格局有什么不同？">
+                                </div>
+                                <div class="video-info">
+                                    <h3>游戏产业背后的资本｜中国美国日本资本逻辑和格局有什么不同？</h3>
+                                    <div class="author">小Lin说</div>
+                                    <div class="timestamp">2024-12-23 17:06:32</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://www.bilibili.com/video/BV1em411f7pG?spm_id_from=333.788.player.switch&vd_source=4c13ec4ff8ee60af4b96aeadc5ced38a" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="images/20241223161356.jpg" alt="Mistral Large：欧洲大模型厂商mistral发布仅次于gpt-4的大模型，比谷歌的gemini pro、claude更强大，在欧洲本土语言更有优势_哔哩哔哩_bilibili">
+                                </div>
+                                <div class="video-info">
+                                    <h3>Mistral Large：欧洲大模型厂商mistral发布仅次于gpt-4的大模型，比谷歌的gemini pro、claude更强大，在欧洲本土语言更有优势_哔哩哔哩_bilibili</h3>
+                                    <div class="author">AIGCLINK</div>
+                                    <div class="timestamp">2024-12-23 16:13:56</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://www.bilibili.com/video/BV1BekwY2Eu8/?spm_id_from=333.999.0.0&vd_source=4c13ec4ff8ee60af4b96aeadc5ced38a" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://i0.hdslb.com/bfs/archive/ebc8da57053a8669a5caeb2b49bfdb44894bac6f.jpg@518w_290h_1c_!web-video-share-cover.avif" alt="Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等，走入新的范式转移：实操 1$实现AI音乐生成应用">
+                                </div>
+                                <div class="video-info">
+                                    <h3>Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等，走入新的范式转移：实操 1$实现AI音乐生成应用</h3>
+                                    <div class="author">AIGCLINK</div>
+                                    <div class="timestamp">2024-12-23 15:23:20</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://www.bilibili.com/video/BV1sx4y1k7B6/?spm_id_from=333.999.0.0&vd_source=4c13ec4ff8ee60af4b96aeadc5ced38a" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="//i2.hdslb.com/bfs/archive/f0fd30935ba2713bf0c8ad66ee7173243fc13efc.jpg@100w_100h_1c.png" alt="Gemini 1.5：Google发布Gemini1.5终结RAG知识库方案，支持100万上下文窗口，一次处理1小时视频、11小时音频、30k行代码、70万字等">
+                                </div>
+                                <div class="video-info">
+                                    <h3>Gemini 1.5：Google发布Gemini1.5终结RAG知识库方案，支持100万上下文窗口，一次处理1小时视频、11小时音频、30k行代码、70万字等</h3>
+                                    <div class="author">AIGCLINK</div>
+                                    <div class="timestamp">2024-12-23 15:21:42</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://www.bilibili.com/video/BV1d3BKYVE1h/?spm_id_from=333.999.0.0&vd_source=4c13ec4ff8ee60af4b96aeadc5ced38a" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="//i2.hdslb.com/bfs/archive/f07827a19e4c305e3d04596bfeb41a977aa74b30.jpg@100w_100h_1c.png" alt="Ten+Gemini：Gemini的多模态语音、视频理解能力本地化，广泛应用于智能眼镜、智能语音助手等各种场景，可以识别任何看到的场景并且语音回复">
+                                </div>
+                                <div class="video-info">
+                                    <h3>Ten+Gemini：Gemini的多模态语音、视频理解能力本地化，广泛应用于智能眼镜、智能语音助手等各种场景，可以识别任何看到的场景并且语音回复</h3>
+                                    <div class="author">AIGCLINK</div>
+                                    <div class="timestamp">2024-12-23 15:18:43</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://www.bilibili.com/video/BV1BekwY2Eu8/?spm_id_from=333.999.0.0&vd_source=4c13ec4ff8ee60af4b96aeadc5ced38a" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="//i0.hdslb.com/bfs/archive/ebc8da57053a8669a5caeb2b49bfdb44894bac6f.jpg@100w_100h_1c.png" alt="Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等，走入新的范式转移：实操 1$实现AI音乐生成应用">
+                                </div>
+                                <div class="video-info">
+                                    <h3>Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等，走入新的范式转移：实操 1$实现AI音乐生成应用</h3>
+                                    <div class="author">AIGCLINK</div>
+                                    <div class="timestamp">2024-12-23 15:17:10</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://www.bilibili.com/video/BV1BekwY2Eu8/?spm_id_from=333.999.0.0&vd_source=4c13ec4ff8ee60af4b96aeadc5ced38a" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="//i0.hdslb.com/bfs/archive/ebc8da57053a8669a5caeb2b49bfdb44894bac6f.jpg@100w_100h_1c.png" alt="Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等，走入新的范式转移：实操 1$实现AI音乐生成应用">
+                                </div>
+                                <div class="video-info">
+                                    <h3>Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等，走入新的范式转移：实操 1$实现AI音乐生成应用</h3>
+                                    <div class="author">Manual Upload</div>
+                                    <div class="timestamp">2024-12-23 14:27:00</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://www.bilibili.com/video/BV1ajqnYVE8w/?spm_id_from=333.999.0.0&vd_source=4c13ec4ff8ee60af4b96aeadc5ced38a" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://i1.hdslb.com/bfs/archive/f987de0e868cca45efa1001ed5d831a373a9b8dd.jpg@518w_290h_1c_!web-video-share-cover.avif" alt="真OpenAI之父 伊利亚传 上集｜Ilya Sutskever的传奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman">
+                                </div>
+                                <div class="video-info">
+                                    <h3>真OpenAI之父 伊利亚传 上集｜Ilya Sutskever的传奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman</h3>
+                                    <div class="author">Manual Upload</div>
+                                    <div class="timestamp">2024-12-23 13:52:43</div>
+                                </div>
+                            </a>
+                        </div>
+                        
                 </div>
             </section>
 
@@ -132,7 +261,228 @@
                     <div class="platform-title">X/Twitter</div>
                 </div>
                 <div class="content-grid">
-                    <!-- TWITTER_CONTENT -->
+                    
+                        <div class="content-card">
+                            <a href="https://x.com/AxtonLiu/status/1656630318923915265" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="images/axton_cover.jpg" alt="在 AI 世界里，我们需要时刻关注新闻、研究和博客。但是，我们怎么可能阅读所有内容呢？">
+                                </div>
+                                <div class="video-info">
+                                    <h3>在 AI 世界里，我们需要时刻关注新闻、研究和博客。但是，我们怎么可能阅读所有内容呢？</h3>
+                                    <div class="author">Axton</div>
+                                    <div class="timestamp">2024-12-23 17:04:50</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/AxtonLiu/status/1656630318923915265" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="images/axton_cover.jpg" alt="1656630318923915265">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1656630318923915265</h3>
+                                    <div class="author">Axton</div>
+                                    <div class="timestamp">2024-12-23 17:03:52</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/guizang/status/1871116849255260321" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="images/guizang_cover.jpg" alt="1871116849255260321">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1871116849255260321</h3>
+                                    <div class="author">歸藏(guizang.ai)</div>
+                                    <div class="timestamp">2024-12-23 17:01:51</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/op7418/status/1871116849255260321" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1871116849255260321">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1871116849255260321</h3>
+                                    <div class="author">@https:</div>
+                                    <div class="timestamp">2024-12-23 16:59:48</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/op7418/status/1871116849255260321" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1871116849255260321">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1871116849255260321</h3>
+                                    <div class="author">@https:</div>
+                                    <div class="timestamp">2024-12-23 16:59:02</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/AxtonLiu/status/1656630318923915265" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1656630318923915265">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1656630318923915265</h3>
+                                    <div class="author">@https:</div>
+                                    <div class="timestamp">2024-12-23 16:56:31</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/AxtonLiu/status/1656630318923915265" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1656630318923915265">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1656630318923915265</h3>
+                                    <div class="author">@https:</div>
+                                    <div class="timestamp">2024-12-23 16:55:49</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/AxtonLiu/status/1656630318923915265" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1656630318923915265">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1656630318923915265</h3>
+                                    <div class="author">@https:</div>
+                                    <div class="timestamp">2024-12-23 16:54:58</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/AxtonLiu/status/1656630318923915265" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1656630318923915265">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1656630318923915265</h3>
+                                    <div class="author">@https:</div>
+                                    <div class="timestamp">2024-12-23 16:51:28</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="🥳 IT WORKS: we now have a working dial up internet connection on a virtual Windows 3.11 computer running inside a browser over a virtual modem that talks via Websockets to a PPP daemon!https://x.com/AxtonLiu/status/1656630318923915265" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="在 AI 世界里，我们需要时刻关注新闻、研究和博客。但是，我们怎么可能阅读所有内容呢？">
+                                </div>
+                                <div class="video-info">
+                                    <h3>在 AI 世界里，我们需要时刻关注新闻、研究和博客。但是，我们怎么可能阅读所有内容呢？</h3>
+                                    <div class="author">@🥳 IT WORKS: we now have a working dial up internet connection on a virtual Windows 3.11 computer running inside a browser over a virtual modem that talks via Websockets to a PPP daemon!https:</div>
+                                    <div class="timestamp">2024-12-23 16:49:56</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/levelsio/status/1855359096444334315" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="MEGA update:">
+                                </div>
+                                <div class="video-info">
+                                    <h3>MEGA update:</h3>
+                                    <div class="author">@https:</div>
+                                    <div class="timestamp">2024-12-23 16:47:46</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/op7418/status/1871077088176038002" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1871077088176038002">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1871077088176038002</h3>
+                                    <div class="author">@https:</div>
+                                    <div class="timestamp">2024-12-23 15:43:29</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/op7418/status/1871077088176038002" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1871077088176038002">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1871077088176038002</h3>
+                                    <div class="author">@https:</div>
+                                    <div class="timestamp">2024-12-23 15:28:51</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/op7418/status/1871034110975873279" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1871034110975873279">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1871034110975873279</h3>
+                                    <div class="author">@https:</div>
+                                    <div class="timestamp">2024-12-23 14:37:46</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/op7418/status/1871034110975873279" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1871034110975873279">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1871034110975873279</h3>
+                                    <div class="author">Manual Upload</div>
+                                    <div class="timestamp">2024-12-23 14:29:52</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/op7418/status/1871077088176038002" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1871077088176038002">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1871077088176038002</h3>
+                                    <div class="author">Manual Upload</div>
+                                    <div class="timestamp">2024-12-23 14:28:45</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://x.com/op7418/status/1871077088176038002" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://pbs.twimg.com/card_img/1871077192177979392/aAxjFd3C?format=jpg&name=small" alt="1871077088176038002">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1871077088176038002</h3>
+                                    <div class="author">Manual Upload</div>
+                                    <div class="timestamp">2024-12-23 14:18:56</div>
+                                </div>
+                            </a>
+                        </div>
+                        
                 </div>
             </section>
 
@@ -143,7 +493,33 @@
                     <div class="platform-title">小红书</div>
                 </div>
                 <div class="content-grid">
-                    <!-- XIAOHONGSHU_CONTENT -->
+                    
+                        <div class="content-card">
+                            <a href="https://www.xiaohongshu.com/explore/67669ef8000000001402154d?xsec_token=ABQnVG_OCjpDhPpAJ8iE6J5w5CJJVhYhr9NuA7u71DZjo=&xsec_source=pc_user" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://ci.xiaohongshu.com/5b589f19-95d4-4e1b-8e68-5c0cf32b3934@r_750w_750h.jpg" alt="67669ef8000000001402154d?xsec token=ABQnVG OCjpDhPpAJ8iE6J5w5CJJVhYhr9NuA7u71DZjo=&xsec source=pc user">
+                                </div>
+                                <div class="video-info">
+                                    <h3>67669ef8000000001402154d?xsec token=ABQnVG OCjpDhPpAJ8iE6J5w5CJJVhYhr9NuA7u71DZjo=&xsec source=pc user</h3>
+                                    <div class="author">Unknown</div>
+                                    <div class="timestamp">2024-12-23 15:32:26</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://www.xiaohongshu.com/explore/67669ef8000000001402154d?xsec_token=ABQnVG_OCjpDhPpAJ8iE6J5w5CJJVhYhr9NuA7u71DZjo=&xsec_source=pc_user" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://ci.xiaohongshu.com/5b589f19-95d4-4e1b-8e68-5c0cf32b3934@r_750w_750h.jpg" alt="67669ef8000000001402154d?xsec token=ABQnVG OCjpDhPpAJ8iE6J5w5CJJVhYhr9NuA7u71DZjo=&xsec source=pc user">
+                                </div>
+                                <div class="video-info">
+                                    <h3>67669ef8000000001402154d?xsec token=ABQnVG OCjpDhPpAJ8iE6J5w5CJJVhYhr9NuA7u71DZjo=&xsec source=pc user</h3>
+                                    <div class="author">Unknown</div>
+                                    <div class="timestamp">2024-12-23 14:42:10</div>
+                                </div>
+                            </a>
+                        </div>
+                        
                 </div>
             </section>
 
@@ -154,7 +530,33 @@
                     <div class="platform-title">播客</div>
                 </div>
                 <div class="content-grid">
-                    <!-- PODCAST_CONTENT -->
+                    
+                        <div class="content-card">
+                            <a href="https://podcasts.apple.com/cn/podcast/vol-17-%E8%B0%81%E8%AF%B4%E8%BF%99%E4%BA%9B%E8%AF%9D%E6%88%91%E4%BB%AC%E5%B0%B1%E8%AF%A5%E4%BF%A1%E5%95%A6-%E9%80%9A%E8%BF%87%E5%8F%8D%E9%A9%B3-%E5%BB%BA%E7%AB%8B%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/id1731784296?i=1000680626647" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://www.apple.com/v/podcasts/home/c/images/overview/hero_icon__c135x5gz14mu_large.png" alt="今天我想和大家聊聊，当我们再次使用这些词语的时候，如何能够突破社会共识的限制，从另一个视角去解读——尊重自己想法的同时，也尊重他人与我们在理解上存在差异，这样才能和世界更好地链接。">
+                                </div>
+                                <div class="video-info">
+                                    <h3>今天我想和大家聊聊，当我们再次使用这些词语的时候，如何能够突破社会共识的限制，从另一个视角去解读——尊重自己想法的同时，也尊重他人与我们在理解上存在差异，这样才能和世界更好地链接。</h3>
+                                    <div class="author">Unknown</div>
+                                    <div class="timestamp">2024-12-23 18:13:34</div>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="content-card">
+                            <a href="https://podcasts.apple.com/cn/podcast/vol-17-%E8%B0%81%E8%AF%B4%E8%BF%99%E4%BA%9B%E8%AF%9D%E6%88%91%E4%BB%AC%E5%B0%B1%E8%AF%A5%E4%BF%A1%E5%95%A6-%E9%80%9A%E8%BF%87%E5%8F%8D%E9%A9%B3-%E5%BB%BA%E7%AB%8B%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/id1731784296?i=1000680626647" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://www.apple.com/v/podcasts/home/c/images/overview/hero_icon__c135x5gz14mu_large.png" alt="17-%E8%B0%81%E8%AF%B4%E8%BF%99%E4%BA%9B%E8%AF%9D%E6%88%91%E4%BB%AC%E5%B0%B1%E8%AF%A5%E4%BF%A1%E5%95%A6-%E9%80%9A%E8%BF%87%E5%8F%8D%E9%A9%B3-%E5%BB%BA%E7%AB%8B%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/id1731784296">
+                                </div>
+                                <div class="video-info">
+                                    <h3>17-%E8%B0%81%E8%AF%B4%E8%BF%99%E4%BA%9B%E8%AF%9D%E6%88%91%E4%BB%AC%E5%B0%B1%E8%AF%A5%E4%BF%A1%E5%95%A6-%E9%80%9A%E8%BF%87%E5%8F%8D%E9%A9%B3-%E5%BB%BA%E7%AB%8B%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/id1731784296</h3>
+                                    <div class="author">Unknown</div>
+                                    <div class="timestamp">2024-12-23 15:11:04</div>
+                                </div>
+                            </a>
+                        </div>
+                        
                 </div>
             </section>
         </div>
