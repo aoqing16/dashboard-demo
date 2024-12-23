@@ -1,189 +1,671 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>内容聚合仪表盘</title>
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css" rel="stylesheet">
+    <title>内容聚合仪表板</title>
     <style>
         body {
-            background-color: #f3f4f6;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .dashboard {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .header p {
+            margin: 10px 0 0;
+            color: #666;
+            font-size: 14px;
+        }
+        .section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 30px 0 20px;
+            padding: 10px 20px;
+            background: linear-gradient(45deg, #00a1d6, #00b5e5);
+            color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: left;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .section-title::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            width: 30%;
+            background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.1));
+        }
+        
+        /* 各个部分的特定颜色 */
+        .section:nth-child(1) .section-title {
+            background: linear-gradient(45deg, #1da1f2, #1a91da);  /* Twitter蓝 */
+        }
+        
+        .section:nth-child(2) .section-title {
+            background: linear-gradient(45deg, #00a1d6, #00b5e5);  /* B站蓝 */
+        }
+        
+        .section:nth-child(3) .section-title {
+            background: linear-gradient(45deg, #ff0000, #ff4444);  /* YouTube红 */
         }
         .content-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 1.5rem;
-            padding: 1.5rem;
+            gap: 20px;
         }
+        /* 卡片样式 */
         .content-card {
-            background: white;
+            background: #1a1a1a;
             border-radius: 12px;
             overflow: hidden;
+            transition: transform 0.2s, box-shadow 0.2s;
+            height: 100%;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            transition: transform 0.2s;
+            border: 1px solid #333;
         }
+        
         .content-card:hover {
-            transform: translateY(-4px);
+            transform: translateY(-5px);
+            box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
         }
-        .thumbnail {
+        
+        .card-link {
+            display: block;
+            text-decoration: none;
+            color: inherit;
+            height: 100%;
+        }
+        
+        .thumbnail-container {
             position: relative;
-            padding-top: 56.25%;
+            width: 100%;
+            padding-top: 56.25%; /* 16:9 宽高比 */
+            border-radius: 12px 12px 0 0;
             overflow: hidden;
         }
-        .thumbnail img {
+        
+        .thumbnail {
             position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
             object-fit: cover;
+            border-radius: 12px 12px 0 0;
+            border-bottom: 1px solid #333;
         }
-        .content-info {
-            padding: 1rem;
-        }
-        .content-info h3 {
-            font-size: 1.1rem;
-            font-weight: 600;
-            margin-bottom: 0.5rem;
-            color: #1a1a1a;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-        .content-info a {
-            color: inherit;
-            text-decoration: none;
-        }
-        .channel-name {
-            color: #2563eb;
-            font-weight: 500;
-            margin-bottom: 0.25rem;
-        }
-        .meta {
-            color: #6b7280;
-            font-size: 0.875rem;
-        }
-        .filter-section {
-            background: white;
-            padding: 1rem;
-            margin-bottom: 1rem;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .date-picker {
-            padding: 0.5rem;
-            border: 1px solid #e5e7eb;
-            border-radius: 0.375rem;
-            margin-right: 1rem;
-        }
-        .filter-button {
-            background-color: #2563eb;
+        
+        .duration {
+            position: absolute;
+            bottom: 8px;
+            right: 8px;
+            background: rgba(0, 0, 0, 0.8);
             color: white;
-            padding: 0.5rem 1rem;
-            border-radius: 0.375rem;
-            border: none;
-            cursor: pointer;
-            transition: background-color 0.2s;
+            padding: 2px 4px;
+            border-radius: 4px;
+            font-size: 12px;
         }
-        .filter-button:hover {
-            background-color: #1d4ed8;
+        
+        .video-info {
+            padding: 12px 16px;
+        }
+        
+        .stats {
+            display: flex;
+            gap: 8px;
+            color: #888;
+            font-size: 12px;
+            margin-top: 4px;
+        }
+        
+        .views, .upload-date {
+            color: #888;
+        }
+        
+        .content-card h3 {
+            margin: 16px;
+            font-size: 18px;
+            color: #ffffff;
+            line-height: 1.4;
+        }
+        
+        .content-card .author {
+            margin: 8px 16px;
+            color: #00a1d6;  /* B站蓝色 */
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        .content-card .time {
+            margin: 8px 16px;
+            color: #888;
+            font-size: 12px;
+        }
+        
+        .content-card .content {
+            margin: 8px 16px 16px;
+            color: #bbb;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        /* 移动端适配 */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            .header {
+                padding: 15px;
+                margin-bottom: 20px;
+            }
+            .header h1 {
+                font-size: 20px;
+            }
+            .section {
+                padding: 15px;
+                margin-bottom: 20px;
+            }
+            .section-title {
+                font-size: 18px;
+                margin-bottom: 15px;
+            }
+            .content-grid {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+            .thumbnail {
+                height: 200px;
+            }
+            .content-card h3 {
+                font-size: 15px;
+            }
+            .content-card .author, .content-card .content {
+                font-size: 13px;
+            }
+        }
+        /* 深色模式支持 */
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #1a1a1a;
+                color: #fff;
+            }
+            .header, .section, .content-card {
+                background: #2d2d2d;
+                border-color: #404040;
+            }
+            .content-card h3 {
+                color: #fff;
+            }
+            .content-card .author, .content-card .time {
+                color: #bbb;
+            }
+            .content-card .content {
+                color: #999;
+            }
+            .empty-message {
+                background: #2d2d2d;
+                color: #999;
+            }
+            .section-title {
+                border-bottom-color: #404040;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="container mx-auto px-4 py-8">
-        <div class="filter-section rounded-lg shadow-sm">
-            <h2 class="text-2xl font-bold mb-4">内容聚合仪表盘</h2>
-            <div class="flex items-center">
-                <input type="text" id="datePicker" class="date-picker" placeholder="选择日期">
-                <button id="filterButton" class="filter-button">筛选</button>
+    <div class="dashboard">
+        <div class="header">
+            <h1>内容聚合仪表板</h1>
+            <p>自动更新的YouTube视频聚合</p>
+        </div>
+        <div class="section">
+            <div class="section-title">YouTube 视频</div>
+            <div class="content-grid">
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=n7s5bWD4_mA" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/n7s5bWD4_mA/maxresdefault.jpg" alt="乐高到底靠什么赚了这么多钱?">
+                        </div>
+                        <div class="video-info">
+                            <h3>乐高到底靠什么赚了这么多钱?</h3>
+                            <div class="author">xiao_lin_shuo</div>
+                            <div class="timestamp">2024-12-21 14:02:09</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=45jFMosXWtA" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/45jFMosXWtA/maxresdefault.jpg" alt="學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?">
+                        </div>
+                        <div class="video-info">
+                            <h3>學會自私後, 我的人生開啟了反轉: 為什麼"自私"是"自救"的第一步?</h3>
+                            <div class="author">MoneyXYZ</div>
+                            <div class="timestamp">2024-12-21 14:02:15</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=lGh53N_Lj2Q" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/lGh53N_Lj2Q/maxresdefault.jpg" alt="Connecting visual notes with Obsidian Excalidraw">
+                        </div>
+                        <div class="video-info">
+                            <h3>Connecting visual notes with Obsidian Excalidraw</h3>
+                            <div class="author">nicolevdh</div>
+                            <div class="timestamp">2024-12-21 14:02:20</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=i2amPjZvijo" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/i2amPjZvijo/maxresdefault.jpg" alt="iOS 18 promises to fix iPhone repair. But does it?">
+                        </div>
+                        <div class="video-info">
+                            <h3>iOS 18 promises to fix iPhone repair. But does it?</h3>
+                            <div class="author">TheVerge</div>
+                            <div class="timestamp">2024-12-21 14:02:26</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=E76CUtSHMrU" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/E76CUtSHMrU/maxresdefault.jpg" alt="Smartphone Awards 2024!">
+                        </div>
+                        <div class="video-info">
+                            <h3>Smartphone Awards 2024!</h3>
+                            <div class="author">mkbhd</div>
+                            <div class="timestamp">2024-12-21 14:02:31</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=9xz8i90Hp2A" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/9xz8i90Hp2A/maxresdefault.jpg" alt="Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454">
+                        </div>
+                        <div class="video-info">
+                            <h3>Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics | Lex Fridman Podcast #454</h3>
+                            <div class="author">lexfridman</div>
+                            <div class="timestamp">2024-12-21 14:02:37</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=Y-_NZDQ2A4w" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/Y-_NZDQ2A4w/maxresdefault.jpg" alt="NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide">
+                        </div>
+                        <div class="video-info">
+                            <h3>NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide</h3>
+                            <div class="author">AlexFinnOfficial</div>
+                            <div class="timestamp">2024-12-21 14:02:40</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=NuSNW0AsJvI" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/NuSNW0AsJvI/maxresdefault.jpg" alt="AI剪藏公众号文章，全自动总结、提炼、存进Obsidian">
+                        </div>
+                        <div class="video-info">
+                            <h3>AI剪藏公众号文章，全自动总结、提炼、存进Obsidian</h3>
+                            <div class="author">huanyihe777</div>
+                            <div class="timestamp">2024-12-21 14:02:47</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=kIBV8G5KXlg" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/kIBV8G5KXlg/maxresdefault.jpg" alt="AI News: The AI SHOWDOWN We Needed!">
+                        </div>
+                        <div class="video-info">
+                            <h3>AI News: The AI SHOWDOWN We Needed!</h3>
+                            <div class="author">mreflow</div>
+                            <div class="timestamp">2024-12-21 14:02:53</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=NQkMTHKl1D8" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/NQkMTHKl1D8/maxresdefault.jpg" alt="Get Your Ideas out of your Head and onto the Page!">
+                        </div>
+                        <div class="video-info">
+                            <h3>Get Your Ideas out of your Head and onto the Page!</h3>
+                            <div class="author">linkingyourthinking</div>
+                            <div class="timestamp">2024-12-21 14:02:57</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=4AwyVTHEU3s" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/4AwyVTHEU3s/maxresdefault.jpg" alt="How to Focus to Change Your Brain | Huberman Lab Essentials">
+                        </div>
+                        <div class="video-info">
+                            <h3>How to Focus to Change Your Brain | Huberman Lab Essentials</h3>
+                            <div class="author">hubermanlab</div>
+                            <div class="timestamp">2024-12-21 14:03:02</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=StMltAX0mp0" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/StMltAX0mp0/maxresdefault.jpg" alt="DO HARD THINGS">
+                        </div>
+                        <div class="video-info">
+                            <h3>DO HARD THINGS</h3>
+                            <div class="author">casey</div>
+                            <div class="timestamp">2024-12-21 14:03:08</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=fp1nFLBdXs8" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/fp1nFLBdXs8/maxresdefault.jpg" alt="Beginners Guide To Dropshipping In 2025">
+                        </div>
+                        <div class="video-info">
+                            <h3>Beginners Guide To Dropshipping In 2025</h3>
+                            <div class="author">JordanWelch</div>
+                            <div class="timestamp">2024-12-21 14:03:14</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=R4VcrUMbNuI" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/R4VcrUMbNuI/maxresdefault.jpg" alt="最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？">
+                        </div>
+                        <div class="video-info">
+                            <h3>最佳長期投資策略：一次性投入與三種分期投入方式對比｜Lump Sum, DCA or Buy The Dip？</h3>
+                            <div class="author">TheMarketMemo</div>
+                            <div class="timestamp">2024-12-21 14:03:20</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=j08BweYFcxw" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/j08BweYFcxw/maxresdefault.jpg" alt="The 7 BEST Side Hustles To Start for Students (in 2025)">
+                        </div>
+                        <div class="video-info">
+                            <h3>The 7 BEST Side Hustles To Start for Students (in 2025)</h3>
+                            <div class="author">marktilbury</div>
+                            <div class="timestamp">2024-12-21 14:03:26</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=UWvebURU9Kk" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/UWvebURU9Kk/maxresdefault.jpg" alt="OpenAI Unveils o3! AGI ACHIEVED!">
+                        </div>
+                        <div class="video-info">
+                            <h3>OpenAI Unveils o3! AGI ACHIEVED!</h3>
+                            <div class="author">matthew_berman</div>
+                            <div class="timestamp">2024-12-21 14:03:30</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=Ymtp4uD6xsg" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/Ymtp4uD6xsg/maxresdefault.jpg" alt="Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!">
+                        </div>
+                        <div class="video-info">
+                            <h3>Is $5 Million Enough? Here’s How Much You REALLY Need to Retire Early!</h3>
+                            <div class="author">OurRichJourney</div>
+                            <div class="timestamp">2024-12-21 14:03:37</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=OjEdoOFWYQQ" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/OjEdoOFWYQQ/maxresdefault.jpg" alt="Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)">
+                        </div>
+                        <div class="video-info">
+                            <h3>Legendary Inventor Danny Hillis — Solving the Impossible (Plus Kevin Kelly)</h3>
+                            <div class="author">timferriss</div>
+                            <div class="timestamp">2024-12-21 14:03:41</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=3asNztCKdcQ" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/3asNztCKdcQ/maxresdefault.jpg" alt="STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock">
+                        </div>
+                        <div class="video-info">
+                            <h3>STRATEGIC BITCOIN RESERVE, NATION STATE ADOPTION & BITCOIN MINING w/ Harry Sudock</h3>
+                            <div class="author">WhatBitcoinDidPod</div>
+                            <div class="timestamp">2024-12-21 14:03:46</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=CcnwFJqEnxU" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/CcnwFJqEnxU/maxresdefault.jpg" alt="How David Lieb Turned a Failing Startup Into Google Photos | Backstory">
+                        </div>
+                        <div class="video-info">
+                            <h3>How David Lieb Turned a Failing Startup Into Google Photos | Backstory</h3>
+                            <div class="author">ycombinator</div>
+                            <div class="timestamp">2024-12-21 14:03:51</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=CPXWBnjLKJE" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/CPXWBnjLKJE/maxresdefault.jpg" alt="You don’t need a degree, you need these 6 AI Learning Tools">
+                        </div>
+                        <div class="video-info">
+                            <h3>You don’t need a degree, you need these 6 AI Learning Tools</h3>
+                            <div class="author">rileybrownai</div>
+                            <div class="timestamp">2024-12-21 14:03:55</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=BgPbcVP7NI0" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/BgPbcVP7NI0/maxresdefault.jpg" alt="LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。">
+                        </div>
+                        <div class="video-info">
+                            <h3>LivePortrait一张图生成表情视频，本地部署与免费使用教程，附Windows整合包下载。</h3>
+                            <div class="author">AIDiscovery2045</div>
+                            <div class="timestamp">2024-12-21 14:04:00</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=RLs-XUjmAfc" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/RLs-XUjmAfc/maxresdefault.jpg" alt="This OpenAI o1 pro coding workflow is insane...">
+                        </div>
+                        <div class="video-info">
+                            <h3>This OpenAI o1 pro coding workflow is insane...</h3>
+                            <div class="author">realmckaywrigley</div>
+                            <div class="timestamp">2024-12-21 14:04:05</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=wwC86t5k77Y" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/wwC86t5k77Y/maxresdefault.jpg" alt="Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?">
+                        </div>
+                        <div class="video-info">
+                            <h3>Coding With OpenAI-o1 in Cursor - Can We Replace Claude 3.5 Now?</h3>
+                            <div class="author">AllAboutAI</div>
+                            <div class="timestamp">2024-12-21 14:04:09</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=TCQloeJsMPE" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/TCQloeJsMPE/maxresdefault.jpg" alt="I tried the "free" GitHub Copilot so you don't have to">
+                        </div>
+                        <div class="video-info">
+                            <h3>I tried the "free" GitHub Copilot so you don't have to</h3>
+                            <div class="author">volobuilds</div>
+                            <div class="timestamp">2024-12-21 14:04:13</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=cyFVtaLy-bA" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/cyFVtaLy-bA/maxresdefault.jpg" alt="Build a fullstack app in 7 minutes with v0 (Figma to code)">
+                        </div>
+                        <div class="video-info">
+                            <h3>Build a fullstack app in 7 minutes with v0 (Figma to code)</h3>
+                            <div class="author">VercelHQ</div>
+                            <div class="timestamp">2024-12-21 14:04:17</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=buonnaTgpLo" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/buonnaTgpLo/maxresdefault.jpg" alt="Hono Starter Kit - FAST & Lightweight Typescript Backend">
+                        </div>
+                        <div class="video-info">
+                            <h3>Hono Starter Kit - FAST & Lightweight Typescript Backend</h3>
+                            <div class="author">rasmic</div>
+                            <div class="timestamp">2024-12-21 14:04:24</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=aZn8PhqUZVU" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/aZn8PhqUZVU/maxresdefault.jpg" alt="bolt.diy: The Future of Open Source AI Coding - What's Next?">
+                        </div>
+                        <div class="video-info">
+                            <h3>bolt.diy: The Future of Open Source AI Coding - What's Next?</h3>
+                            <div class="author">ColeMedin</div>
+                            <div class="timestamp">2024-12-21 14:04:30</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=yatoLm3J8Hk" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/yatoLm3J8Hk/maxresdefault.jpg" alt="How to get 145k followers on LinkedIn in 1 year">
+                        </div>
+                        <div class="video-info">
+                            <h3>How to get 145k followers on LinkedIn in 1 year</h3>
+                            <div class="author">GregIsenberg</div>
+                            <div class="timestamp">2024-12-21 14:04:34</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=jFl5Fewrieo" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/jFl5Fewrieo/maxresdefault.jpg" alt="EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)">
+                        </div>
+                        <div class="video-info">
+                            <h3>EASIEST Way to Train LLM Train w/ unsloth (2x faster with 70% less GPU memory required)</h3>
+                            <div class="author">AIJasonZ</div>
+                            <div class="timestamp">2024-12-21 14:04:38</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=M4fNpKhW9oo" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/M4fNpKhW9oo/maxresdefault.jpg" alt="Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用">
+                        </div>
+                        <div class="video-info">
+                            <h3>Cline+MCP：只用1.8$成功构建替代英语老师的发音纠正Agent，颠覆agent框架、coze等各种AI应用构建，走入新的范式转移：实操 1$实现AI音乐生成应用</h3>
+                            <div class="author">AIGCLINK</div>
+                            <div class="timestamp">2024-12-21 14:04:42</div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="content-card">
+                    <a href="https://www.youtube.com/watch?v=Jzr4IyzlM4s" target="_blank" class="card-link">
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="https://i.ytimg.com/vi/Jzr4IyzlM4s/maxresdefault.jpg" alt="真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google">
+                        </div>
+                        <div class="video-info">
+                            <h3>真OpenAI之父 伊利亞傳  上集｜Ilya Sutskever的傳奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman｜Geoffrey Hinton｜ChatGPT｜Google</h3>
+                            <div class="author">lifeofwayne</div>
+                            <div class="timestamp">2024-12-21 14:04:48</div>
+                        </div>
+                    </a>
+                </div>
+                
             </div>
         </div>
-        
-        <div class="content-grid" id="content-container">
-            <!-- YouTube Section -->
-            <section class="platform-section" id="youtube-section">
-                <div class="platform-header">
-                    <img src="https://www.youtube.com/favicon.ico" alt="YouTube" class="platform-icon">
-                    <div class="platform-title">YouTube</div>
-                </div>
-                <div class="content-grid">
-                    <!-- YOUTUBE_CONTENT -->
-                </div>
-            </section>
-
-            <!-- Bilibili Section -->
-            <section class="platform-section" id="bilibili-section">
-                <div class="platform-header">
-                    <img src="https://www.bilibili.com/favicon.ico" alt="Bilibili" class="platform-icon">
-                    <div class="platform-title">哔哩哔哩</div>
-                </div>
-                <div class="content-grid">
-                    <!-- BILIBILI_CONTENT -->
-                </div>
-            </section>
-
-            <!-- X/Twitter Section -->
-            <section class="platform-section" id="twitter-section">
-                <div class="platform-header">
-                    <img src="https://twitter.com/favicon.ico" alt="X" class="platform-icon">
-                    <div class="platform-title">X/Twitter</div>
-                </div>
-                <div class="content-grid">
-                    <!-- TWITTER_CONTENT -->
-                </div>
-            </section>
-
-            <!-- Xiaohongshu Section -->
-            <section class="platform-section" id="xiaohongshu-section">
-                <div class="platform-header">
-                    <img src="https://www.xiaohongshu.com/favicon.ico" alt="小红书" class="platform-icon">
-                    <div class="platform-title">小红书</div>
-                </div>
-                <div class="content-grid">
-                    <!-- XIAOHONGSHU_CONTENT -->
-                </div>
-            </section>
-
-            <!-- Podcast Section -->
-            <section class="platform-section" id="podcast-section">
-                <div class="platform-header">
-                    <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 1a9 9 0 0 1 9 9v7a3 3 0 0 1-3 3h-3v-2h3a1 1 0 0 0 1-1v-7a7 7 0 0 0-14 0v7a1 1 0 0 0 1 1h3v2H6a3 3 0 0 1-3-3v-7a9 9 0 0 1 9-9zm0 6a3 3 0 0 1 3 3v8a3 3 0 0 1-6 0v-8a3 3 0 0 1 3-3z'/></svg>" alt="播客" class="platform-icon">
-                    <div class="platform-title">播客</div>
-                </div>
-                <div class="content-grid">
-                    <!-- PODCAST_CONTENT -->
-                </div>
-            </section>
-        </div>
     </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
-    <script src="https://cdn.jsdelivr.net/npm/flatpickr/dist/l10n/zh.js"></script>
-    <script>
-        // 初始化日期选择器
-        flatpickr("#datePicker", {
-            locale: "zh",
-            dateFormat: "Y-m-d",
-            maxDate: "today",
-        });
-
-        // 筛选功能
-        document.getElementById('filterButton').addEventListener('click', function() {
-            const selectedDate = document.getElementById('datePicker').value;
-            const cards = document.querySelectorAll('.content-card');
-            
-            cards.forEach(card => {
-                const cardDate = card.getAttribute('data-date').split(' ')[0];
-                if (!selectedDate || cardDate === selectedDate) {
-                    card.style.display = 'block';
-                } else {
-                    card.style.display = 'none';
-                }
-            });
-        });
-    </script>
 </body>
 </html>
