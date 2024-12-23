@@ -116,8 +116,33 @@
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
     </style>
-</head>
+
+            <script>
+            function filterByDate() {
+                const startDate = document.getElementById('startDate').value;
+                const endDate = document.getElementById('endDate').value;
+                
+                document.querySelectorAll('.content-card').forEach(card => {
+                    const timestamp = card.querySelector('.timestamp').textContent;
+                    const cardDate = new Date(timestamp);
+                    const start = startDate ? new Date(startDate) : new Date(0);
+                    const end = endDate ? new Date(endDate) : new Date('9999-12-31');
+                    
+                    if (cardDate >= start && cardDate <= end) {
+                        card.style.display = '';
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+            }
+            </script>
+            </head>
 <body>
+            <div class="date-filter" style="margin: 20px 0; text-align: center;">
+                <input type="date" id="startDate" onchange="filterByDate()" style="margin-right: 10px;">
+                <input type="date" id="endDate" onchange="filterByDate()" style="margin-left: 10px;">
+            </div>
+            
     <div class="dashboard">
         <!-- YouTube Section -->
         <section class="platform-section" id="youtube-section">
@@ -227,6 +252,19 @@
             </div>
             <div class="content-grid">
                 
+                        <div class="content-card">
+                            <a href="https://x.com/op7418/status/1871077088176038002" target="_blank" class="card-link">
+                                <div class="thumbnail-container">
+                                    <img class="thumbnail" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="1871077088176038002">
+                                </div>
+                                <div class="video-info">
+                                    <h3>1871077088176038002</h3>
+                                    <div class="author">@https:</div>
+                                    <div class="timestamp">2024-12-23 15:43:29</div>
+                                </div>
+                            </a>
+                        </div>
+                        
                         <div class="content-card">
                             <a href="https://x.com/op7418/status/1871077088176038002" target="_blank" class="card-link">
                                 <div class="thumbnail-container">
