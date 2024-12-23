@@ -126,22 +126,7 @@
                 <div class="platform-title">YouTube</div>
             </div>
             <div class="content-grid">
-                {% if data.youtube %}
-                {% for video in data.youtube %}
-                <a href="{{ video.url }}" target="_blank" class="content-card">
-                    <div class="thumbnail-container">
-                        <img src="{{ video.thumbnail }}" alt="{{ video.title }}" class="thumbnail">
-                    </div>
-                    <div class="video-info">
-                        <h3>{{ video.title }}</h3>
-                        <div class="author">{{ video.get('channel', video.get('author', 'Unknown')) }}</div>
-                        <div class="timestamp">{{ video.get('time', '') }}</div>
-                    </div>
-                </a>
-                {% endfor %}
-                {% else %}
-                <div class="empty-message">未找到YouTube视频</div>
-                {% endif %}
+                <div class="empty-message">暂无内容</div>
             </div>
         </section>
 
@@ -152,22 +137,20 @@
                 <div class="platform-title">哔哩哔哩</div>
             </div>
             <div class="content-grid">
-                {% if data.bilibili %}
-                {% for video in data.bilibili %}
-                <a href="{{ video.url }}" target="_blank" class="content-card">
-                    <div class="thumbnail-container">
-                        <img src="{{ video.thumbnail }}" alt="{{ video.title }}" class="thumbnail">
-                    </div>
-                    <div class="video-info">
-                        <h3>{{ video.title }}</h3>
-                        <div class="author">{{ video.get('channel', video.get('author', 'Unknown')) }}</div>
-                        <div class="timestamp">{{ video.get('time', '') }}</div>
-                    </div>
-                </a>
-                {% endfor %}
-                {% else %}
-                <div class="empty-message">未找到Bilibili视频</div>
-                {% endif %}
+                
+                            <div class="content-card">
+                                <a href="https://www.bilibili.com/video/BV1ajqnYVE8w/?spm_id_from=333.999.0.0&vd_source=4c13ec4ff8ee60af4b96aeadc5ced38a" target="_blank" class="card-link">
+                                    <div class="thumbnail-container">
+                                        <img class="thumbnail" src="https://i1.hdslb.com/bfs/archive/f987de0e868cca45efa1001ed5d831a373a9b8dd.jpg@518w_290h_1c_!web-video-share-cover.avif" alt="真OpenAI之父 伊利亚传 上集｜Ilya Sutskever的传奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman">
+                                    </div>
+                                    <div class="video-info">
+                                        <h3>真OpenAI之父 伊利亚传 上集｜Ilya Sutskever的传奇人生｜Elon Musk最渴望招募的AI人才｜Sam Altman</h3>
+                                        <div class="author">Manual Upload</div>
+                                        <div class="timestamp">2024-12-23 13:52:43</div>
+                                    </div>
+                                </a>
+                            </div>
+                            
             </div>
         </section>
 
@@ -178,19 +161,7 @@
                 <div class="platform-title">Twitter/X</div>
             </div>
             <div class="content-grid">
-                {% if data.twitter %}
-                {% for tweet in data.twitter %}
-                <div class="content-card">
-                    <div class="video-info">
-                        <h3>{{ tweet.text }}</h3>
-                        <div class="author">{{ tweet.author }}</div>
-                        <div class="timestamp">{{ tweet.get('time', '') }}</div>
-                    </div>
-                </div>
-                {% endfor %}
-                {% else %}
-                <div class="empty-message">未找到推文</div>
-                {% endif %}
+                <div class="empty-message">暂无内容</div>
             </div>
         </section>
 
@@ -201,19 +172,7 @@
                 <div class="platform-title">小红书</div>
             </div>
             <div class="content-grid">
-                {% if data.xiaohongshu %}
-                {% for note in data.xiaohongshu %}
-                <div class="content-card">
-                    <div class="video-info">
-                        <h3>{{ note.title }}</h3>
-                        <div class="author">{{ note.author }}</div>
-                        <div class="timestamp">{{ note.get('time', '') }}</div>
-                    </div>
-                </div>
-                {% endfor %}
-                {% else %}
-                <div class="empty-message">未找到小红书笔记</div>
-                {% endif %}
+                <div class="empty-message">暂无内容</div>
             </div>
         </section>
 
@@ -224,19 +183,7 @@
                 <div class="platform-title">播客</div>
             </div>
             <div class="content-grid">
-                {% if data.podcast %}
-                {% for episode in data.podcast %}
-                <div class="content-card">
-                    <div class="video-info">
-                        <h3>{{ episode.title }}</h3>
-                        <div class="author">{{ episode.author }}</div>
-                        <div class="timestamp">{{ episode.get('time', '') }}</div>
-                    </div>
-                </div>
-                {% endfor %}
-                {% else %}
-                <div class="empty-message">未找到播客</div>
-                {% endif %}
+                <div class="empty-message">暂无内容</div>
             </div>
         </section>
     </div>
