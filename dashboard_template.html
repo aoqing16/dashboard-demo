@@ -126,22 +126,7 @@
                 <div class="platform-title">YouTube</div>
             </div>
             <div class="content-grid">
-                {% if data.youtube %}
-                {% for video in data.youtube %}
-                <a href="{{ video.url }}" target="_blank" class="content-card">
-                    <div class="thumbnail-container">
-                        <img src="{{ video.thumbnail }}" alt="{{ video.title }}" class="thumbnail">
-                    </div>
-                    <div class="video-info">
-                        <h3>{{ video.title }}</h3>
-                        <div class="author">{{ video.get('channel', video.get('author', 'Unknown')) }}</div>
-                        <div class="timestamp">{{ video.get('time', '') }}</div>
-                    </div>
-                </a>
-                {% endfor %}
-                {% else %}
-                <div class="empty-message">未找到YouTube视频</div>
-                {% endif %}
+                <!-- YOUTUBE_CONTENT -->
             </div>
         </section>
 
@@ -152,22 +137,7 @@
                 <div class="platform-title">哔哩哔哩</div>
             </div>
             <div class="content-grid">
-                {% if data.bilibili %}
-                {% for video in data.bilibili %}
-                <a href="{{ video.url }}" target="_blank" class="content-card">
-                    <div class="thumbnail-container">
-                        <img src="{{ video.thumbnail }}" alt="{{ video.title }}" class="thumbnail">
-                    </div>
-                    <div class="video-info">
-                        <h3>{{ video.title }}</h3>
-                        <div class="author">{{ video.get('channel', video.get('author', 'Unknown')) }}</div>
-                        <div class="timestamp">{{ video.get('time', '') }}</div>
-                    </div>
-                </a>
-                {% endfor %}
-                {% else %}
-                <div class="empty-message">未找到Bilibili视频</div>
-                {% endif %}
+                <!-- BILIBILI_CONTENT -->
             </div>
         </section>
 
@@ -178,19 +148,7 @@
                 <div class="platform-title">Twitter/X</div>
             </div>
             <div class="content-grid">
-                {% if data.twitter %}
-                {% for tweet in data.twitter %}
-                <div class="content-card">
-                    <div class="video-info">
-                        <h3>{{ tweet.text }}</h3>
-                        <div class="author">{{ tweet.author }}</div>
-                        <div class="timestamp">{{ tweet.get('time', '') }}</div>
-                    </div>
-                </div>
-                {% endfor %}
-                {% else %}
-                <div class="empty-message">未找到推文</div>
-                {% endif %}
+                <!-- TWITTER_CONTENT -->
             </div>
         </section>
 
@@ -201,19 +159,7 @@
                 <div class="platform-title">小红书</div>
             </div>
             <div class="content-grid">
-                {% if data.xiaohongshu %}
-                {% for note in data.xiaohongshu %}
-                <div class="content-card">
-                    <div class="video-info">
-                        <h3>{{ note.title }}</h3>
-                        <div class="author">{{ note.author }}</div>
-                        <div class="timestamp">{{ note.get('time', '') }}</div>
-                    </div>
-                </div>
-                {% endfor %}
-                {% else %}
-                <div class="empty-message">未找到小红书笔记</div>
-                {% endif %}
+                <!-- XIAOHONGSHU_CONTENT -->
             </div>
         </section>
 
@@ -224,19 +170,7 @@
                 <div class="platform-title">播客</div>
             </div>
             <div class="content-grid">
-                {% if data.podcast %}
-                {% for episode in data.podcast %}
-                <div class="content-card">
-                    <div class="video-info">
-                        <h3>{{ episode.title }}</h3>
-                        <div class="author">{{ episode.author }}</div>
-                        <div class="timestamp">{{ episode.get('time', '') }}</div>
-                    </div>
-                </div>
-                {% endfor %}
-                {% else %}
-                <div class="empty-message">未找到播客</div>
-                {% endif %}
+                <!-- PODCAST_CONTENT -->
             </div>
         </section>
     </div>
